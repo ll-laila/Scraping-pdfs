@@ -1,0 +1,1874 @@
+[
+    {
+        "model": "trivia.choice",
+        "pk": "1",
+        "fields": {
+            "choice": "A) A woman weighs the positive and negative\naspects of accepting a new job.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "2",
+        "fields": {
+            "choice": "B) A woman does not correct a stranger who\nmistakes her for someone else.",
+            "question": "1",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "3",
+        "fields": {
+            "choice": "C) A woman impersonates someone else to seek\nrevenge on an acquaintance.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "4",
+        "fields": {
+            "choice": "D) A woman takes an immediate dislike to her new\nemployer.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "5",
+        "fields": {
+            "choice": "A) slight movement.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "6",
+        "fields": {
+            "choice": "B) change in rotation.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "7",
+        "fields": {
+            "choice": "C) short walk.",
+            "question": "2",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "8",
+        "fields": {
+            "choice": "D) course correction.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "9",
+        "fields": {
+            "choice": "A) outspoken.",
+            "question": "3",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "10",
+        "fields": {
+            "choice": "B) tactful.",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "11",
+        "fields": {
+            "choice": "C) ambitious.",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "12",
+        "fields": {
+            "choice": "D) unfriendly.",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "13",
+        "fields": {
+            "choice": "A) Lines 10-14 (\u201cCertain . . . business\u201d)",
+            "question": "4",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "14",
+        "fields": {
+            "choice": "B) Lines 22-23 (\u201cIt is . . . lady\u201d)",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "15",
+        "fields": {
+            "choice": "C) Lines 23-26 (\u201cOn this . . . her\u201d)",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "16",
+        "fields": {
+            "choice": "D) Lines 30-32 (\u201cShe . . . train\u201d)",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "17",
+        "fields": {
+            "choice": "A) foreshadow her capacity for deception.",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "18",
+        "fields": {
+            "choice": "B) illustrate the subtle cruelty in her nature.",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "19",
+        "fields": {
+            "choice": "C) provide a humorous insight into her character.",
+            "question": "5",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "20",
+        "fields": {
+            "choice": "D) explain a surprising change in her behavior.",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "21",
+        "fields": {
+            "choice": "A) responsibility.",
+            "question": "6",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "22",
+        "fields": {
+            "choice": "B) attack.",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "23",
+        "fields": {
+            "choice": "C) fee.",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "24",
+        "fields": {
+            "choice": "D) expense.",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "25",
+        "fields": {
+            "choice": "A) similar to many of their peers.",
+            "question": "7",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "26",
+        "fields": {
+            "choice": "B) unusually creative and intelligent.",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "27",
+        "fields": {
+            "choice": "C) hostile to the idea of a governess.",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "28",
+        "fields": {
+            "choice": "D) more educated than others of their age.",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "29",
+        "fields": {
+            "choice": "A) traditional values.",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "30",
+        "fields": {
+            "choice": "B) active engagement.",
+            "question": "8",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "31",
+        "fields": {
+            "choice": "C) artistic experimentation.",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "32",
+        "fields": {
+            "choice": "D) factual retention.",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "33",
+        "fields": {
+            "choice": "A) superficially kind but actually selfish.",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "34",
+        "fields": {
+            "choice": "B) outwardly imposing but easily defied.",
+            "question": "9",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "35",
+        "fields": {
+            "choice": "C) socially successful but irrationally bitter.",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "36",
+        "fields": {
+            "choice": "D) naturally generous but frequently imprudent.",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "37",
+        "fields": {
+            "choice": "A) Lines 49-50 (\u201cHow . . . careless\u201d)",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "38",
+        "fields": {
+            "choice": "B) Lines 62-68 (\u201cI wish . . . memory\u201d)",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "39",
+        "fields": {
+            "choice": "C) Lines 70-73 (\u201cI shall . . . Russian\u201d)",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "40",
+        "fields": {
+            "choice": "D) Lines 77-82 (\u201cShe was . . . apologetic\u201d)",
+            "question": "10",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "41",
+        "fields": {
+            "choice": "A) It acknowledges that a practice favored by the\nauthor of the passage has some limitations.",
+            "question": "11",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "42",
+        "fields": {
+            "choice": "B) It illustrates with detail the arguments made in\nthe first two paragraphs of the passage.",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "43",
+        "fields": {
+            "choice": "C) It gives an overview of a problem that has not\nbeen sufficiently addressed by the experts\nmentioned in the passage.",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "44",
+        "fields": {
+            "choice": "D) It advocates for abandoning a practice for which\nthe passage as a whole provides mostly\nfavorable data.",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "45",
+        "fields": {
+            "choice": "A) Environmental impact",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "46",
+        "fields": {
+            "choice": "B) Convenience",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "47",
+        "fields": {
+            "choice": "C) Speed",
+            "question": "12",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "48",
+        "fields": {
+            "choice": "D) Cost",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "49",
+        "fields": {
+            "choice": "A) Lines 5-9 (\u201cIn . . . automobile\u201d)",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "50",
+        "fields": {
+            "choice": "B) Lines 20-24 (\u201cAnd . . . car\u201d)",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "51",
+        "fields": {
+            "choice": "C) Lines 24-26 (\u201cIn . . . experience\u201d)",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "52",
+        "fields": {
+            "choice": "D) Lines 32-34 (\u201cHopping . . . quickly\u201d)",
+            "question": "13",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "53",
+        "fields": {
+            "choice": "A) European countries excel at public\ntransportation.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "54",
+        "fields": {
+            "choice": "B) some public transportation systems are superior\nto travel by private automobile.",
+            "question": "14",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "55",
+        "fields": {
+            "choice": "C) Americans should mimic foreign public\ntransportation systems when possible.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "56",
+        "fields": {
+            "choice": "D) much international public transportation is\nengineered for passengers to work while on\nboard.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "57",
+        "fields": {
+            "choice": "A) Line 35 (\u201cIt . . . this\u201d)",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "58",
+        "fields": {
+            "choice": "B) Lines 35-37 (\u201cDone . . . automobile\u201d)",
+            "question": "15",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "59",
+        "fields": {
+            "choice": "C) Lines 37-40 (\u201cIn . . . sound\u201d)",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "60",
+        "fields": {
+            "choice": "D) Lines 44-48 (\u201cFrom . . . cities\u201d)",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "61",
+        "fields": {
+            "choice": "A) endow.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "62",
+        "fields": {
+            "choice": "B) attribute.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "63",
+        "fields": {
+            "choice": "C) believe.",
+            "question": "16",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "64",
+        "fields": {
+            "choice": "D) honor.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "65",
+        "fields": {
+            "choice": "A) indulge.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "66",
+        "fields": {
+            "choice": "B) prefer.",
+            "question": "17",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "67",
+        "fields": {
+            "choice": "C) resemble.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "68",
+        "fields": {
+            "choice": "D) serve.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "69",
+        "fields": {
+            "choice": "A) Lines 59-63 (\u201cThe . . . subways\u201d)",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "70",
+        "fields": {
+            "choice": "B) Lines 63-67 (\u201cPart . . . annoyances\u201d)",
+            "question": "18",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "71",
+        "fields": {
+            "choice": "C) Lines 68-70 (\u201cEven . . . ago\u201d)",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "72",
+        "fields": {
+            "choice": "D) Lines 77-81 (\u201cAlready . . . homes\u201d)",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "73",
+        "fields": {
+            "choice": "A) The number of students using public\ntransportation is greater than the number of\nretirees using public transportation.",
+            "question": "19",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "74",
+        "fields": {
+            "choice": "B) The number of employed people using public\ntransportation and the number of unemployed\npeople using public transportation is roughly\nthe same.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "75",
+        "fields": {
+            "choice": "C) People employed outside the home are less likely\nto use public transportation than are\nhomemakers.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "76",
+        "fields": {
+            "choice": "D) Unemployed people use public transportation\nless often than do people employed outside the\nhome.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "77",
+        "fields": {
+            "choice": "A) are employed outside the home and take public\ntransportation to work.",
+            "question": "20",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "78",
+        "fields": {
+            "choice": "B) are employed outside the home but take public\ntransportation primarily in order to run errands.",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "79",
+        "fields": {
+            "choice": "C) use public transportation during the week but\nuse their private cars on weekends.",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "80",
+        "fields": {
+            "choice": "D) use public transportation only until they are able\nto afford to buy a car.",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "81",
+        "fields": {
+            "choice": "A) An experiment is proposed but proves\nunworkable; a less ambitious experiment is\nattempted, and it yields data that give rise to a\nnew set of questions.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "82",
+        "fields": {
+            "choice": "B) A new discovery leads to reconsideration of a\ntheory; a classic study is adapted, and the results\nare summarized.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "83",
+        "fields": {
+            "choice": "C) An anomaly is observed and simulated\nexperimentally; the results are compared with\nprevious findings, and a novel hypothesis is\nproposed.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "84",
+        "fields": {
+            "choice": "D) An unexpected finding arises during the early\nphase of a study; the study is modified in\nresponse to this finding, and the results are\ninterpreted and evaluated.",
+            "question": "21",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "85",
+        "fields": {
+            "choice": "A) dared.",
+            "question": "22",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "86",
+        "fields": {
+            "choice": "B) required.",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "87",
+        "fields": {
+            "choice": "C) disputed with.",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "88",
+        "fields": {
+            "choice": "D) competed with.",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "89",
+        "fields": {
+            "choice": "A) The acquisition of flight in young birds sheds\nlight on the acquisition of flight in their\nevolutionary ancestors.",
+            "question": "23",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "90",
+        "fields": {
+            "choice": "B) The tendency of certain young birds to jump\nerratically is a somewhat recent evolved\nbehavior.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "91",
+        "fields": {
+            "choice": "C) Young birds in a controlled research setting are\nless likely than birds in the wild to require\nperches when at rest.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "92",
+        "fields": {
+            "choice": "D) Ground-dwelling and tree-climbing predecessors\nto birds evolved in parallel.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "93",
+        "fields": {
+            "choice": "A) Lines 1-4 (\u201cAt field . . . parents\u201d)",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "94",
+        "fields": {
+            "choice": "B) Lines 6-11 (\u201cSo when . . . fly\u201d)",
+            "question": "24",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "95",
+        "fields": {
+            "choice": "C) Lines 16-19 (\u201cWhen . . . measured\u201d)",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "96",
+        "fields": {
+            "choice": "D) Lines 23-24 (\u201cAt first . . . the ground\u201d)",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "97",
+        "fields": {
+            "choice": "A) reveal Ken Dial\u2019s motivation for undertaking his\nproject.",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "98",
+        "fields": {
+            "choice": "B) underscore certain differences between\nlaboratory and field research.",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "99",
+        "fields": {
+            "choice": "C) show how an unanticipated piece of information\ninfluenced Ken Dial\u2019s research.",
+            "question": "25",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "100",
+        "fields": {
+            "choice": "D) introduce a key contributor to the tree-down\ntheory.",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "101",
+        "fields": {
+            "choice": "A) tried to train the birds to fly to their perches.",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "102",
+        "fields": {
+            "choice": "B) studied videos to determine why the birds no\nlonger hopped.",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "103",
+        "fields": {
+            "choice": "C) observed how the birds dealt with gradually\nsteeper inclines.",
+            "question": "26",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "104",
+        "fields": {
+            "choice": "D) consulted with other researchers who had\nstudied Chukar Partridges.",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "105",
+        "fields": {
+            "choice": "A) The speed with which they climbed",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "106",
+        "fields": {
+            "choice": "B) The position of their flapping wings",
+            "question": "27",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "107",
+        "fields": {
+            "choice": "C) The alternation of wing and foot movement",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "108",
+        "fields": {
+            "choice": "D) Their continual hopping motions",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "109",
+        "fields": {
+            "choice": "A) portray.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "110",
+        "fields": {
+            "choice": "B) record.",
+            "question": "28",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "111",
+        "fields": {
+            "choice": "C) publish.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "112",
+        "fields": {
+            "choice": "D) process.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "113",
+        "fields": {
+            "choice": "A) Their young tend to hop along beside their\nparents instead of flying beside them.",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "114",
+        "fields": {
+            "choice": "B) Their method of locomotion is similar to that of\nground birds.",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "115",
+        "fields": {
+            "choice": "C) They use the ground for feeding more often than\nfor perching.",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "116",
+        "fields": {
+            "choice": "D) They do not use a flapping stroke to aid in\nclimbing slopes.",
+            "question": "29",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "117",
+        "fields": {
+            "choice": "A) Lines 4-6 (\u201cThey jumped . . . air\u201d)",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "118",
+        "fields": {
+            "choice": "B) Lines 28-29 (\u201cThey really . . . traveling\u201d)",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "119",
+        "fields": {
+            "choice": "C) Lines 57-59 (\u201cThe birds . . . slopes\u201d)",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "120",
+        "fields": {
+            "choice": "D) Lines 72-74 (\u201csomething . . . theory\u201d)",
+            "question": "30",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "121",
+        "fields": {
+            "choice": "A) average.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "122",
+        "fields": {
+            "choice": "B) shared.",
+            "question": "31",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "123",
+        "fields": {
+            "choice": "C) coarse.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "124",
+        "fields": {
+            "choice": "D) similar.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "125",
+        "fields": {
+            "choice": "A) are rewarding for men as well as for women.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "126",
+        "fields": {
+            "choice": "B) yield less value for society than do the roles\nperformed by men.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "127",
+        "fields": {
+            "choice": "C) entail very few activities that are difficult or\nunpleasant.",
+            "question": "32",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "128",
+        "fields": {
+            "choice": "D) require skills similar to those needed to run a\ncountry or a business.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "129",
+        "fields": {
+            "choice": "A) Lines 4-6 (\u201cthey are . . . representation\u201d)",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "130",
+        "fields": {
+            "choice": "B) Lines 13-17 (\u201cIf the . . . sanction\u201d)",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "131",
+        "fields": {
+            "choice": "C) Lines 25-30 (\u201cIs it . . . home\u201d)",
+            "question": "33",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "132",
+        "fields": {
+            "choice": "D) Lines 30-35 (\u201cAnd . . . manner\u201d)",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "133",
+        "fields": {
+            "choice": "A) enjoy personal happiness and financial security.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "134",
+        "fields": {
+            "choice": "B) follow all currently prescribed social rules.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "135",
+        "fields": {
+            "choice": "C) replace men as figures of power and authority.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "136",
+        "fields": {
+            "choice": "D) receive an education comparable to that of men.",
+            "question": "34",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "137",
+        "fields": {
+            "choice": "A) motive.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "138",
+        "fields": {
+            "choice": "B) sanity.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "139",
+        "fields": {
+            "choice": "C) intellect.",
+            "question": "35",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "140",
+        "fields": {
+            "choice": "D) explanation.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "141",
+        "fields": {
+            "choice": "A) privileged one gender over the other.",
+            "question": "36",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "142",
+        "fields": {
+            "choice": "B) resulted in a general reduction in individual\nvirtue.",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "143",
+        "fields": {
+            "choice": "C) caused arguments about the nature of happiness.",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "144",
+        "fields": {
+            "choice": "D) ensured equality for all people.",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "145",
+        "fields": {
+            "choice": "A) Lines 41-45 (\u201cContending . . . virtue\u201d)",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "146",
+        "fields": {
+            "choice": "B) Lines 45-47 (\u201ctruth . . . practice\u201d)",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "147",
+        "fields": {
+            "choice": "C) Lines 65-66 (\u201cIf so . . . rest\u201d)",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "148",
+        "fields": {
+            "choice": "D) Lines 72-78 (\u201cConsider . . . happiness\u201d)",
+            "question": "37",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "149",
+        "fields": {
+            "choice": "A) call into question the qualifications of the\nauthors of Passage 1 regarding gender issues.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "150",
+        "fields": {
+            "choice": "B) dispute the assertion made about women in the\nfirst sentence of Passage 1.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "151",
+        "fields": {
+            "choice": "C) develop her argument by highlighting what she\nsees as flawed reasoning in Passage 1.",
+            "question": "38",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "152",
+        "fields": {
+            "choice": "D) validate the concluding declarations made by the\nauthors of Passage 1 about gender roles.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "153",
+        "fields": {
+            "choice": "A) Passage 2 strongly challenges the point of view in\nPassage 1.",
+            "question": "39",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "154",
+        "fields": {
+            "choice": "B) Passage 2 draws alternative conclusions from the\nevidence presented in Passage 1.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "155",
+        "fields": {
+            "choice": "C) Passage 2 elaborates on the proposal presented\nin Passage 1.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "156",
+        "fields": {
+            "choice": "D) Passage 2 restates in different terms the\nargument presented in Passage 1.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "157",
+        "fields": {
+            "choice": "A) Their natural preferences were the same as those\nof men.",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "158",
+        "fields": {
+            "choice": "B) They needed a good education to be successful in\nsociety.",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "159",
+        "fields": {
+            "choice": "C) They were just as happy in life as men were.",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "160",
+        "fields": {
+            "choice": "D) They generally enjoyed fewer rights than\nmen did.",
+            "question": "40",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "161",
+        "fields": {
+            "choice": "A) Women are not naturally suited for the exercise\nof civil and political rights.",
+            "question": "41",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "162",
+        "fields": {
+            "choice": "B) Men and women possess similar degrees of\nreasoning ability.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "163",
+        "fields": {
+            "choice": "C) Women do not need to remain confined to their\ntraditional family duties.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "164",
+        "fields": {
+            "choice": "D) The principles of natural law should not be\ninvoked when considering gender roles.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "165",
+        "fields": {
+            "choice": "A) They create an optimistic tone that makes clear\nthe authors are hopeful about the effects of their\nresearch on colony collapse disorder.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "166",
+        "fields": {
+            "choice": "B) They create a dubious tone that makes clear the\nauthors do not have confidence in the usefulness\nof the research described.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "167",
+        "fields": {
+            "choice": "C) They create a tentative tone that makes clear the\nauthors suspect but do not know that their\nhypothesis is correct.",
+            "question": "42",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "168",
+        "fields": {
+            "choice": "D) They create a critical tone that makes clear the\nauthors are skeptical of claims that pyrethrums\nare inherent in mono-crops.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "169",
+        "fields": {
+            "choice": "A) Honeybees that are exposed to both pyrethrums\nand mites are likely to develop a secondary\ninfection by a virus, a bacterium, or a fungus.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "170",
+        "fields": {
+            "choice": "B) Beekeepers who feed their honeybee colonies a\ndiet of a single crop need to increase the use of\ninsecticides to prevent mite infestations.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "171",
+        "fields": {
+            "choice": "C) A honeybee diet that includes pyrethrums results\nin honeybee colonies that are more resistant to\nmite infestations.",
+            "question": "43",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "172",
+        "fields": {
+            "choice": "D) Humans are more susceptible to varroa mites as\na result of consuming nutritionally deficient\nfood crops.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "173",
+        "fields": {
+            "choice": "A) Lines 3-5 (\u201cThese mites . . . viruses\u201d)",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "174",
+        "fields": {
+            "choice": "B) Lines 16-18 (\u201cIn fact . . . cream\u201d)",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "175",
+        "fields": {
+            "choice": "C) Lines 19-21 (\u201cWe suspect . . . deficient\u201d)",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "176",
+        "fields": {
+            "choice": "D) Lines 24-28 (\u201cWithout . . . bees\u201d)",
+            "question": "44",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "177",
+        "fields": {
+            "choice": "A) They increase certain mite populations.",
+            "question": "45",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "178",
+        "fields": {
+            "choice": "B) They kill some beneficial forms of bacteria.",
+            "question": "45",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "179",
+        "fields": {
+            "choice": "C) They destroy bees\u2019 primary food source.",
+            "question": "45",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "180",
+        "fields": {
+            "choice": "D) They further harm the health of some bees.",
+            "question": "45",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "181",
+        "fields": {
+            "choice": "A) Lines 1-2 (\u201cHoney bees . . . mites\u201d)",
+            "question": "46",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "182",
+        "fields": {
+            "choice": "B) Lines 6-7 (\u201cLittle . . . control\u201d)",
+            "question": "46",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "183",
+        "fields": {
+            "choice": "C) Lines 31-35 (\u201cIn addition . . . infestation\u201d)",
+            "question": "46",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "184",
+        "fields": {
+            "choice": "D) Lines 47-50 (\u201cMites . . . control colonies\u201d)",
+            "question": "46",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "185",
+        "fields": {
+            "choice": "A) make an unfounded assumption.",
+            "question": "47",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "186",
+        "fields": {
+            "choice": "B) put forth an idea or claim.",
+            "question": "47",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "187",
+        "fields": {
+            "choice": "C) question a belief or theory.",
+            "question": "47",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "188",
+        "fields": {
+            "choice": "D) conclude based on firm evidence.",
+            "question": "47",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "189",
+        "fields": {
+            "choice": "A) summarize the results of an experiment that\nconfirmed the authors\u2019 hypothesis about the role\nof clover in the diets of wild-type honeybees.",
+            "question": "48",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "190",
+        "fields": {
+            "choice": "B) propose an experiment to investigate how\ndifferent diets affect commercial honeybee\ncolonies\u2019 susceptibility to mite infestations.",
+            "question": "48",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "191",
+        "fields": {
+            "choice": "C) provide a comparative nutritional analysis of the\nhoney produced by the experimental colonies\nand by the control colonies.",
+            "question": "48",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "192",
+        "fields": {
+            "choice": "D) predict the most likely outcome of an unfinished\nexperiment summarized in the third paragraph\n(lines 19-41).",
+            "question": "48",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "193",
+        "fields": {
+            "choice": "A) do not produce pyrethrums.",
+            "question": "49",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "194",
+        "fields": {
+            "choice": "B) are members of the Chrysanthemum genus.",
+            "question": "49",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "195",
+        "fields": {
+            "choice": "C) are usually located near wild-type honeybee\ncolonies.",
+            "question": "49",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "196",
+        "fields": {
+            "choice": "D) will not be a good food source for honeybees in\nthe control colonies.",
+            "question": "49",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "197",
+        "fields": {
+            "choice": "A) 0 percent",
+            "question": "50",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "198",
+        "fields": {
+            "choice": "B) 77 percent",
+            "question": "50",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "199",
+        "fields": {
+            "choice": "C) 83 percent",
+            "question": "50",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "200",
+        "fields": {
+            "choice": "D) 100 percent",
+            "question": "50",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "201",
+        "fields": {
+            "choice": "A) IAPV",
+            "question": "51",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "202",
+        "fields": {
+            "choice": "B) KBV",
+            "question": "51",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "203",
+        "fields": {
+            "choice": "C) Nosema apis",
+            "question": "51",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "204",
+        "fields": {
+            "choice": "D) Nosema ceranae",
+            "question": "51",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "205",
+        "fields": {
+            "choice": "A) Yes, because the data provide evidence that\ninfection with a pathogen caused the colonies to\nundergo colony collapse disorder.",
+            "question": "52",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "206",
+        "fields": {
+            "choice": "B) Yes, because for each pathogen, the percent of\ncolonies infected is greater for colonies with\ncolony collapse disorder than for colonies\nwithout colony collapse disorder.",
+            "question": "52",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "207",
+        "fields": {
+            "choice": "C) No, because the data do not provide evidence\nabout bacteria as a cause of colony collapse\ndisorder.",
+            "question": "52",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "208",
+        "fields": {
+            "choice": "D) No, because the data do not indicate whether the\nhoneybees had been infected with mites.",
+            "question": "52",
+            "is_correct": true
+        }
+    }
+]

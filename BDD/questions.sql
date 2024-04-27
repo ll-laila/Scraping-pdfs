@@ -1,0 +1,325 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Hôte : 127.0.0.1
+-- Généré le : jeu. 13 juil. 2023 à 15:23
+-- Version du serveur : 10.4.28-MariaDB
+-- Version de PHP : 8.0.28
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Base de données : `practice_test`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `questions`
+--
+
+CREATE TABLE `questions` (
+  `id` int(11) NOT NULL,
+  `question` longtext NOT NULL,
+  `type` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Déchargement des données de la table `questions`
+--
+
+INSERT INTO `questions` (`id`, `question`, `type`) VALUES
+(1, 'Which choice best summarizes the passage?', 'reading'),
+(2, 'In line 2, “turn” most nearly means', 'reading'),
+(3, 'The passage most clearly implies that other people\nregarded Lady Carlotta as', 'reading'),
+(4, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(5, 'The description of how Lady Carlotta “put the\ndoctrine of non-interference into practice”\n(lines 14-15) mainly serves to', 'reading'),
+(6, 'In line 55, “charge” most nearly means', 'reading'),
+(7, 'The narrator indicates that Claude, Wilfrid, Irene,\nand Viola are', 'reading'),
+(8, 'The narrator implies that Mrs. Quabarl favors a form\nof education that emphasizes', 'reading'),
+(9, 'As presented in the passage, Mrs. Quabarl is best\ndescribed as', 'reading'),
+(10, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(11, 'What function does the third paragraph (lines 20-34)\nserve in the passage as a whole?', 'reading'),
+(12, 'Which choice does the author explicitly cite as\nan advantage of automobile travel in North America?', 'reading'),
+(13, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(14, 'The central idea of the fourth paragraph (lines 35-57)\nis that', 'reading'),
+(15, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(16, 'As used in line 58, “credit” most nearly means', 'reading'),
+(17, 'As used in line 61, “favor” most nearly means', 'reading'),
+(18, 'Which choice best supports the conclusion that\npublic transportation is compatible with the use of\npersonal electronic devices?', 'reading'),
+(19, 'Which choice is supported by the data in the\nfirst figure?', 'reading'),
+(20, 'Taken together, the two figures suggest that most\npeople who use public transportation', 'reading'),
+(21, 'Which choice best reflects the overall sequence of\nevents in the passage?', 'reading'),
+(22, 'As used in line 7, “challenged” most nearly means', 'reading'),
+(23, 'Which statement best captures Ken Dial’s central\nassumption in setting up his research?', 'reading'),
+(24, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(25, 'In the second paragraph (lines 12-32), the incident\ninvolving the local rancher mainly serves to', 'reading'),
+(26, 'After Ken Dial had his “‘aha’ moment” (line 41), he', 'reading'),
+(27, 'The passage identifies which of the following as a\nfactor that facilitated the baby Chukars’ traction on\nsteep ramps?', 'reading'),
+(28, 'As used in line 61, “document” most nearly means', 'reading'),
+(29, 'What can reasonably be inferred about gliding\nanimals from the passage?', 'reading'),
+(30, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(31, 'As used in line 21, “common” most nearly means', 'reading'),
+(32, 'It can be inferred that the authors of Passage 1\nbelieve that running a household and raising\nchildren', 'reading'),
+(33, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(34, 'According to the author of Passage 2, in order for\nsociety to progress, women must', 'reading'),
+(35, 'As used in line 50, “reason” most nearly means', 'reading'),
+(36, 'In Passage 2, the author claims that freedoms granted\nby society’s leaders have', 'reading'),
+(37, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(38, 'In lines 61-65, the author of Passage 2 refers to a\nstatement made in Passage 1 in order to', 'reading'),
+(39, 'Which best describes the overall relationship\nbetween Passage 1 and Passage 2?', 'reading'),
+(40, 'The authors of both passages would most likely agree\nwith which of the following statements about women\nin the eighteenth century?', 'reading'),
+(41, 'How would the authors of Passage 1 most likely\nrespond to the points made in the final paragraph of\nPassage 2?', 'reading'),
+(42, 'How do the words “can,” “may,” and “could” in the\nthird paragraph (lines 19-41) help establish the tone\nof the paragraph?', 'reading'),
+(43, 'In line 42, the authors state that a certain hypothesis\n“can best be tested by a trial.” Based on the passage,\nwhich of the following is a hypothesis the authors\nsuggest be tested in a trial?', 'reading'),
+(44, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(45, 'The passage most strongly suggests that beekeepers’\nattempts to fight mite infestations with commercially\nproduced insecticides have what unintentional\neffect?', 'reading'),
+(46, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(47, 'As used in line 35, “postulate” most nearly means to', 'reading'),
+(48, 'The main purpose of the fourth paragraph\n(lines 42-50) is to', 'reading'),
+(49, 'An unstated assumption made by the authors about\nclover is that the plants', 'reading'),
+(50, 'Based on data in the table, in what percent of\ncolonies with colony collapse disorder were the\nhoneybees infected by all four pathogens?', 'reading'),
+(51, 'Based on data in the table, which of the four\npathogens infected the highest percentage of\nhoneybee colonies without colony collapse disorder?', 'reading'),
+(52, 'Do the data in the table provide support for the\nauthors’ claim that infection with varroa mites\nincreases a honeybee’s susceptibility to secondary\ninfections?', 'reading'),
+(53, 'Over the course of the passage, the primary focus\nshifts from', 'reading'),
+(54, 'The main purpose of the first paragraph is to', 'reading'),
+(55, 'It can reasonably be inferred that Irma, the waitress,\nthinks Lymie is “through eating” (line 37) because', 'reading'),
+(56, 'Lymie’s primary impression of the “party of four”\n(line 42) is that they', 'reading'),
+(57, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(58, 'The narrator indicates that Lymie finally closes the\nhistory book because', 'reading'),
+(59, 'The primary impression created by the narrator’s\ndescription of Mr. Peters in lines 74-79 is that he is', 'reading'),
+(60, 'The main idea of the last paragraph is that Mr. Peters', 'reading'),
+(61, 'Which choice best supports the conclusion that\nMr. Peters wants to attract attention?', 'reading'),
+(62, 'As used in line 93, “becoming” most nearly means', 'reading'),
+(63, 'In Passage 1, Beecher makes which point about the\nstatus of women relative to that of men?', 'reading'),
+(64, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(65, 'In Passage 1, Beecher implies that women’s effect on\npublic life is largely', 'reading'),
+(66, 'As used in line 2, “station” most nearly means', 'reading'),
+(67, 'As used in line 12, “peculiar” most nearly means', 'reading'),
+(68, 'What is Grimké’s central claim in Passage 2?', 'reading'),
+(69, 'In Passage 2, Grimké makes which point about\nhuman rights?', 'reading'),
+(70, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(71, 'Which choice best states the relationship between the\ntwo passages?', 'reading'),
+(72, 'Based on the passages, both authors would agree\nwith which of the following claims?', 'reading'),
+(73, 'Beecher would most likely have reacted to lines 65-68\n(“Now . . . woman”) of Passage 2 with', 'reading'),
+(74, 'As used in line 14, “simple” most nearly means', 'reading'),
+(75, 'According to the passage, a significant attribute of\nconventional agriculture is its ability to', 'reading'),
+(76, 'Which choice best reflects the perspective of the\n“environmentalists” (line 27) on conventional\nagriculture?', 'reading'),
+(77, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(78, 'Which statement best expresses a relationship\nbetween organic farming and conventional farming\nthat is presented in the passage?', 'reading'),
+(79, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(80, 'According to Foley, an “ideal global agriculture\nsystem” (line 80)', 'reading'),
+(81, 'In line 88, “sheer” most nearly means', 'reading'),
+(82, 'Which statement is best supported by the\ninformation provided in figure 1?', 'reading'),
+(83, 'Which of the following claims is supported by\nfigure 2?', 'reading'),
+(84, 'Over the course of the passage, the main focus shifts\nfrom a discussion of an experiment and its results to', 'reading'),
+(85, 'The author of the passage suggests that crowds may\nbe more effective at', 'reading'),
+(86, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(87, 'Which choice best supports the view of the “skeptics”\n(line 20)?', 'reading'),
+(88, 'Which action would best address a question Watts\nraises about the study?', 'reading'),
+(89, 'As used in line 85, “boost” most nearly means', 'reading'),
+(90, 'As used in line 86, “scale” most nearly means', 'reading'),
+(91, 'In the figure, which category of news has an\nartificially up-voted mean score of 2.5?', 'reading'),
+(92, 'According to the figure, which category of news\nshowed the smallest difference in mean score\nbetween artificially up-voted comments and control\ncomments?', 'reading'),
+(93, 'Data presented in the figure most directly support\nwhich idea from the passage?', 'reading'),
+(94, 'According to the passage, Maguire’s findings\nregarding taxi drivers are significant because they', 'reading'),
+(95, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(96, 'As used in line 24, “basic” most nearly means', 'reading'),
+(97, 'Which question was Maguire’s study of mental\nathletes primarily intended to answer?', 'reading'),
+(98, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(99, 'As used in line 39, “matched” most nearly means', 'reading'),
+(100, 'The main purpose of the fifth paragraph\n(lines 57-65) is to', 'reading'),
+(101, 'According to the passage, when compared to mental\nathletes, the individuals in the control group in\nMaguire’s second study', 'reading'),
+(102, 'The passage most strongly suggests that mental\nathletes are successful at memorization because they', 'reading'),
+(103, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(104, 'The questions in lines 74-78 primarily serve to', 'reading'),
+(105, 'The main purpose of the first paragraph is to', 'reading'),
+(106, 'As used in line 16, “kicks” most nearly means', 'reading'),
+(107, 'The author uses the image of an engineer at sea\n(lines 23-28) most likely to', 'reading'),
+(108, 'Which choice best supports the claim that Nawab \nperforms his duties for Harouni well?', 'reading'),
+(109, 'In the context of the conversation between Nawab\nand Harouni, Nawab’s comments in lines 43-52\n(“Sir . . . beg you”) mainly serve to', 'reading'),
+(110, 'Nawab uses the word “bridegroom” (line 62) mainly\nto emphasize that he’s no longer', 'reading'),
+(111, 'It can reasonably be inferred from the passage that\nHarouni provides Nawab with a motorcycle mainly\nbecause', 'reading'),
+(112, 'Which choice provides the best evidence for the \nanswer to the previous question?', 'reading'),
+(113, 'The passage states that the farm managers react to\nNawab receiving a motorcycle with', 'reading'),
+(114, 'According to the passage, what does Nawab consider\nto be the best result of getting the motorcycle?', 'reading'),
+(115, 'The main purpose of the passage is to', 'reading'),
+(116, 'According to the passage, which expectation do\ntraditional authorities now face?', 'reading'),
+(117, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(118, 'As used in line 24, “common” most nearly means', 'reading'),
+(119, 'The authors most likely include the extended\nquotations in lines 43-53 to', 'reading'),
+(120, 'The authors indicate that the public is coming to\nbelieve that journalists’ reports should avoid', 'reading'),
+(121, 'Which choice provides the best evidence for the \nanswer to the previous question?', 'reading'),
+(122, 'As used in line 74, “raw” most nearly means', 'reading'),
+(123, 'Based on the table, in which year were people the \nmost trusting of the news media?', 'reading'),
+(124, 'Which statement is best supported by information \npresented in the table?', 'reading'),
+(125, 'Te 2011 data in the table best serve as evidence of', 'reading'),
+(126, 'The primary purpose of the passage is to', 'reading'),
+(127, 'As presented in the passage, Theis and Adler’s\nresearch primarily relied on which type of evidence?', 'reading'),
+(128, 'Which statement about striped cucumber beetles can\nmost reasonably be inferred from the passage?', 'reading'),
+(129, 'The author indicates that it seems initially plausible\nthat Texas gourd plants could attract more\npollinators if they', 'reading'),
+(130, 'As used in line 38, “treated” most nearly means', 'reading'),
+(131, 'What did Theis and Adler do as part of their study\nthat most directly allowed Theis to reason that “bees\nwere repelled not by the fragrance itself”\n(lines 70-71)?', 'reading'),
+(132, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(133, 'The primary function of the seventh and eighth\nparagraphs (lines 65-84) is to', 'reading'),
+(134, 'In describing squash bees as “indifferent” (line 68),\nthe author most likely means that they', 'reading'),
+(135, 'According to the passage, Theis and Adler’s research\noffers an answer to which of the following questions?', 'reading'),
+(136, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(137, 'In Passage 1, Lincoln contends that breaking the law\nhas which consequence?', 'reading'),
+(138, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(139, 'As used in line 24, “urge” most nearly means', 'reading'),
+(140, 'The sentence in lines 24-28 (“When . . . made”)\nprimarily serves which function in Passage 1?', 'reading'),
+(141, 'As used in line 32, “observed” most nearly means', 'reading'),
+(142, 'In Passage 2, Thoreau indicates that some unjust\naspects of government are', 'reading'),
+(143, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(144, 'The primary purpose of each passage is to', 'reading'),
+(145, 'Based on the passages, Lincoln would most likely\ndescribe the behavior that Thoreau recommends in\nlines 64-66 (“if it . . . law”) as', 'reading'),
+(146, 'Based on the passages, one commonality in the\nstances Lincoln and Thoreau take toward\nabolitionism is that', 'reading'),
+(147, 'The passage is written from the point of view of a', 'reading'),
+(148, 'As used in line 4, “poor” most nearly means', 'reading'),
+(149, 'It can most reasonably be inferred from the passage\nthat many people in the solar panel industry believe\nthat', 'reading'),
+(150, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(151, 'According to the passage, two-sided solar panels will\nlikely raise efficiency by', 'reading'),
+(152, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(153, 'As used in line 69, “betting on” most nearly means', 'reading'),
+(154, 'The last sentence of the passage mainly serves to', 'reading'),
+(155, 'According to figure 1, in 2017, the cost of which of\nthe following fuels is projected to be closest to the\n2009 US average electricity cost shown in figure 2?', 'reading'),
+(156, 'According to figure 2, in what year is the average cost\nof solar photovoltaic power projected to be equal to\nthe 2009 US average electricity cost?', 'reading'),
+(157, 'Which choice best describes a major theme of the\npassage?', 'reading'),
+(158, 'As compared with Silas’s gold, Eppie is portrayed as\nhaving more', 'reading'),
+(159, 'Which statement best describes a technique the\nnarrator uses to represent Silas’s character before he\nadopted Eppie?', 'reading'),
+(160, 'The narrator uses the phrase “making trial of\neverything” (line 7) to present Eppie as', 'reading'),
+(161, 'According to the narrator, one consequence of Silas\nadopting Eppie is that he', 'reading'),
+(162, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(163, 'What function does the second paragraph\n(lines 30-52) serve in the passage as a whole?', 'reading'),
+(164, 'In describing the relationship between Eppie and\nSilas, the narrator draws a connection between\nEppie’s', 'reading'),
+(165, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(166, 'As used in line 65, “fine” most nearly means', 'reading'),
+(167, 'The main purpose of the passage is to', 'reading'),
+(168, 'According to Brynjolfsson and McAfee,\nadvancements in technology since approximately the\nyear 2000 have resulted in', 'reading'),
+(169, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(170, 'The primary purpose of lines 26-28 (“the amount . . .\nlabor”) is to', 'reading'),
+(171, 'As used in line 35, “clear” most nearly means', 'reading'),
+(172, 'Which of the following best characterizes Katz’s\nattitude toward “today’s digital technologies”\n(lines 81-82)?', 'reading'),
+(173, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(174, 'As used in line 83, “range” most nearly means', 'reading'),
+(175, 'According to figure 1, which of the following years\nshowed the widest gap between percentages of\nproductivity and employment?', 'reading'),
+(176, 'Which statement is supported by figure 2?', 'reading'),
+(177, 'Which additional information, if presented in\nfigure 2, would be most useful in evaluating the\nstatement in lines 57-60 (“Productivity . . . jobs”)?', 'reading'),
+(178, 'The main purpose of the passage is to', 'reading'),
+(179, 'The author includes the quotation “Air gets pretty\nunpredictable behind a flapping wing”\n(lines 17-18) to', 'reading'),
+(180, 'What can reasonably be inferred about the reason\nUsherwood used northern bald ibises as the subjects\nof his study?', 'reading'),
+(181, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(182, 'What is the most likely reason the author includes\nthe 30 cm measurement in line 30?', 'reading'),
+(183, 'What does the author imply about pelicans, storks,\nand geese flying in a V formation?', 'reading'),
+(184, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(185, 'What is a main idea of the seventh paragraph\n(lines 62-73)?', 'reading'),
+(186, 'The author uses the phrase “aerodynamic sweet spot”\nin line 63 most likely to', 'reading'),
+(187, 'As used in line 72, “ripple” most nearly means', 'reading'),
+(188, 'As used in line 9, “raise” most nearly means', 'reading'),
+(189, 'In Passage 1, Tocqueville implies that treatment of\nmen and women as identical in nature would have\nwhich consequence?', 'reading'),
+(190, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(191, 'As used in line 53, “dominion” most nearly means', 'reading'),
+(192, 'In Passage 2, Mill most strongly suggests that gender\nroles are resistant to change because they', 'reading'),
+(193, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(194, 'Both authors would most likely agree that the\nchanges in gender roles that they describe would be', 'reading'),
+(195, 'Tocqueville in Passage 1 would most likely\ncharacterize the position taken by Mill in lines 65-69\nin Passage 2 (“Let . . . them”) as', 'reading'),
+(196, 'Which choice best describes the ways that the\ntwo authors conceive of the individual’s proper\nposition in society?', 'reading'),
+(197, 'Based on Passage 2, Mill would most likely say that\nthe application of the “great principle of political\neconomy” (lines 38-39, Passage 1) to gender roles has\nwhich effect?', 'reading'),
+(198, 'Over the course of the passage, the main focus\nshifts from', 'reading'),
+(199, 'The main purpose of the analogy of the ping-pong\nball (line 40) is to', 'reading'),
+(200, 'The author most strongly suggests that the reason the\nscientific community initially rejected Higgs’s idea\nwas that the idea', 'reading'),
+(201, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(202, 'The author notes that one reason Higgs’s theory\ngained acceptance was that it', 'reading'),
+(203, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(204, 'Which statement best describes the technique the\nauthor uses to advance the main point of the last\nparagraph?', 'reading'),
+(205, 'As used in line 77, “established” most nearly means', 'reading'),
+(206, 'What purpose does the graph serve in relation to the\npassage as a whole?', 'reading'),
+(207, 'Which statement is best supported by the data\npresented in the graph?', 'reading'),
+(208, 'Based on the graph, the author’s depiction of Higgs’s\ntheory in the mid-1980s is most analogous to which\nhypothetical situation?', 'reading'),
+(209, 'Over the course of the passage, the main focus shifts\nfrom a', 'reading'),
+(210, 'The main purpose of lines 1-10 (“Even . . . awaited\nme”) is to', 'reading'),
+(211, 'With which of the following statements about his\nfather would the narrator most likely agree?', 'reading'),
+(212, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(213, 'It can reasonably be inferred from the passage that\nthe main reason that the narrator considers Great\nExpectations to be the best gift he ever received is\nbecause', 'reading'),
+(214, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(215, 'The narrator indicates that he pays Sempere', 'reading'),
+(216, 'As used in line 44, “weight” most nearly means', 'reading'),
+(217, 'The word “friend” is used twice in lines 57-58 to', 'reading'),
+(218, 'Which statement best characterizes the relationship\nbetween Sempere and Charles Dickens?', 'reading'),
+(219, 'The passage primarily serves to', 'reading'),
+(220, 'As used in line 21, “allows” most nearly means', 'reading'),
+(221, 'As used in line 43, “strength” most nearly means', 'reading'),
+(222, 'The passage indicates that a problem with failing to\ndocument null results is that', 'reading'),
+(223, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(224, 'Based on the passage, to which of the following\nhypothetical situations would Malhotra most\nstrongly object?', 'reading'),
+(225, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(226, 'The last paragraph serves mainly to', 'reading'),
+(227, 'According to the graph, social science studies\nyielding strong results were', 'reading'),
+(228, 'Which of the following statements is supported by\nthe graph?', 'reading'),
+(229, 'Which statement from the passage is most directly\nreflected by the data presented in the graph?', 'reading'),
+(230, 'One central idea of the passage is that', 'reading'),
+(231, 'Which choice best describes the overall structure of\nthe passage?', 'reading'),
+(232, 'Which choice provides the best evidence for the\nclaim that Moore’s group was surprised to observe\nsalt stretching?', 'reading'),
+(233, 'As used in line 20, “rule” most nearly means', 'reading'),
+(234, 'According to the passage, researchers have identified\nwhich mechanism as potentially responsible for the\ninitial attraction between the microscope tip and the\nsalt?', 'reading'),
+(235, 'As used in line 42, “lead to” most nearly means', 'reading'),
+(236, 'Based on the passage, which choice best describes the\nrelationship between salt behavior in the nanoworld\nand in the macroworld?', 'reading'),
+(237, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(238, 'According to the information in the graph, when the\nmicroscope tip is moving away from the salt surface\nand is 15 nanometers from the surface, what is the\napproximate force on the microscope tip, in\nmicronewtons?', 'reading'),
+(239, 'Based on the passage and the graph, which label on\nthe graph indicates the point at which a salt nanowire\nbreaks?', 'reading'),
+(240, 'In the first paragraph of Passage 1, the main purpose\nof Douglas’s discussion of the growth of the territory\nand population of the United States is to', 'reading'),
+(241, 'What does Passage 1 suggest about the US\ngovernment’s provisions for the institution of\nslavery, as framed in the Constitution?', 'reading'),
+(242, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(243, 'As used in line 67, “element” most nearly means', 'reading'),
+(244, 'Based on Passage 2, Lincoln would be most likely to\nagree with which claim about the controversy over\nslavery?', 'reading'),
+(245, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(246, 'As used in line 84, “nature” most nearly means', 'reading'),
+(247, 'Which choice identifies a central tension between the\ntwo passages?', 'reading'),
+(248, 'Both passages discuss the issue of slavery in\nrelationship to', 'reading'),
+(249, 'In the context of each passage as a whole, the\nquestions in lines 25-27 of Passage 1 and lines 67-69\nof Passage 2 primarily function to help each speaker', 'reading'),
+(250, 'The primary purpose of the passage is to', 'reading'),
+(251, 'Based on the passage, a significant advantage of the\nVenus flytrap’s requirement for multiple triggers is\nthat it', 'reading'),
+(252, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(253, 'The use of the phrases “dawdling insect” (line 6),\n“happily meanders” (line 27), and “unassuming bug’s\nencounter” (lines 28-29) in the first two paragraphs\nestablishes a tone that is', 'reading'),
+(254, 'In the second paragraph (lines 15-31), the discussion\nof short-term memory primarily functions to', 'reading'),
+(255, 'According to the passage, which statement best\nexplains why the Venus flytrap requires a second\ntrigger hair to be touched within a short amount of\ntime in order for its trap to close?', 'reading'),
+(256, 'Which choice describes a scenario in which Hodick\nand Sievers’s model predicts that a Venus flytrap will\nNOT close around an insect?', 'reading'),
+(257, 'As used in line 67, “demonstrated” most\nnearly means', 'reading'),
+(258, 'Based on the passage, what potential criticism might\nbe made of Volkov’s testing of Hodick and\nSievers’s model?', 'reading'),
+(259, 'Which choice provides the best evidence for the\nanswer to the previous question?', 'reading'),
+(260, 'Based on the passage, in studying the Venus flytrap,\nVolkov and his colleagues made the most extensive\nuse of which type of evidence?', 'reading');
+
+--
+-- Index pour les tables déchargées
+--
+
+--
+-- Index pour la table `questions`
+--
+ALTER TABLE `questions`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT pour les tables déchargées
+--
+
+--
+-- AUTO_INCREMENT pour la table `questions`
+--
+ALTER TABLE `questions`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=261;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

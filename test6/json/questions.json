@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.question",
+        "pk": "1",
+        "fields": {
+            "question": "The main purpose of the first paragraph is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "2",
+        "fields": {
+            "question": "As used in line 16, \u201ckicks\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "3",
+        "fields": {
+            "question": "The author uses the image of an engineer at sea\n(lines 23-28) most likely to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "4",
+        "fields": {
+            "question": "Which choice best supports the claim that Nawab \nperforms his duties for Harouni well?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "5",
+        "fields": {
+            "question": "In the context of the conversation between Nawab\nand Harouni, Nawab\u2019s comments in lines 43-52\n(\u201cSir . . . beg you\u201d) mainly serve to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "6",
+        "fields": {
+            "question": "Nawab uses the word \u201cbridegroom\u201d (line 62) mainly\nto emphasize that he\u2019s no longer",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "7",
+        "fields": {
+            "question": "It can reasonably be inferred from the passage that\nHarouni provides Nawab with a motorcycle mainly\nbecause",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "8",
+        "fields": {
+            "question": "Which choice provides the best evidence for the \nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "9",
+        "fields": {
+            "question": "The passage states that the farm managers react to\nNawab receiving a motorcycle with",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "10",
+        "fields": {
+            "question": "According to the passage, what does Nawab consider\nto be the best result of getting the motorcycle?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "11",
+        "fields": {
+            "question": "The main purpose of the passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "12",
+        "fields": {
+            "question": "According to the passage, which expectation do\ntraditional authorities now face?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "13",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "14",
+        "fields": {
+            "question": "As used in line 24, \u201ccommon\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "15",
+        "fields": {
+            "question": "The authors most likely include the extended\nquotations in lines 43-53 to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "16",
+        "fields": {
+            "question": "The authors indicate that the public is coming to\nbelieve that journalists\u2019 reports should avoid",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "17",
+        "fields": {
+            "question": "Which choice provides the best evidence for the \nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "18",
+        "fields": {
+            "question": "As used in line 74, \u201craw\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "19",
+        "fields": {
+            "question": "Based on the table, in which year were people the \nmost trusting of the news media?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "20",
+        "fields": {
+            "question": "Which statement is best supported by information \npresented in the table?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "21",
+        "fields": {
+            "question": "Te 2011 data in the table best serve as evidence of",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "22",
+        "fields": {
+            "question": "The primary purpose of the passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "23",
+        "fields": {
+            "question": "As presented in the passage, Theis and Adler\u2019s\nresearch primarily relied on which type of evidence?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "24",
+        "fields": {
+            "question": "Which statement about striped cucumber beetles can\nmost reasonably be inferred from the passage?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "25",
+        "fields": {
+            "question": "The author indicates that it seems initially plausible\nthat Texas gourd plants could attract more\npollinators if they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "26",
+        "fields": {
+            "question": "As used in line 38, \u201ctreated\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "27",
+        "fields": {
+            "question": "What did Theis and Adler do as part of their study\nthat most directly allowed Theis to reason that \u201cbees\nwere repelled not by the fragrance itself\u201d\n(lines 70-71)?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "28",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "29",
+        "fields": {
+            "question": "The primary function of the seventh and eighth\nparagraphs (lines 65-84) is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "30",
+        "fields": {
+            "question": "In describing squash bees as \u201cindifferent\u201d (line 68),\nthe author most likely means that they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "31",
+        "fields": {
+            "question": "According to the passage, Theis and Adler\u2019s research\noffers an answer to which of the following questions?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "32",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "33",
+        "fields": {
+            "question": "In Passage 1, Lincoln contends that breaking the law\nhas which consequence?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "34",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "35",
+        "fields": {
+            "question": "As used in line 24, \u201curge\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "36",
+        "fields": {
+            "question": "The sentence in lines 24-28 (\u201cWhen . . . made\u201d)\nprimarily serves which function in Passage 1?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "37",
+        "fields": {
+            "question": "As used in line 32, \u201cobserved\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "38",
+        "fields": {
+            "question": "In Passage 2, Thoreau indicates that some unjust\naspects of government are",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "39",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "40",
+        "fields": {
+            "question": "The primary purpose of each passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "41",
+        "fields": {
+            "question": "Based on the passages, Lincoln would most likely\ndescribe the behavior that Thoreau recommends in\nlines 64-66 (\u201cif it . . . law\u201d) as",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "42",
+        "fields": {
+            "question": "Based on the passages, one commonality in the\nstances Lincoln and Thoreau take toward\nabolitionism is that",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "43",
+        "fields": {
+            "question": "The passage is written from the point of view of a",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "44",
+        "fields": {
+            "question": "As used in line 4, \u201cpoor\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "45",
+        "fields": {
+            "question": "It can most reasonably be inferred from the passage\nthat many people in the solar panel industry believe\nthat",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "46",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "47",
+        "fields": {
+            "question": "According to the passage, two-sided solar panels will\nlikely raise efficiency by",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "48",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "49",
+        "fields": {
+            "question": "As used in line 69, \u201cbetting on\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "50",
+        "fields": {
+            "question": "The last sentence of the passage mainly serves to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "51",
+        "fields": {
+            "question": "According to figure 1, in 2017, the cost of which of\nthe following fuels is projected to be closest to the\n2009 US average electricity cost shown in figure 2?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "52",
+        "fields": {
+            "question": "According to figure 2, in what year is the average cost\nof solar photovoltaic power projected to be equal to\nthe 2009 US average electricity cost?",
+            "type": "reading",
+            "trivia": 2
+        }
+    }
+]

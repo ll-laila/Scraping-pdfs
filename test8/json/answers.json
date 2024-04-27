@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.answer",
+        "pk": "1",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first paragraph explains the \nnarrator\u2019s love of reading: \u201cEven then my only friends were made of \npaper and ink. . . . Where my school friends saw notches of ink on \nincomprehensible pages, I saw light, streets, and people.\u201d The fourth \nparagraph reiterates this love in its description of the bookshop as \na \u201csanctuary\u201d and \u201crefuge.\u201d The shift in focus occurs in the last six \nparagraphs, which recount the gift of a book that transforms the \nnarrator\u2019s love of reading into a desire to write: \u201cI did not think there \ncould be a better [book] in the whole world and I was beginning \nto suspect that Mr. Dickens had written it just for me. Soon I was \nconvinced that I didn\u2019t want to do anything else in life but learn to do \nwhat Mr. Dickens had done.\u201d Thus the passage\u2019s overall focus shifts \nfrom the narrator\u2019s love of reading to a specific incident that influences \nhis decision to become a writer.\nChoice B is incorrect because the passage never focuses on the \nnarrator\u2019s father, who primarily serves to illustrate the narrator\u2019s \ndetermination to read books despite all obstacles. Choice C is incorrect \nbecause the passage focuses on the narrator\u2019s desire to write rather \nthan on whatever skill he may have as a writer. Choice D is incorrect \nbecause the passage doesn\u2019t make the narrator\u2019s childhood hardships \nits central focus or analyze the effects of those hardships.",
+            "question": "1"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "2",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the first paragraph, the third sentence \ndescribes the narrator\u2019s love of reading (\u201cwhere my school friends saw \nnotches of ink on incomprehensible pages, I saw light, streets, and \npeople\u201d), and the fourth sentence describes the role that reading played \nin the narrator\u2019s life (\u201ca safe haven from that home, those streets, and \nthose troubled days in which even I could sense that only a limited \nfortune awaited me\u201d). The remainder of the passage recounts incidents \nin which the narrator\u2019s actions arise from his love of, and dependence \non, reading. Thus the third and fourth sentences can be seen as \ndescribing a passion that accounts for those actions.\n\u00a9 2017 The College Board. College Board and SAT are registered trademarks of the College Board.",
+            "question": "2"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "3",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The tenth paragraph shows that upon \nreturning home, the narrator hides the gift (the \u201cnew friend\u201d) that \nSempere had given him: \u201cThat afternoon I took my new friend home, \nhidden under my clothes so that my father wouldn\u2019t see it.\u201d It can be \ninferred from this sentence that the narrator\u2019s concern arises from an \nawareness that his father would disapprove of the gift.\nChoice A is incorrect because although the passage discusses the \nfather\u2019s hostility toward the narrator\u2019s love of reading, there is no \nindication that the father is not affectionate to the narrator more \ngenerally; indeed, the third paragraph depicts the father\u2019s generosity \ntoward the narrator. Choice B is incorrect because the father\u2019s \ngenerosity toward the narrator, as depicted in the third paragraph, \nclearly shows that the father encourages unnecessary purchases of \nsuch things as candy. Choice D is incorrect because although the first \nparagraph shows that the father is hostile toward books in general, \nthere is no indication in the passage that Dickens or any other author \nis a specific object of the father\u2019s disdain.",
+            "question": "3"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "4",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks which \nstatement about the narrator\u2019s father would the narrator most likely agree \nwith. The answer, that his father wouldn\u2019t have approved of Sempere\u2019s gift \nto the narrator, is best supported in the tenth paragraph: \u201cThat afternoon \nI took my new friend home, hidden under my clothes so that my father \nwouldn\u2019t see it.\u201d It can be inferred from this sentence that the narrator is \naware of his father\u2019s likely disapproval of the gift (the \u201cnew friend\u201d).\nChoices A, B, and C are incorrect because the cited lines don\u2019t support \nthe answer to the previous question. Instead, they show the father \ngiving his own gift to the narrator (choice A) and illustrate how the \nnarrator was treated when in Sempere\u2019s bookshop (choices B and C).",
+            "question": "4"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "5",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The last paragraph makes clear the \nnarrator\u2019s enthusiasm for Charles Dickens\u2019s Great Expectations, and \nit can be inferred from the last sentence of this paragraph that this \nenthusiasm motivated the narrator to aspire to a career as a writer: \n\u201cSoon I was convinced that I didn\u2019t want to do anything else in life but \nlearn to do what Mr. Dickens had done.\u201d",
+            "question": "5"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "6",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks why the \nnarrator considers Great Expectations to be the greatest gift he ever \nreceived. The answer, that the book convinced him to become a writer, \nis best supported by the last sentence of the last paragraph: \u201cSoon I \nwas convinced that I didn\u2019t want to do anything else in life but learn to \ndo what Mr. Dickens had done.\u201d\nChoices A, B, and C are incorrect because the cited lines don\u2019t \nsupport the answer to the previous question. Instead, they explain \nthe narrator\u2019s interactions with the bookseller (choice A), describe the \nbook\u2019s physical condition (choice B), and indicate the narrator\u2019s initial, \nerroneous assumption that Sempere knew Charles Dickens personally \n(choice C).",
+            "question": "6"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "7",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In the fourth paragraph, the narrator \nexplains that although Sempere normally didn\u2019t charge him for books, \nhe still left Sempere a few coins as payment: \u201cIt was only small \nchange\u2014if I\u2019d had to buy a book with that pittance, I would probably \nhave been able to afford only a booklet of cigarette papers.\u201d These lines \nsignal the narrator\u2019s awareness that he was paying less for the books \nthan they were worth.\nChoice A is incorrect because the passage states that Sempere didn\u2019t \nexpect or want the narrator to pay: \u201cHe hardly ever allowed me to pay \nfor the books.\u201d Choice B is incorrect because the fourth paragraph \nmakes clear that even if Sempere didn\u2019t want the narrator's money, the \nnarrator would still \u201cleave the coins I\u2019d managed to collect.\u201d Choice C \nis incorrect because the third paragraph states that the money with \nwhich the narrator paid Sempere was originally given to the narrator \nby his father.",
+            "question": "7"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "8",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the fourth paragraph, the narrator \ndescribes his reluctance to leave Sempere\u2019s bookshop: \u201cWhen it was \ntime for me to leave, I would do so dragging my feet, a weight on my \nsoul.\u201d In this context, \u201cweight\u201d most nearly means burden.",
+            "question": "8"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "9",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. When, in the eighth paragraph, the \nnarrator asks Sempere if the author Charles Dickens is a friend of his, \nSempere replies, in the ninth paragraph, that Dickens is a \u201clifelong \nfriend. And from now on, he\u2019s your friend too.\u201d Sempere designated \nDickens a \u201cfriend\u201d of both himself and the narrator, who had never \nheard of the author before. This signals that the use of \u201cfriend\u201d \nin these lines is figurative and emphasizes Sempere\u2019s emotional \nconnection to Dickens and, more generally, to reading. It also \nsignals Sempere\u2019s hope that the narrator will come to have a similar \nconnection to Dickens.\nChoices A, B, and D are incorrect because the word \u201cfriend\u201d is used in \nthese lines to emphasize Sempere\u2019s connection to reading, rather than \nhis connection to the narrator (choice A), the narrator\u2019s relationships \nor home life (choice B), or the narrator\u2019s emotional state or decision \nmaking (choice D).",
+            "question": "9"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "10",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the ninth paragraph, Sempere describes \nthe author Charles Dickens to the narrator: \u201cA lifelong friend. And from \nnow on, he\u2019s your friend too.\u201d As the reader can reasonably assume that \nSempere doesn\u2019t actually know Dickens, this description can be read as \nsignaling Sempere as an avid admirer of Dickens\u2019s work.\nChoice A is incorrect because the passage describes Sempere as a \nbookseller, not a writer. Choice C is incorrect because although the \npassage implies Sempere feels an emotional connection to Dickens, it \ndoesn\u2019t suggest that this connection arises from any similarity between \nSempere\u2019s life and that of Dickens. Choice D is incorrect because \neven if the passage implies that Sempere admires Dickens\u2019s work, \nSempere\u2019s admiration isn\u2019t discussed in relation to that felt by other \nreaders of Dickens, nor is Sempere shown to compare himself to other \nsuch readers.",
+            "question": "10"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "11",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The first paragraph describes the \nwidespread practice of not reporting null results, or results in which \nresearchers fail to see an effect that should be detectable. The second \nthrough sixth paragraphs discuss a study that examined how scientists \nhave dealt with null results. The seventh and eighth paragraphs \ndiscuss the negative consequences that null results pose for future \nresearch and the possible creation of a registry for all data produced by \nresearch studies, reported and unreported alike, as a remedy for those",
+            "question": "11"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "12",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The second paragraph states that \u201cTESS \nallows scientists to order up Internet-based surveys.\u201d In the context \nof the service that the TESS program provides to scientists, \u201callows\u201d \nmost nearly means enables.\nChoices A, B, and C are incorrect because in the context of the \npassage\u2019s discussion of TESS, \u201callows\u201d most nearly means enables, \nnot admits (choice A), tolerates (choice B), or grants (choice C).",
+            "question": "12"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "13",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The fifth paragraph of the passage \naddresses the \u201cstatistical strength\u201d of certain scientific findings. In this \ncontext, \u201cstrength\u201d most nearly means significance, or importance.\nChoices A, B, and C are incorrect because in the context of the \nstatistical importance of scientific findings, \u201cstrength\u201d most nearly \nmeans significance, not attribution (choice A), exertion (choice B), or \ntoughness (choice C).",
+            "question": "13"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "14",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The seventh paragraph discusses the \nnegative consequences of not publishing null results, emphasizing \nthat \u201cworse, if researchers publish significant results from similar \nexperiments in the future, they could look stronger than they should \nbecause the earlier null studies are ignored.\u201d In other words, failing to \ndocument null results means that the results of later, related studies \nwill not be as accurate as they appear.\nChoices B, C, and D are incorrect because the passage does not \nindicate that failing to document null results can cause promising \nareas of research to be overlooked (choice B), cause errors in data \ncollection practices that lead to null results being overlooked \n(choice C), or lessen bias against null results (choice D).",
+            "question": "14"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "15",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks what the \npassage indicates could result from failing to document null results. \nThe answer, that the results of future studies will be misleading, \nis best supported in the seventh paragraph: \u201cWorse, if researchers \npublish significant results from similar experiments in the future, they \ncould look stronger than they should because the earlier null studies \nare ignored.\u201d\nChoices A, B, and C are incorrect because the cited lines don\u2019t \nsupport the answer to the previous question. Instead, choice A \nsuggests how the findings of a study about null results may \naffect existing beliefs about such results; choice B explains \nhow infrequently null results had been written up, according to \nMalhotra\u2019s study; and choice C illustrates a problem resulting from \nthe failure to document null results, but one that is unrelated to the \nfact that this documentation failure may make the results of future, \nrelated studies appear more valid than they are.",
+            "question": "15"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "16",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The last two sentences of the seventh \nparagraph identify a particular research scenario that Malhotra \nuncovered in his study: \u201cEven more troubling to Malhotra was the fact \nthat two scientists whose initial studies \u2018didn\u2019t work out\u2019 went on to \npublish results based on a smaller sample. \u2018The non-TESS version \nof the same study, in which we used a student sample, did yield \nfruit,\u2019 noted one investigator.\u201d Since Malhotra especially objected to \nthese researchers\u2019 suppression of data that produced null results and \ntheir subsequent publication of related data that were statistically \nsignificant, it can be inferred that the hypothetical situation to which \nhe would most strongly object is one in which researchers publish \ntheir study results in a journal but exclude the portion of data that \nproduced null results.\nChoices A and D are incorrect because the seventh paragraph, \nwhich identifies a research scenario that Malhotra disapproved of, \nprovides no basis for an inference that he would especially object \nto a team\u2019s insisting on publishing null results in a top journal \nonly (choice A) or a team\u2019s expanding the scope of a study that had \nproduced null results (choice D). Choice C is incorrect because \nalthough the first sentence of the seventh paragraph indicates \nMalhotra\u2019s concern that failing to publish null results can mean \nthat other researchers unwittingly replicate strategies that produced \nnull results in prior studies, the paragraph goes on to identify \nother scenarios as being \u201cworse\u201d and \u201ceven more troubling\u201d from \nMalhotra\u2019s perspective.",
+            "question": "16"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "17",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks about which \nhypothetical situation Malhotra would most strongly object to. The \nanswer, that he would most strongly object to researchers\u2019 reporting \ntheir findings but failing to disclose the null results, is best supported \nat the end of the seventh paragraph: \u201cEven more troubling to Malhotra \nwas the fact that two scientists whose initial studies \u2018didn\u2019t work out\u2019 \nwent on to publish results based on a smaller sample. \u2018The non-TESS \nversion of the same study, in which we used a student sample, did \nyield fruit,\u2019 noted one investigator.\u201d\nChoices A, B, and D are incorrect because the cited lines don\u2019t support \nthe answer to the previous question about which situation Malhotra \nwould most strongly object to. Instead, they cite another researcher\u2019s \nattitude toward null results from his or her own study (choice A), \ncompare the publication rate for studies that produce null results \nwith that for studies that produce statistically significant results \n(choice B), and describe the recommendation by Malhotra and his team \nfor the creation of a database to remedy problems resulting from the \nnonpublication of null results (choice D).",
+            "question": "17"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "18",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. After describing problems that could \narise from the failure to report null results, the passage shifts in the \nlast paragraph to a potential solution to such problems: \u201cA registry for \ndata generated by all experiments would address these problems, the \nauthors argue.\u201d The paragraph goes on to imply that a registry could \nsolve such problems by deterring the suppression of null results.\nChoice A is incorrect because the last paragraph proposes a \u201cregistry \nfor data\u201d rather than a future research project. Choice C is incorrect \nbecause the summary of the results of Malhotra\u2019s study occurs in \nthe fifth paragraph, not in the last. Choice D is incorrect because the \nlast paragraph of the passage does not mention reexamining results \nalready obtained in social science trials.",
+            "question": "18"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "19",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The far left bar of the graph pertains to \nsocial science studies that produced strong results. This bar shows \nthat approximately 20 percent (or two full increments of 10 percent) of \nsuch studies were published in a top journal.\nChoice A is incorrect because the graph shows that approximately \n5 percent of social science studies that produced strong results were \nunwritten, rather than over 50 percent. Choice B is incorrect because \nthe graph shows that about 30 percent of social science studies that \nproduced strong results were unpublished but written, rather than \n50 percent. Choice D is incorrect because the graph shows that slightly \nover 40 percent of social science studies that produced strong results \nwere published in a non-top journal, rather than almost 80 percent.",
+            "question": "19"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "20",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The middle bar of the graph pertains to \nsocial science studies that produced mixed results. The top 50 percent \nof this bar represents studies that were published. The bottom \n50 percent of this bar represents studies that were either unpublished \nor went unwritten. Since each of the two categories accounts for \n50 percent of the total, it can be said that studies with mixed results \nwere just as likely to be published as they were to be left either \nunpublished or unwritten.\nChoice B is incorrect because the graph indicates that roughly \n42 percent of social science studies produced strong results and \nroughly 22 percent produced null results; together, these two \npercentages far exceed the 36 percent accounted for by studies that \nproduced mixed results. Choice C is incorrect because the graph \nshows that roughly 12 percent of studies that produced mixed \nresults were published in top journals, well less than the percentage \npublished in non-top journals (approximately 38 percent). Choice D \nis incorrect because the graph indicates that studies that produced \nstrong results accounted for approximately 42 percent of all studies, \nwhile those that produced mixed results only accounted for around \n36 percent of all studies.",
+            "question": "20"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "21",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The first sentence of the fifth paragraph \nstates, \u201cNot unexpectedly, the statistical strength of the findings made \na huge difference in whether they were ever published.\u201d This statement \nis supported by the graph, which shows that more than 60 percent of \nsocial science studies that produced strong results were published, \nwhile only about 50 percent of studies with mixed results and about \n20 percent of studies with null results were published.\nChoices A, B, and D are incorrect because none of the cited lines \ncontain information that is represented by the data in the graph. \nInstead, they recount scientists\u2019 explanations for why they didn\u2019t \npublish their null results (choices A and B) and highlight claims about \nthe importance of Malhotra\u2019s study (choice D).",
+            "question": "21"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "22",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first paragraph explains that in the \nnanoworld, salt can be seen \u201cstretching like taffy.\u201d The third paragraph \nnotes that while this elasticity was expected in metals, it wasn\u2019t \nimagined for salt: \u201cBut scientists don\u2019t expect this superplasticity in a \nrigid, crystalline material like salt.\u201d The rest of the passage explores \nthis unexpected behavior of salt. Therefore it can be said that one of \nthe central ideas of the passage is that materials don\u2019t always behave \nas scientists might expect them to.",
+            "question": "22"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "23",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The first five paragraphs introduce salt\u2019s \nability to stretch \u201clike taffy to more than twice its length.\u201d In the fifth \nparagraph, the passage shifts into an explanation of how \u201cMoore and \nhis colleagues discovered salt\u2019s stretchiness.\u201d The last paragraph \nspeculates about the possible application of this discovery: \u201cThe work \nalso suggests new techniques for making nanowires, which are often \ncreated through nano-imprinting techniques.\u201d The passage\u2019s overall \nstructure can therefore be seen as consisting of an introduction to an \ninteresting salt property, followed by a description of how the property \nwas discovered, followed by a speculation regarding applications of \nthis property.\nChoice A is incorrect because the passage discusses only one way \nin which salt differed from researchers\u2019 expectations. Choice B is \nincorrect because the passage begins not with a hypothesis about \nsalt\u2019s behavior but with an explanation of its behaviors. Choice C is \nincorrect because the passage discusses complementary observations \nof salt crystals rather than two experiments involving salt that yield \nseemingly conflicting results.",
+            "question": "23"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "24",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. That Moore\u2019s group was surprised to \nobserve salt stretching is most directly suggested by the last sentence \nof the third paragraph: \u201cBut scientists don\u2019t expect this superplasticity \nin a rigid, crystalline material like salt, Moore says.\u201d\nChoices B, C, and D are incorrect because the cited lines don\u2019t support \nthe idea that Moore\u2019s group was surprised to observe salt stretching. \nInstead, they explain how the group happened upon their observation \n(choice B), the measures the group took to investigate the stretching \nfurther (choice C), and how common salt is in nature (choice D).",
+            "question": "24"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "25",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The first sentence of the fourth paragraph \nstates, \u201cThis unusual behavior highlights that different forces rule the \nnanoworld.\u201d In this context, to \u201crule\u201d most nearly means to control.\nChoices A, C, and D are incorrect because in the context of a discussion \nof forces that operate on the nanoworld, to \u201crule\u201d most nearly means to \ncontrol, not to mark (choice A), declare (choice C), or restrain (choice D).",
+            "question": "25"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "26",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The first sentence of the sixth paragraph \nidentifies \u201celectrostatic forces, perhaps good old van der Waals \ninteractions\u201d as the potential cause of the initial attraction between the \nmicroscope tip and the salt.\nChoices A, B, and C are incorrect because the first sentence of the \nsixth paragraph clearly identifies the potential cause of the initial \nattraction between the microscope tip and the salt as van der Waals \ninteractions, not as gravity (choice A), nano-imprinting (choice B), or \nsurface tension (choice C).",
+            "question": "26"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "27",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The sixth paragraph says that \u201cseveral \nmechanisms might lead to\u201d salt\u2019s elasticity. In this context, the phrase \n\u201clead to\u201d most nearly means result in.\nChoices A, C, and D are incorrect because in the context of something \ncausing salt molecules to exhibit elasticity, the phrase \u201clead to\u201d most \nnearly means result in, not guide to (choice A), point toward (choice C), \nor start with (choice D).",
+            "question": "27"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "28",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first paragraph of the passage \nmakes clear that salt exhibits elasticity (\u201cstretching like taffy\u201d) in the \nnanoworld, and the eighth paragraph explains that salt possesses some \ndegree of elasticity in the macroworld as well: \u201cHuge underground \ndeposits of salt can bend like plastic, but water is believed to play \na role at these scales.\u201d Thus flexibility describes the relationship \nbetween salt\u2019s behavior in both the nanoworld and the macroworld.\nChoice B is incorrect because the third paragraph explains that \n\u201cscientists don\u2019t expect\u201d salt\u2019s flexibility in the nanoworld, not that \nthey do expect it; moreover, there is no indication that salt\u2019s flexibility \nin the macroworld is surprising. Choice C is incorrect because the \npassage doesn\u2019t make clear whether nanowires were first observed \nin the nanoworld or the macroworld. Choice D is incorrect because \nthe passage does not examine the interaction of salt and water in \nthe nanoworld or suggest that such interaction causes salt to have \nproperties that are different from those it possesses in the macroworld.",
+            "question": "28"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "29",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks about which \ndescription of the relationship between salt behavior in the nanoworld \nand in the macroworld can be inferred from the passage. The answer, that \nsalt is flexible or elastic in both worlds, is best supported in the eighth \nparagraph: \u201cHuge underground deposits of salt can bend like plastic, but \nwater is believed to play a role at these scales.\u201d These lines suggest that \nin the macroworld, as in the nanoworld, salt possesses flexibility.",
+            "question": "29"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "30",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The lower graph, which shows the \u201ctip \nmoving away from salt surface,\u201d indicates that when the microscope \ntip was 15 nanometers from the surface, the force on the tip was \napproximately 0.75 micronewtons.\nChoices A, B, and D are incorrect because the graph shows that when \nthe microscope tip was 15 nanometers from the salt surface, the force \non the tip was approximately 0.75 micronewtons, not 0 micronewtons \n(choice A), 0.25 micronewtons (choice B), or 1.25 micronewtons \n(choice D).",
+            "question": "30"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "31",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The bottom graph illustrates the process \ndescribed in the first sentence of the seventh paragraph of the passage: \n\u201cas the microscope pulls away from the salt, the salt stretches.\u201d On the \ngraph, the stretching of the salt is represented by the amount of force, \nin micronewtons, exerted on the microscope tip as the tip moves away \nfrom the salt surface. The graph shows that force was exerted on the \ntip until the tip reached point T at approximately 22 nanometers from \nthe salt surface; from point T on, the force was 0 micronewtons. It can \nbe inferred that since no force is being exerted after point T, point T is \nthe point at which a salt nanowire breaks.\nChoices A, B, and C are incorrect because the labels P, Q, and R all \nappear on the top graph, which represents data on the movement of \nthe microscope tip toward the salt surface. As the fifth sentence of the \nfifth paragraph explains, when the microscope tip moved toward the \nsalt, \u201cthe salt actually stretched out to glom on to the microscope \ntip.\u201d Therefore, the first graph shows the salt attaching itself to the \nmicroscope tip and forming nanowires, not the breaking of a nanowire.",
+            "question": "31"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "32",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the first paragraph of Passage 1, \nDouglas argues that throughout the period in which the United States \nhad both free and slave states, the nation as a whole \u201cincreased from \nfour millions to thirty millions of people . . . extended our territory \nfrom the Mississippi to the Pacific Ocean . . . acquired the Floridas \nand Texas . . . [and had] risen from a weak and feeble power to become \nthe terror and admiration of the civilized world.\u201d It can reasonably be \ninferred that Douglas cites such growth in territory and population \nto make the point that the division into free and slave states was \nobviously not a threat to the country\u2019s health or survival.",
+            "question": "32"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "33",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the second paragraph of Passage 1, \nDouglas uses a rhetorical question to stress that the division into slave \nand free states has existed since the beginning of the United States: \n\u201cI now come back to the question, why cannot this Union exist forever, \ndivided into Free and Slave States, as our fathers made it?\u201d It can \nbe inferred from this question that Douglas believes that since this \ndivision is long-standing, the provisions for it in the US Constitution \nhave provided a good basic structure that doesn\u2019t need to be changed.\nChoice A is incorrect because in Passage 1, Douglas doesn\u2019t observe \nthat the US Constitution\u2019s provisions for slavery lack a means for \nreconciling differences between slave states and free states. Choice B \nis incorrect because although Douglas stresses that the provisions \nfor slavery are long-standing, he doesn\u2019t characterize them as having \nsomehow anticipated the Union\u2019s expansion to the west. Choice D \nis correct because although it can be inferred from Passage 1 that \nDouglas believes the provisions for slavery have had a positive \neconomic impact, he nowhere implies that the founders based them on \nan assumption that slavery was economically necessary.",
+            "question": "33"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "34",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks about how \nDouglas, in Passage 1, characterizes the Constitution\u2019s provisions for \nslavery. The answer, that Douglas believes they provided a good basic \nstructure and don\u2019t need to be changed, is best supported in the first \nsentence of the second paragraph of Passage 1: \u201cI now come back to \nthe question, why cannot this Union exist forever, divided into Free \nand Slave States, as our fathers made it?\u201d\nChoices A, C, and D are incorrect because the cited lines don\u2019t support \nthe answer to the previous question. Instead, they describe the various \nways in which the nation has expanded since its founding (choice\u00a0A), \nstress the likelihood that the nation will only continue to expand \n(choice C), and assert the importance of the sovereignty of individual \nstates to the future expansion of the nation (choice D).",
+            "question": "34"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "35",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the first sentence of the second \nparagraph of Passage 2, Lincoln raises a question about how the \nconsequences of the division of the United States into slave states and \nfree states compare with the consequences of the other ways in which \nstates differ from each other: \u201cBut has it been so with this element of \nslavery?\u201d In this context, the word \u201celement\u201d most nearly means factor.\nChoices A, B, and D are incorrect because in the context of Lincoln\u2019s \ndiscussion of the \u201celement of slavery,\u201d the word \u201celement\u201d most nearly \nmeans factor, not ingredient (choice A), environment (choice B), or \nquality (choice D).",
+            "question": "35"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "36",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the second paragraph of Passage 2, \nLincoln asserts that the controversy surrounding slavery in the \nUnited States has died down whenever the institution of slavery has \nbeen restricted geographically: \u201cWhenever it has been limited to \nits present bounds, and there has been no effort to spread it, there \nhas been peace.\u201d Since Lincoln associates peace on this issue with \ngeographical limits on the institution of slavery itself, it can be inferred \nthat he would agree that the controversy would abate if all attempts to \nestablish slavery in new regions ceased.\nChoice A is incorrect because Lincoln neither urges Northern states to \nattempt to abolish slavery unilaterally nor implies that such an attempt \nwould extinguish the controversy over slavery. Choice C is incorrect \nbecause Lincoln neither suggests that the laws regulating slavery \nare ambiguous nor that such ambiguity exacerbates controversy over \nslavery. Choice D is incorrect because Lincoln never attributes the \ncontroversy over slavery to differences in religion or social values from \none state to another.",
+            "question": "36"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "37",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks which claim \nabout the controversy over slavery would Lincoln agree with. The \nanswer, that the controversy would abate if attempts to spread slavery \nto regions where it isn\u2019t practiced were abandoned, is best supported \nin the second paragraph of Passage 2: \u201cWhenever [slavery] has been \nlimited to its present bounds, and there has been no effort to spread it, \nthere has been peace.\u201d\nChoices A, B, and D are incorrect because the cited lines don\u2019t \nsupport the answer to the previous question. Instead, they discuss \nstate-to-state differences in laws regulating issues other than slavery \n(choice A), assert that the differences among the various states \ngenerally benefit the nation (choice B), and ask a philosophical",
+            "question": "37"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "38",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In the last sentence of Passage 2, Lincoln \nasks about the likelihood that people will fundamentally change: \u201cDo \nyou think that the nature of man will be changed?\u201d In this context, the \nword \u201cnature\u201d most nearly means character.\nChoices A, B, and C are incorrect because in the context of a \ndiscussion of the \u201cnature of man,\u201d the word \u201cnature\u201d most nearly \nmeans character, not force (choice A), simplicity (choice B), or world \n(choice C).",
+            "question": "38"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "39",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the first paragraph of Passage 1, \nDouglas claims that Lincoln considers the Constitution to be \u201ca house \ndivided against itself,\u201d due to its provisions for the division of the \nnation into slave states and free states, and to be \u201cin violation of the \nlaw of God.\u201d In Passage 2, Lincoln objects to this characterization of \nhis position and devotes the majority of the passage to clarifying that \nit isn\u2019t the Constitution he finds fault with, or even its provisions for \nslavery, but rather with attempts to spread slavery to regions where it \nisn\u2019t currently practiced. Therefore it can be said that a central tension \nbetween the two passages arises from, on the one hand, Douglas\u2019s \ncriticism of Lincoln for finding fault with the Constitution and, on \nthe other, Lincoln\u2019s insistence that Douglas has misrepresented \nhis position.\nChoice A is incorrect because Douglas (Passage 1) proposes no \nchanges to federal policies on slavery and because Lincoln (Passage 2) \ndoesn\u2019t consider whether changes to such policies would enjoy \npopular support. Choice B is incorrect because Douglas (Passage 1) \nnever expresses concern about the potential impact of abolition on \nthe US economy and because Lincoln (Passage 2) neither discusses \nsuch an impact nor dismisses concerns about it. Choice D is incorrect \nbecause neither passage offers any interpretation of federal law.",
+            "question": "39"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "40",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In the first paragraph of Passage 1, \nDouglas discusses the issue of slavery in the context of the division \nof free states and slave states throughout the period when the United \nStates \u201cextended our territory from the Mississippi to the Pacific \nOcean\u201d and \u201cacquired the Floridas and Texas, and other territory \nsufficient to double our geographical extent.\u201d In the second paragraph \nof Passage 2, Lincoln asserts that the controversy over slavery has \nhistorically been \u201cexcited by the effort to spread [slavery] into new \nterritory,\u201d as in the case of Missouri, Texas, and \u201cthe territory acquired \nby the Mexican War.\u201d Therefore, it can be said that, notwithstanding \ntheir differences of opinion, both Douglas and Lincoln discuss the \nissue of slavery in relationship to the expansion of the Union.",
+            "question": "40"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "41",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In the second paragraph of Passage 1, \nDouglas asks the rhetorical question: \u201cwhy cannot this Union exist \nforever, divided into Free and Slave States, as our fathers made \nit?\u201d The remainder of the paragraph amounts to an answer to this \nrhetorical question and a refutation of Lincoln\u2019s viewpoint on slavery, \nas represented by Douglas. In the second paragraph of Passage 2, \nLincoln asks a series of rhetorical questions: \u201cBut has it been so \nwith this element of slavery? Have we not always had quarrels and \ndifficulties over it? And when will we cease to have quarrels over it?\u201d \nThese questions imply that there are flaws in Douglas\u2019s equating the \ndivision into slave states and free states with other, more unambiguously \nbeneficial differences from state to state. The remainder of the second \nparagraph expands on these flaws. Therefore, it can be said that \nin context, the rhetorical questions asked by each speaker serve to \nundermine the argument of the other speaker.\nChoice A is incorrect because in asking rhetorical questions, neither \nDouglas nor Lincoln casts doubt on the sincerity of his opponent. \nChoices B and C are incorrect because although Douglas and Lincoln \nfind fault with each other\u2019s ideas, they don\u2019t criticize each other\u2019s \nmethods (choice B) or reproach each other\u2019s actions (choice C).",
+            "question": "41"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "42",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first two paragraphs of the passage \ndescribe the physical process by which the Venus flytrap closes its trap \nbut also note certain long-standing questions about that process: \u201cHow \ndoes the plant encode and store the information from the unassuming \nbug\u2019s encounter with the first hair? How does it remember the first \ntouch in order to react upon the second?\u201d The passage then answers \nthose questions by discussing, in the third and fourth paragraphs, a \nstudy conducted by Dieter Hodick and Andreas Sievers that identified \nthe physiological means behind the closing of the Venus flytrap\u2019s trap \nand, in the last paragraph, a study conducted by Alexander Volkov that \nconfirmed and built on Hodick and Sievers\u2019s findings. The primary \npurpose of the passage can therefore be seen as discussing scientific \nfindings that explain how the Venus flytrap closes its trap.\nChoice B is incorrect because the passage doesn\u2019t discuss the Venus \nflytrap\u2019s ability to close its trap in the context of the abilities of other \nplants. Choice C is incorrect because the passage discusses how \nthe closing action operates but not how it has evolved. Choice D is \nincorrect because the passage doesn\u2019t provide an overview of the \nVenus flytrap and its predatory behavior; it merely notes in passing \nthat the closing action has a predatory function.",
+            "question": "42"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "43",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The first paragraph discusses the \nchallenge posed to the Venus flytrap by the opening and closing of \nits trap: \u201cClosing its trap requires a huge expense of energy, and \nreopening the trap can take several hours, so Dionaea only wants \nto spring closed when it\u2019s sure that the dawdling insect visiting its \nsurface is large enough to be worth its time.\u201d Since closing and \nreopening the trap requires the expense of precious energy, it can \nbe inferred that by guarding against unnecessary closing, multiple \ntriggers safeguard the plant\u2019s energy supply.\nChoice A is incorrect because the passage never indicates that multiple \ntriggers allow the Venus flytrap to identify which species its prey \nbelongs to, only that they allow it to gauge the prey\u2019s size. Choice B is \nincorrect because although the passage implies that the plant needs \nto conserve energy and indicates that calcium is involved in the trap-\nclosing mechanism, there is no indication that the plant\u2019s calcium \nreserves themselves require conservation. Choice D is incorrect \nbecause it can be inferred from the passage that the advantage of \nmultiple triggers is that they prevent the Venus flytrap from closing on \nthe improper prey rather than from prematurely closing on the proper \nprey; the passage never implies that when touched by its proper prey, \nthe Venus flytrap is at risk of closing too soon to capture it.",
+            "question": "43"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "44",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The previous question asks what the Venus \nflytrap gains from requiring multiple triggers before closing. The answer, \nthat multiple triggers allow the plant to conserve energy, is best supported \nnear the beginning of the first paragraph: \u201cClosing its trap requires a \nhuge expense of energy, and reopening the trap can take several hours, \nso Dionaea only wants to spring closed when it\u2019s sure that the dawdling \ninsect visiting its surface is large enough to be worth its time.\u201d\nChoices B, C, and D are incorrect because the cited lines don\u2019t support \nthe answer to the previous question. Instead, they describe how the hairs \non the Venus flytrap function and how the system of multiple triggers \nworks (choices B and C) and explain how the plant preserves a memory, \nas it were, that something has touched the trigger hairs (choice D).",
+            "question": "44"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "45",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The phrases \u201cdawdling insect,\u201d \u201chappily \nmeanders,\u201d and \u201cunassuming bug\u2019s encounter\u201d are less typical of word \nchoices made in formal, scientific writing than of those made in less \nformal writing modes. Therefore, the tone that these phrases establish \nis best described as informal.\nChoices A, B, and D are incorrect because the phrases establish a tone \nthat is informal, not academic (choice A), melodramatic (choice B), or \nmocking (choice D).",
+            "question": "45"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "46",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first paragraph describes the \nmechanism that prompts the Venus flytrap to close its trap. The second \nparagraph makes an analogy of each step of that mechanism to an \naspect of short-term memory formation in humans and then poses",
+            "question": "46"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "47",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The third paragraph explains that \ntouching a single trigger hair results in \u201ca rapid increase in the \nconcentration of calcium ions\u201d in the plant. The fourth paragraph \nfurther explains that the calcium concentration produced by this initial \ntouch isn\u2019t enough to cause the trap to close, but that a second hair \ntouch will bring the total concentration to the level necessary to close \nthe trap: \u201ca second hair needs to be stimulated to push the calcium \nconcentration over this threshold and spring the trap.\u201d\nChoices A and B are incorrect because the fourth paragraph explains \nthat the second trigger supplements the action of the first trigger, not \nthat it reverses it (choice A) or stabilizes its effect (choice B). Choice C \nis incorrect because the third paragraph clearly states that the calcium \nchannels open after the first trigger hair is touched, not the second.",
+            "question": "47"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "48",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The fourth paragraph explains that \nthe Venus flytrap will close only if a second hair is stimulated to \n\u201cpush the calcium concentration over this threshold and spring the \ntrap.\u201d But the last sentence of the paragraph notes that the calcium \nconcentrations \u201cdissipate over time,\u201d and if enough time elapses after \nthe first trigger, \u201cthe final concentration after the second trigger won\u2019t \nbe high enough to close the trap.\u201d It can be inferred, then, that if a \nlarge insect didn\u2019t touch a second trigger hair until after the calcium \nion concentrations had diminished appreciably, the Venus flytrap \nwould fail to close.",
+            "question": "48"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "49",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The second sentence of the last \nparagraph says that Alexander Volkov and his colleagues \u201cfirst \ndemonstrated that it is indeed electricity that causes the Venus flytrap \nto close.\u201d In this context, the word \u201cdemonstrated\u201d most nearly means \nestablished.\nChoices A, C, and D are incorrect because in the context of \nscientists showing what causes the Venus flytrap to close, the \nword \u201cdemonstrated\u201d most nearly means established, not protested \n(choice A), performed (choice C), or argued (choice D).",
+            "question": "49"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "50",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. As described in the third paragraph, \nHodick and Sievers\u2019s model emphasizes that the Venus flytrap closes \nby means of an electrical charge triggered when the plant\u2019s hairs are \ntouched. But as explained in the last paragraph, when Alexander \nVolkov tested this model, the design of his experiment involved the \ndirect application of an electrical charge, which \u201cmade the trap close \nwithout any direct touch to its trigger hairs.\u201d Therefore, Volkov\u2019s \nwork could be criticized because his design omitted, rather than \ncorroborated, a central element of Hodick and Sievers\u2019s model\u2014\nnamely, the physical stimulation of the hairs.\nChoice A is incorrect because although the last paragraph explains \nthat Volkov omitted an element of Hodick and Sievers\u2019s model when \ndesigning his own experiment, there is no suggestion that he did so \nout of a faulty understanding of their model. Choice C is incorrect \nbecause it is impossible to know from the passage if Hodick and \nSievers would have objected to Volkov\u2019s methods. Choice D is incorrect \nbecause the passage doesn\u2019t indicate whether the technology Volkov \nused had been available to Hodick and Sievers when they formulated \ntheir model.",
+            "question": "50"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "51",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks what \npotential criticism might be made of Volkov\u2019s testing of Hodick and \nSievers\u2019s model. The answer, that a central element of that model \nwasn\u2019t corroborated by Volkov\u2019s measurements, is best supported \nin the last paragraph: \u201cThis made the trap close without any direct \ntouch to its trigger hairs (while they didn\u2019t measure calcium levels, \nthe current likely led to increases).\u201d Because the physical touch to the \nhairs figured in Hodick and Sievers\u2019s model, it can be said that Volkov\u2019s \ndecision to apply an electrical current directly to the plant means that \nhe failed to corroborate a central element of their model.\nChoices A, B, and D are incorrect because the cited lines don\u2019t support \nthe answer to the previous question. Instead, they summarize the \nbasic agreement of Volkov\u2019s work with Hodick and Sievers\u2019s model \n(choice A) and describe steps in Volkov\u2019s experimental design that \nare related to the application of an electrical current but don\u2019t directly \naddress the omission of the central element of the physical touch to the \nhairs (choices B and D).",
+            "question": "51"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "52",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The second sentence of the last \nparagraph says that the focus of Volkov\u2019s work was the role of \nelectricity in the Venus flytrap\u2019s closing mechanism. The paragraph \ngoes on to explain that by applying electricity directly to the plant \nand \u201caltering the amount of electrical current, Volkov could determine \nthe exact electrical charge needed for the trap to close.\u201d It is therefore \naccurate to say that Volkov and his colleagues made the most extensive \nuse of information obtained from measuring the plant\u2019s response to \nvarying amounts of electrical current.\nChoice A is incorrect because although the last paragraph explains \nthat Volkov\u2019s work was based on Hodick and Sievers\u2019s mathematical \nmodel in which an electrical charge is required to close the Venus \nflytrap, that model isn\u2019t described as predicting the precise amount of \ncharge required; moreover, although Volkov made use of this earlier \nmodel, it served as a starting point, and his work made greater use \nof the findings generated by his experiment. Choice B is incorrect \nbecause the passage doesn\u2019t describe Volkov\u2019s work as having \ninvolved analysis of data from earlier studies on the plant\u2019s response to \nelectricity. Choice D is incorrect because although the last paragraph \nexplains that Volkov based his work on Hodick and Sievers\u2019s earlier \nmodel, this was the sole model that Volkov relied on, and there is \nno suggestion that he made use of multiple \u201cpublished theories\u201d \nor \u201cearlier models\u201d; moreover, he made more extensive use of data \ngenerated by his own experiment than of Hodick and Sievers\u2019s model.",
+            "question": "52"
+        }
+    }
+]

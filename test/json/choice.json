@@ -1,0 +1,1622 @@
+[
+    {
+        "model": "trivia.choice",
+        "pk": "1",
+        "fields": {
+            "choice": "A) Perfect competition has a large number of small firms while monopolistic competition does not.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "2",
+        "fields": {
+            "choice": "B) In perfect competition, firms produce identical goods, while in monopolistic competition, firms produce\nslightly different goods.",
+            "question": "1",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "3",
+        "fields": {
+            "choice": "C) Perfect competition has no barriers to entry, while monopolistic competition does.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "4",
+        "fields": {
+            "choice": "D) Perfect competition has barriers to entry while monopolistic competition does not.",
+            "question": "1",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "5",
+        "fields": {
+            "choice": "A) almost free from competition and firms earn large profits.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "6",
+        "fields": {
+            "choice": "B) highly competitive and firms find it impossible to earn an economic profit in the long run.",
+            "question": "2",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "7",
+        "fields": {
+            "choice": "C) dominated by fierce advertising campaigns.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "8",
+        "fields": {
+            "choice": "D) marked by firms continuously trying to change their products so that consumers prefer their product to\ntheir competitors' products.",
+            "question": "2",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "9",
+        "fields": {
+            "choice": "A) perfect competition",
+            "question": "3",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "10",
+        "fields": {
+            "choice": "B) oligopoly",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "11",
+        "fields": {
+            "choice": "C) monopolistic competition",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "12",
+        "fields": {
+            "choice": "D) monopoly",
+            "question": "3",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "13",
+        "fields": {
+            "choice": "A) well-informed buyers and sellers with respect to prices.",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "14",
+        "fields": {
+            "choice": "B) a large number of buyers and sellers.",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "15",
+        "fields": {
+            "choice": "C) no restrictions on entry into or exit from the industry.",
+            "question": "4",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "16",
+        "fields": {
+            "choice": "D) considerable advertising by individual firms.",
+            "question": "4",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "17",
+        "fields": {
+            "choice": "A) diamonds",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "18",
+        "fields": {
+            "choice": "B) athletic shoes",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "19",
+        "fields": {
+            "choice": "C) soft drinks",
+            "question": "5",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "20",
+        "fields": {
+            "choice": "D) farming",
+            "question": "5",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "21",
+        "fields": {
+            "choice": "A) perfect competition",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "22",
+        "fields": {
+            "choice": "B) monopoly",
+            "question": "6",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "23",
+        "fields": {
+            "choice": "C) monopolistic competition",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "24",
+        "fields": {
+            "choice": "D) oligopoly",
+            "question": "6",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "25",
+        "fields": {
+            "choice": "A) perfect competition",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "26",
+        "fields": {
+            "choice": "B) oligopoly",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "27",
+        "fields": {
+            "choice": "C) monopolistic competition",
+            "question": "7",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "28",
+        "fields": {
+            "choice": "D) monopoly",
+            "question": "7",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "29",
+        "fields": {
+            "choice": "A) perfect competition",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "30",
+        "fields": {
+            "choice": "B) monopolistic competition",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "31",
+        "fields": {
+            "choice": "C) monopoly",
+            "question": "8",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "32",
+        "fields": {
+            "choice": "D) oligopoly",
+            "question": "8",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "33",
+        "fields": {
+            "choice": "A) what price to charge buyers for the product",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "34",
+        "fields": {
+            "choice": "B) whether or not to enter or exit an industry",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "35",
+        "fields": {
+            "choice": "C) the profit-maximizing level of output",
+            "question": "9",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "36",
+        "fields": {
+            "choice": "D) how much to spend on advertising and sales promotion",
+            "question": "9",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "37",
+        "fields": {
+            "choice": "A) how much output to produce.",
+            "question": "10",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "38",
+        "fields": {
+            "choice": "B) whether or not to enter a market.",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "39",
+        "fields": {
+            "choice": "C) what price to charge.",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "40",
+        "fields": {
+            "choice": "D) how much capital to use.",
+            "question": "10",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "41",
+        "fields": {
+            "choice": "A) what price to charge buyers for the product",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "42",
+        "fields": {
+            "choice": "B) how much to spend on advertising and sales promotion",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "43",
+        "fields": {
+            "choice": "C) the profit-maximizing level of output",
+            "question": "11",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "44",
+        "fields": {
+            "choice": "D) whether or not to enter or exit an industry",
+            "question": "11",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "45",
+        "fields": {
+            "choice": "A) cannot influence the price of the product it sells.",
+            "question": "12",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "46",
+        "fields": {
+            "choice": "B) talks to rival firms to determine the best price for all of them to charge.",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "47",
+        "fields": {
+            "choice": "C) sets the product's price to whatever level the owner decides upon.",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "48",
+        "fields": {
+            "choice": "D) asks the government to set the price of its product.",
+            "question": "12",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "49",
+        "fields": {
+            "choice": "A) horizontal market supply curves",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "50",
+        "fields": {
+            "choice": "B) large losses by all sellers",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "51",
+        "fields": {
+            "choice": "C) the inability of any seller to change the price of the product",
+            "question": "13",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "52",
+        "fields": {
+            "choice": "D) market chaos",
+            "question": "13",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "53",
+        "fields": {
+            "choice": "A) each firm is very large.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "54",
+        "fields": {
+            "choice": "B) there are no good substitutes for their goods.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "55",
+        "fields": {
+            "choice": "C) many other firms produce identical products.",
+            "question": "14",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "56",
+        "fields": {
+            "choice": "D) their demand curves are downward sloping.",
+            "question": "14",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "57",
+        "fields": {
+            "choice": "A) There is no incentive to sell at a price below the market price.",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "58",
+        "fields": {
+            "choice": "B) It will not sell any output at all if it tries to price its product above the market price.",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "59",
+        "fields": {
+            "choice": "C) There are a very large number of perfect substitutes for the seller's product.",
+            "question": "15",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "60",
+        "fields": {
+            "choice": "D) All of the above answers are correct.",
+            "question": "15",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "61",
+        "fields": {
+            "choice": "A) the product cannot be produced by small firms.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "62",
+        "fields": {
+            "choice": "B) there are several close substitutes for the product.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "63",
+        "fields": {
+            "choice": "C) there is a unique product with no close substitutes.",
+            "question": "16",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "64",
+        "fields": {
+            "choice": "D) products are high priced.",
+            "question": "16",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "65",
+        "fields": {
+            "choice": "A) no barriers to entry.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "66",
+        "fields": {
+            "choice": "B) many substitutes.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "67",
+        "fields": {
+            "choice": "C) many suppliers.",
+            "question": "17",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "68",
+        "fields": {
+            "choice": "D) one supplier.",
+            "question": "17",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "69",
+        "fields": {
+            "choice": "A) is in a market with natural barriers to entry.",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "70",
+        "fields": {
+            "choice": "B) is unique.",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "71",
+        "fields": {
+            "choice": "C) is in a market with legal barriers to entry.",
+            "question": "18",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "72",
+        "fields": {
+            "choice": "D) has a close substitute.",
+            "question": "18",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "73",
+        "fields": {
+            "choice": "A) The market demand and the firm's demand are the same for a monopoly.",
+            "question": "19",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "74",
+        "fields": {
+            "choice": "B) Monopolies have perfectly inelastic demand for the product sold.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "75",
+        "fields": {
+            "choice": "C) Monopolies are guaranteed to earn an economic profit.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "76",
+        "fields": {
+            "choice": "D) All of the above are correct.",
+            "question": "19",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "77",
+        "fields": {
+            "choice": "A) anything that protects a firm from the arrival of new competitors",
+            "question": "20",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "78",
+        "fields": {
+            "choice": "B) a government regulation that bars a monopoly from earning an economic profit",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "79",
+        "fields": {
+            "choice": "C) something that establishes a barrier to expanding output",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "80",
+        "fields": {
+            "choice": "D) firms already in the market incurring economic losses so that no new firm wants to enter the market",
+            "question": "20",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "81",
+        "fields": {
+            "choice": "A) an open door.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "82",
+        "fields": {
+            "choice": "B) the economic term for diseconomies of scale.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "83",
+        "fields": {
+            "choice": "C) illegal in most markets.",
+            "question": "21",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "84",
+        "fields": {
+            "choice": "D) anything that protects a firm from the arrival of new competitors.",
+            "question": "21",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "85",
+        "fields": {
+            "choice": "A) requirement of a government license before the firm can sell the good or service",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "86",
+        "fields": {
+            "choice": "B) technology enabling a single firm to produce at a lower average cost than two or more firms",
+            "question": "22",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "87",
+        "fields": {
+            "choice": "C) an exclusive right granted to supply a good or service",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "88",
+        "fields": {
+            "choice": "D) ownership of all the available units of a necessary input",
+            "question": "22",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "89",
+        "fields": {
+            "choice": "A) a legal barrier to entry.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "90",
+        "fields": {
+            "choice": "B) a natural monopoly.",
+            "question": "23",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "91",
+        "fields": {
+            "choice": "C) increasing average total costs.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "92",
+        "fields": {
+            "choice": "D) patented the market.",
+            "question": "23",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "93",
+        "fields": {
+            "choice": "A) natural gas",
+            "question": "24",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "94",
+        "fields": {
+            "choice": "B) diamonds",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "95",
+        "fields": {
+            "choice": "C) a patented good",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "96",
+        "fields": {
+            "choice": "D) first-class mail",
+            "question": "24",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "97",
+        "fields": {
+            "choice": "A) owning the only licensed taxicab in town",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "98",
+        "fields": {
+            "choice": "B) the United States Postal Service",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "99",
+        "fields": {
+            "choice": "C) ownership of the only ferry across Puget Sound for twenty miles",
+            "question": "25",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "100",
+        "fields": {
+            "choice": "D) the cable television company in your hometown",
+            "question": "25",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "101",
+        "fields": {
+            "choice": "A) government license",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "102",
+        "fields": {
+            "choice": "B) patent",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "103",
+        "fields": {
+            "choice": "C) public franchise",
+            "question": "26",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "104",
+        "fields": {
+            "choice": "D) copyright",
+            "question": "26",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "105",
+        "fields": {
+            "choice": "A) stimulate innovation.",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "106",
+        "fields": {
+            "choice": "B) encourage the invention of new products and production methods.",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "107",
+        "fields": {
+            "choice": "C) are exclusive rights granted to the inventor of a product or service.",
+            "question": "27",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "108",
+        "fields": {
+            "choice": "D) All of the above answers are correct.",
+            "question": "27",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "109",
+        "fields": {
+            "choice": "A) Patents stimulate innovation.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "110",
+        "fields": {
+            "choice": "B) A patent is a barrier to entry.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "111",
+        "fields": {
+            "choice": "C) Patents enable a firm to be a permanent monopoly.",
+            "question": "28",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "112",
+        "fields": {
+            "choice": "D) Patents encourage invention of new products.",
+            "question": "28",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "113",
+        "fields": {
+            "choice": "A) to reduce the cost of building dwellings",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "114",
+        "fields": {
+            "choice": "B) There is no good explanation for this type of lobbying.",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "115",
+        "fields": {
+            "choice": "C) to guarantee that work on dwellings is of high quality",
+            "question": "29",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "116",
+        "fields": {
+            "choice": "D) to create a legal barrier to entry",
+            "question": "29",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "117",
+        "fields": {
+            "choice": "A) natural barrier to entry",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "118",
+        "fields": {
+            "choice": "B) a public franchise",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "119",
+        "fields": {
+            "choice": "C) a government license",
+            "question": "30",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "120",
+        "fields": {
+            "choice": "D) legal barrier to entry",
+            "question": "30",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "121",
+        "fields": {
+            "choice": "A) oligopoly.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "122",
+        "fields": {
+            "choice": "B) monopoly.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "123",
+        "fields": {
+            "choice": "C) monopolistic competition.",
+            "question": "31",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "124",
+        "fields": {
+            "choice": "D) perfect competition.",
+            "question": "31",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "125",
+        "fields": {
+            "choice": "A) there are barriers to entry.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "126",
+        "fields": {
+            "choice": "B) firms produce differentiated products.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "127",
+        "fields": {
+            "choice": "C) there are no barriers to entry.",
+            "question": "32",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "128",
+        "fields": {
+            "choice": "D) there are a large number of firms.",
+            "question": "32",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "129",
+        "fields": {
+            "choice": "A) similar but slightly different.",
+            "question": "33",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "130",
+        "fields": {
+            "choice": "B) identical perfect substitutes.",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "131",
+        "fields": {
+            "choice": "C) either identical or differentiated.",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "132",
+        "fields": {
+            "choice": "D) unique without any close or perfect substitutes.",
+            "question": "33",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "133",
+        "fields": {
+            "choice": "A) Firms in monopolistic competition compete on their product's price as well as its quality and marketing.",
+            "question": "34",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "134",
+        "fields": {
+            "choice": "B) In monopolistic competition, entry into the industry is unblocked.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "135",
+        "fields": {
+            "choice": "C) Perfect competition has a large number of independently acting sellers.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "136",
+        "fields": {
+            "choice": "D) Only firms in monopolistic competition can earn an economic profit in the short run.",
+            "question": "34",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "137",
+        "fields": {
+            "choice": "A) collusion is impossible.",
+            "question": "35",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "138",
+        "fields": {
+            "choice": "B) one firm will dominate the market.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "139",
+        "fields": {
+            "choice": "C) each firm will produce a large quantity, relative to market demand.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "140",
+        "fields": {
+            "choice": "D) competition is eliminated.",
+            "question": "35",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "141",
+        "fields": {
+            "choice": "A) wheat farming",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "142",
+        "fields": {
+            "choice": "B) colleges and universities",
+            "question": "36",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "143",
+        "fields": {
+            "choice": "C) the local electricity producer",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "144",
+        "fields": {
+            "choice": "D) the domestic automobile producing industry",
+            "question": "36",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "145",
+        "fields": {
+            "choice": "A) new and improved packaging.",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "146",
+        "fields": {
+            "choice": "B) lower price.",
+            "question": "37",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "147",
+        "fields": {
+            "choice": "C) acceptance of more credit cards than the competition.",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "148",
+        "fields": {
+            "choice": "D) location of the retail store.",
+            "question": "37",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "149",
+        "fields": {
+            "choice": "A) many perfect substitutes.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "150",
+        "fields": {
+            "choice": "B) close but not perfect substitutes.",
+            "question": "38",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "151",
+        "fields": {
+            "choice": "C) no close substitutes.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "152",
+        "fields": {
+            "choice": "D) no substitutes of any kind.",
+            "question": "38",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "153",
+        "fields": {
+            "choice": "A) The cost of production falls.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "154",
+        "fields": {
+            "choice": "B) The amount of marketing expenditures decreases for each firm.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "155",
+        "fields": {
+            "choice": "C) The demand curve for each seller's product becomes more horizontal.",
+            "question": "39",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "156",
+        "fields": {
+            "choice": "D) Each seller's demand becomes more inelastic.",
+            "question": "39",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "157",
+        "fields": {
+            "choice": "A) selling at a lower price than rivals sell for",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "158",
+        "fields": {
+            "choice": "B) producing more output to lower average costs",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "159",
+        "fields": {
+            "choice": "C) advertising and packaging",
+            "question": "40",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "160",
+        "fields": {
+            "choice": "D) None of the above answers are correct.",
+            "question": "40",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "161",
+        "fields": {
+            "choice": "A) influence a consumer's buying decision.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "162",
+        "fields": {
+            "choice": "B) convince customers that their product is worth its price.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "163",
+        "fields": {
+            "choice": "C) persuade buyers that their product is superior to others.",
+            "question": "41",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "164",
+        "fields": {
+            "choice": "D) All of the above answers are correct.",
+            "question": "41",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "165",
+        "fields": {
+            "choice": "A) demand increases.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "166",
+        "fields": {
+            "choice": "B) the firm gains more control over its price.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "167",
+        "fields": {
+            "choice": "C) demand becomes more inelastic.",
+            "question": "42",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "168",
+        "fields": {
+            "choice": "D) all of the above occur.",
+            "question": "42",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "169",
+        "fields": {
+            "choice": "A) elasticity of supply value.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "170",
+        "fields": {
+            "choice": "B) Herfindahl-Hirschman Index.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "171",
+        "fields": {
+            "choice": "C) elasticity of demand value.",
+            "question": "43",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "172",
+        "fields": {
+            "choice": "D) four-firm concentration ratio.",
+            "question": "43",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "173",
+        "fields": {
+            "choice": "A) 100 percent",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "174",
+        "fields": {
+            "choice": "B) 78 percent",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "175",
+        "fields": {
+            "choice": "C) 0.25 percent",
+            "question": "44",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "176",
+        "fields": {
+            "choice": "D) 31 percent",
+            "question": "44",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "177",
+        "fields": {
+            "choice": "A) 0 percent",
+            "question": "45",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "178",
+        "fields": {
+            "choice": "B) 25 percent",
+            "question": "45",
+            "is_correct": true
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "179",
+        "fields": {
+            "choice": "C) 100 percent",
+            "question": "45",
+            "is_correct": false
+        }
+    },
+    {
+        "model": "trivia.choice",
+        "pk": "180",
+        "fields": {
+            "choice": "D) 75 percent",
+            "question": "45",
+            "is_correct": false
+        }
+    }
+]

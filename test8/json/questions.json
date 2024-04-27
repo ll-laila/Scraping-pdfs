@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.question",
+        "pk": "1",
+        "fields": {
+            "question": "Over the course of the passage, the main focus shifts\nfrom a",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "2",
+        "fields": {
+            "question": "The main purpose of lines 1-10 (\u201cEven . . . awaited\nme\u201d) is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "3",
+        "fields": {
+            "question": "With which of the following statements about his\nfather would the narrator most likely agree?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "4",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "5",
+        "fields": {
+            "question": "It can reasonably be inferred from the passage that\nthe main reason that the narrator considers Great\nExpectations to be the best gift he ever received is\nbecause",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "6",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "7",
+        "fields": {
+            "question": "The narrator indicates that he pays Sempere",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "8",
+        "fields": {
+            "question": "As used in line 44, \u201cweight\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "9",
+        "fields": {
+            "question": "The word \u201cfriend\u201d is used twice in lines 57-58 to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "10",
+        "fields": {
+            "question": "Which statement best characterizes the relationship\nbetween Sempere and Charles Dickens?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "11",
+        "fields": {
+            "question": "The passage primarily serves to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "12",
+        "fields": {
+            "question": "As used in line 21, \u201callows\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "13",
+        "fields": {
+            "question": "As used in line 43, \u201cstrength\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "14",
+        "fields": {
+            "question": "The passage indicates that a problem with failing to\ndocument null results is that",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "15",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "16",
+        "fields": {
+            "question": "Based on the passage, to which of the following\nhypothetical situations would Malhotra most\nstrongly object?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "17",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "18",
+        "fields": {
+            "question": "The last paragraph serves mainly to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "19",
+        "fields": {
+            "question": "According to the graph, social science studies\nyielding strong results were",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "20",
+        "fields": {
+            "question": "Which of the following statements is supported by\nthe graph?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "21",
+        "fields": {
+            "question": "Which statement from the passage is most directly\nreflected by the data presented in the graph?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "22",
+        "fields": {
+            "question": "One central idea of the passage is that",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "23",
+        "fields": {
+            "question": "Which choice best describes the overall structure of\nthe passage?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "24",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nclaim that Moore\u2019s group was surprised to observe\nsalt stretching?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "25",
+        "fields": {
+            "question": "As used in line 20, \u201crule\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "26",
+        "fields": {
+            "question": "According to the passage, researchers have identified\nwhich mechanism as potentially responsible for the\ninitial attraction between the microscope tip and the\nsalt?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "27",
+        "fields": {
+            "question": "As used in line 42, \u201clead to\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "28",
+        "fields": {
+            "question": "Based on the passage, which choice best describes the\nrelationship between salt behavior in the nanoworld\nand in the macroworld?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "29",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "30",
+        "fields": {
+            "question": "According to the information in the graph, when the\nmicroscope tip is moving away from the salt surface\nand is 15 nanometers from the surface, what is the\napproximate force on the microscope tip, in\nmicronewtons?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "31",
+        "fields": {
+            "question": "Based on the passage and the graph, which label on\nthe graph indicates the point at which a salt nanowire\nbreaks?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "32",
+        "fields": {
+            "question": "In the first paragraph of Passage 1, the main purpose\nof Douglas\u2019s discussion of the growth of the territory\nand population of the United States is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "33",
+        "fields": {
+            "question": "What does Passage 1 suggest about the US\ngovernment\u2019s provisions for the institution of\nslavery, as framed in the Constitution?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "34",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "35",
+        "fields": {
+            "question": "As used in line 67, \u201celement\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "36",
+        "fields": {
+            "question": "Based on Passage 2, Lincoln would be most likely to\nagree with which claim about the controversy over\nslavery?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "37",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "38",
+        "fields": {
+            "question": "As used in line 84, \u201cnature\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "39",
+        "fields": {
+            "question": "Which choice identifies a central tension between the\ntwo passages?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "40",
+        "fields": {
+            "question": "Both passages discuss the issue of slavery in\nrelationship to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "41",
+        "fields": {
+            "question": "In the context of each passage as a whole, the\nquestions in lines 25-27 of Passage 1 and lines 67-69\nof Passage 2 primarily function to help each speaker",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "42",
+        "fields": {
+            "question": "The primary purpose of the passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "43",
+        "fields": {
+            "question": "Based on the passage, a significant advantage of the\nVenus flytrap\u2019s requirement for multiple triggers is\nthat it",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "44",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "45",
+        "fields": {
+            "question": "The use of the phrases \u201cdawdling insect\u201d (line 6),\n\u201chappily meanders\u201d (line 27), and \u201cunassuming bug\u2019s\nencounter\u201d (lines 28-29) in the first two paragraphs\nestablishes a tone that is",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "46",
+        "fields": {
+            "question": "In the second paragraph (lines 15-31), the discussion\nof short-term memory primarily functions to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "47",
+        "fields": {
+            "question": "According to the passage, which statement best\nexplains why the Venus flytrap requires a second\ntrigger hair to be touched within a short amount of\ntime in order for its trap to close?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "48",
+        "fields": {
+            "question": "Which choice describes a scenario in which Hodick\nand Sievers\u2019s model predicts that a Venus flytrap will\nNOT close around an insect?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "49",
+        "fields": {
+            "question": "As used in line 67, \u201cdemonstrated\u201d most\nnearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "50",
+        "fields": {
+            "question": "Based on the passage, what potential criticism might\nbe made of Volkov\u2019s testing of Hodick and\nSievers\u2019s model?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "51",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "52",
+        "fields": {
+            "question": "Based on the passage, in studying the Venus flytrap,\nVolkov and his colleagues made the most extensive\nuse of which type of evidence?",
+            "type": "reading",
+            "trivia": 2
+        }
+    }
+]

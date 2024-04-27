@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.answer",
+        "pk": "1",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The passage begins with the main character, Lymie, sitting in a restaurant \nand reading a history book. The first paragraph describes the book in front of him (\u201cBlank pages front \nand back were filled in with maps, drawings, dates, comic cartoons, and organs of the body,\u201d lines 11-\n13). The second paragraph reveals what Lymie is reading about (the Peace of Paris and the Congress of \nVienna) and suggests his intense concentration on the book (\u201csometimes he swallowed whole the food \nthat he had no idea he was eating,\u201d lines 23-24). In the third paragraph, the focus of the passage shifts \nto a description and discussion of others in the restaurant, namely \u201cA party of four, two men and two \nwomen . . . \u201d (lines 42-43). \nChoice A is incorrect because the passage does not provide observations made by other characters, only \noffering Lymie\u2019s and the narrator\u2019s observations. Choice B is incorrect because the beginning of the \npassage focuses on Lymie as he reads by himself and the end of the passage focuses on the arrival of \nLymie\u2019s father, with whom Lymie\u2019s relationship seems somewhat strained. Choice C is incorrect because \nthe setting is described in the beginning of the first paragraph but is never the main focus of the \npassage.",
+            "question": "1"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "2",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The main purpose of the first paragraph is to establish the passage\u2019s setting \nby describing a place and an object. The place is the Alcazar Restaurant, which is described as being \n\u201clong and narrow\u201d and decorated with \u201cart moderne,\u201d murals, and plants (lines 2-6), and the object is \nthe history book Lymie is reading. \nChoice A is incorrect because rather than establishing what Lymie does every night, the first paragraph \ndescribes what Lymie is doing on one night. Choice B is incorrect because nothing in the first paragraph \nindicates when the passage takes place, as the details provided (such as the restaurant and the book) \nare not specific to one era. Choice D is incorrect because nothing in the first paragraph clearly \nforeshadows a later event.",
+            "question": "2"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "3",
+        "fields": {
+            "answer": "C",
+            "description": "",
+            "question": "3"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "4",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage makes it clear that Lymie finds the party of four who enter the \nrestaurant to be loud and bothersome, as their entrance means he is no longer able to concentrate on \nhis book: \u201cThey laughed more than there seemed any occasion for . . . and their laughter was too loud. \nBut it was the women\u2019s voices . . . which caused Lymie to skim over two whole pages without knowing \nwhat was on them\u201d (lines 52-59). \nChoices B, C, and D are incorrect because lines 55-59 make clear that Lymie is annoyed by the party of \nfour, not that he finds their presence refreshing (choice B), thinks they resemble the people he is \nreading about (choice C), or thinks they represent glamour and youth (choice D).",
+            "question": "4"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "5",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks about Lymie\u2019s impression of the party of four \nwho enter the restaurant, with the correct answer being that he finds them noisy and distracting. This is \nsupported in lines 55-59: \u201cBut it was the women\u2019s voices, the terrible not quite sober pitch of the \nwomen\u2019s voices, which caused Lymie to skim over two whole pages without knowing what was on \nthem.\u201d \nChoices A, B, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "5"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "6",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In the passage, Lymie closes his book only after \u201ca coat that he recognized \nas his father\u2019s was hung on the hook next to his chair\u201d (lines 67-68). It is Lymie\u2019s father\u2019s arrival that \ncauses him to close the book.",
+            "question": "6"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "7",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 74-79, the narrator describes Mr. Peters as \u201cgray\u201d and balding, \nnoting that he has \u201clost weight\u201d and his color is \u201cpoor.\u201d This description suggests Mr. Peters is aging and \nlosing strength and vigor. \nChoices A, B, and C are incorrect because the description of Mr. Peters in lines 74-79 suggests he is a \nperson who is wan and losing vitality, not someone who is healthy and in good shape (choice A), angry \nand intimidating (choice B), or emotionally anxious (choice C).",
+            "question": "7"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "8",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the last paragraph of the passage, Mr. Peters is described as being \nunaware \u201cthat there had been any change\u201d in his appearance since he was younger (lines 80-81). Later \nin the paragraph, the passage states that \u201cthe young man\u201d Mr. Peters once was \u201chad never for one \nsecond deserted\u201d him (lines 90-91). The main idea of the last paragraph is that Mr. Peters still thinks of \nhimself as young, or at least acts as if he is a younger version of himself. \nChoice A is incorrect because Mr. Peters is spending time with Lymie, his son, and there is no indication \nthat he generally does not spend time with his family. Choice C is incorrect because although there are \nbrief mentions of a diamond ring and manicured fingers, the paragraph focuses on Mr. Peters\u2019s overall \nappearance, not on his awareness of status symbols. Choice D is incorrect because the last paragraph \nclearly states that Mr. Peters is \u201cnot aware that there had been any change\u201d and thinks of himself as \nyoung.",
+            "question": "8"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "9",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 81-85, Mr. Peters is described as having \u201cstraightened his tie self-\nconsciously\u201d and gestured with a menu \u201cso that the two women at the next table would notice the \ndiamond ring on the fourth finger of his right hand.\u201d Mr. Peters\u2019s actions are those of someone who \nwants to attract attention and be noticed. \nChoices A, C, and D are incorrect because the lines cited do not support the idea Mr. Peters wants to \nattract attention to himself. Choices A and C address Mr. Peters\u2019s view of himself. Choice D indicates \nthat Mr. Peters\u2019s view of himself affects his behavior but does not reveal that he acts in a way meant to \ndraw attention.",
+            "question": "9"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "10",
+        "fields": {
+            "answer": "B",
+            "description": "",
+            "question": "10"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "11",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In Passage 1, Beecher makes the point that even if women in her society \nare perceived as being inferior to men, they are still able to effect considerable influence on that society: \n\u201cBut while woman holds a subordinate relation in society to the other sex, it is not because it was \ndesigned that her duties or her influence should be any the less important, or all-pervading\u201d (lines 6-10). \nChoice A is incorrect because Beecher describes the dynamic between men and women in terms of the \nway they can change society, not in terms of security and physical safety. Choice C is incorrect because \neven though Beecher implies that women have fewer rights in society than men do, she doesn\u2019t say that \nwomen have fewer responsibilities. Choice D is incorrect because Beecher does not assert that women \nare superior to men.",
+            "question": "11"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "12",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The previous question asks what point Beecher makes regarding the \nrelationship between men and women in her society, with the answer being that women are considered \ninferior but can still have influence. This is supported in lines 6-10: \u201cBut while woman holds a \nsubordinate relation in society to the other sex, it is not because it was designed that her duties or her \ninfluence should be any the less important, or all-pervading.\u201d \nChoices B, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "12"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "13",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the third paragraph (lines 22-37), Beecher suggests that women can be \n\u201cso much respected, esteemed and loved\u201d by those around them that men will accede to their wishes: \n\u201cthen, the fathers, the husbands, and the sons, will find an influence thrown around them, to which they \nwill yield not only willingly but proudly . . . .\u201d These lines show that Beecher believes women can \ninfluence society by influencing the men around them; in other words, women have an indirect \ninfluence on public life.",
+            "question": "13"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "14",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. Regarding the dynamic of men and women in society, Beecher says that \none sex is given \u201cthe subordinate station\u201d while the other is given the \u201csuperior\u201d station (lines 1-2). In \nthe context of how one gender exists in comparison to the other, the word \u201cstation\u201d suggests a standing \nor rank. \nChoices A, B, and C are incorrect because in the context of the relative standing of men and women in \nBeecher\u2019s society, the word \u201cstation\u201d suggests a standing or rank, not a physical location or area \n(choices A, B, and C).",
+            "question": "14"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "15",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. When describing how men and women can influence society, Beecher says \nthe ways they can do so \u201cshould be altogether different and peculiar\u201d (lines 11-12). In the context of the \n\u201caltogether different\u201d ways men and women can influence society, the word \u201cpeculiar\u201d implies being \nunique or distinctive. \nChoices A, B, and D are incorrect because in the context of the \u201caltogether different\u201d ways men and \nwomen can influence society, the word \u201cpeculiar\u201d suggests something unique or distinctive, not \nsomething unusual and odd (choice A), unexpected (choice B), or rare (choice D).",
+            "question": "15"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "16",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In Passage 2, Grimk\u00e9 makes the main point that people have rights because \nthey are human, not because of their gender or race. This is clear in lines 58-60, when Grimk\u00e9 states that \n\u201chuman beings have rights, because they are moral beings: the rights of all men grow out of their moral \nnature\u201d and lines 65-68, when Grimk\u00e9 writes, \u201cNow if rights are founded in the nature of our moral \nbeing, then the mere circumstance of sex does not give to man higher rights and responsibilities, than to \nwoman.\u201d \nChoices B, C, and D are incorrect because Grimk\u00e9 primarily emphasizes that all men and women \ninherently have the same rights (\u201crights are founded in the nature of our moral being,\u201d lines 65-66). Her \ncentral claim is not that men and women need to work together to change society (choice B), that moral \nrights are the distinguishing characteristic separating humans from animals (choice C), or that there \nshould be equal opportunities for men and women to advance and succeed.",
+            "question": "16"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "17",
+        "fields": {
+            "answer": "B",
+            "description": "",
+            "question": "17"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "18",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks what point Grimk\u00e9 makes about human rights \nin Passage 2, with the answer being that they exist and have moral authority whether or not they are \nestablished by societal law. This is supported in lines 61-65: \u201cThese rights may be wrested from the \nslave, but they cannot be alienated: his title to himself is as perfect now, as is that of Lyman Beecher: it \nis stamped on his moral being, and is, like it, imperishable.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "18"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "19",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In Passage 1, Beecher asserts that men and women naturally have different \npositions in society: \u201cHeaven has appointed to one sex the superior, and to the other the subordinate \nstation\u201d (lines 1-2). She goes on to argue that a woman should act within her subordinate role to \ninfluence men but should not \u201cexert coercive influences\u201d that would put her \u201cout of her appropriate \nsphere\u201d (lines 44-46). In Passage 2, Grimk\u00e9 takes issue with the idea that men and women have different \nrights and roles. She asserts that as moral beings all people have the same inherent rights and states \nthat \u201cthe mere circumstance of sex does not give to man higher rights and responsibilities, than to \nwoman\u201d (lines 66-68). \nChoice A is incorrect because Passage 2 does not discuss the practical difficulties of something that is \nproposed in Passage 1 but rather argues against the main point of Passage 1. Choice C is incorrect \nbecause Passage 2 does not provide historical context for the view expressed in Passage 1; the passages \nwere published at around the same time and both discuss contemporary society. Choice D is incorrect \nbecause Passage 2 does not elaborate on implications found in Passage 1 as much as it disputes the \nideas explicitly expressed in Passage 1.",
+            "question": "19"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "20",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. While Beecher and Grimk\u00e9 clearly disagree regarding a woman\u2019s role in \nsociety, the passages suggest that both authors share the belief that women do have moral duties and \nresponsibilities in society. In Passage 1, Beecher writes that \u201cwhile woman holds a subordinate relation \nin society to the other sex, it is not because it was designed that her duties or her influence should be \nany the less important, or all-pervading\u201d (lines 6-10). She suggests that women do have an obligation to \nuse their influence to bring about beneficial changes in society. In Passage 2, Grimk\u00e9 asserts that all \npeople \u201care moral beings\u201d (lines 58-59) and that both men and women have \u201crights and responsibilities\u201d \n(line 68). She concludes that \u201cwhatever it is morally right for man to do, it is morally right for woman to \ndo\u201d (lines 81-83). \nChoice B is incorrect because neither author suggests that when men work to bring about political \nchanges, they often do so out of consideration for others rather than considerations for themselves. \nChoice C is incorrect because neither passage discusses the value given to women\u2019s ethical obligations, \nalthough both authors suggest that women do have ethical and moral obligations. Choice D is incorrect \nbecause in Passage 1 Beecher argues that women should avoid direct political activism, cautioning \nagainst actions that would put them outside their \u201cappropriate sphere\u201d (line 46).",
+            "question": "20"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "21",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 65-68 of Passage 2, Grimk\u00e9 writes, \u201cNow if rights are founded in \nthe nature of our moral being, then the mere circumstance of sex does not give to man higher rights and \nresponsibilities, than to woman.\u201d In other words, gender does not make men\u2019s rights and duties \nsuperior to women\u2019s. Beecher, on the other hand, begins Passage 1 by stating that \u201cheaven has \nappointed to one sex the superior, and to the other the subordinate station,\u201d suggesting that men and \nwomen have fundamentally different natures. Therefore, Beecher most likely would have disagreed \nwith Grimk\u00e9\u2019s assertion. \nChoices A and B are incorrect because Beecher fundamentally disagrees with Grimk\u00e9 regarding the basic \nnature and societal roles of men and women, making it very unlikely that she would have viewed \nGrimk\u00e9\u2019s statement in lines 65-68 with either sympathy or agreement. Choice C is incorrect because \nBeecher wouldn\u2019t necessarily have been dismayed by Grimk\u00e9\u2019s belief as much as she would have simply \ndisagreed with it, and she does not indicate that the role of women in society is more difficult to play \nthan is that of men.",
+            "question": "21"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "22",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In line 14, the passage states that industrial agriculture has become \n\u201cincredibly efficient on a simple land to food basis.\u201d In this context, \u201csimple\u201d suggests something basic \nor straightforward.",
+            "question": "22"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "23",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The passage clearly states that conventional agriculture is very efficient, \nespecially when compared to organic farming: \u201corganic farming yields 25% fewer crops on average than \nconventional agriculture\u201d (lines 40-42) and in a study \u201corganic farming delivered a lower yield for every \ncrop type\u201d (lines 51-52). It can therefore be understood from the passage that conventional agriculture \ndoes a good job maximizing the output of the land that is farmed. \nChoice A is incorrect because the passage states how efficient conventional agriculture is in regard to \nthe amount of food it can produce but does not indicate that it produces a significantly wide variety of \nfruits and vegetables. Choice C is incorrect because even if the passage does say that each American \nfarmer can produce crops to feed \u201cover 155 people worldwide\u201d (lines 16-17), it never claims that \nconventional agriculture can satisfactorily feed everyone in the world. Choice D is incorrect because the \npassage states that conventional agriculture uses a great deal of nitrogen, not that it changes the need \nfor nitrogen in plant growth one way or the other.",
+            "question": "23"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "24",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage makes it clear that \u201cmost environmentalists\u201d (line 27) believe \nconventional agriculture produces food that is not as healthy as food produced through organic farming \nand that it is more harmful to the environment than organic farming is: many environmentalists \u201chave \nembraced organic food as better for the planet\u2014and healthier and tastier, too\u2014than the stuff produced \nby agricultural corporations\u201d (lines 28-31). \nChoices B, C, and D are incorrect because they are not supported by the passage. The passage never \nstates that many environmentalists believe that conventional farming reduces the need to convert \nwilderness to farmland (choice B), is in any way good for the environment (choice C), or protects wildlife \nhabitats (choice D).",
+            "question": "24"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "25",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks how environmentalists perceive conventional \nagriculture, with the answer being that they believe it produces a product that is less healthy and more \nenvironmentally destructive than that produced by organic farming. This is supported in lines 28-31: \n\u201cThey have embraced organic food as better for the planet\u2014and healthier and tastier, too\u2014than the \nstuff produced by agricultural corporations.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "25"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "26",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The passage makes it clear that while both conventional and organic \nfarming need nitrogen for plant growth, conventional farming uses synthetic fertilizers and organic does \nnot: \u201cConventional agriculture makes use of 171 million metric tons of synthetic fertilizer each year, and \nall that nitrogen enables much faster plant growth than the slower release of nitrogen from the compost \nor cover crops used in organic farming\u201d (lines 61-65). \nChoice A is incorrect because the passage does not state that conventional and organic farming are \nequally sustainable and does state that organic farming needs \u201cmore land\u201d to produce \u201cfewer crops\u201d \n(lines 42-43) but does not indicate that it always requires dramatically more land. Choice B is incorrect \nbecause the passage does not state that organic farming uses artificial chemicals. Choice D is incorrect \nbecause the passage mentions nitrogen runoff only as a product of conventional farming, not organic \nfarming, and does not indicate that only the nitrogen in conventional fertilizers is dangerous.",
+            "question": "26"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "27",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks about the relationship between conventional \nagriculture and organic farming, with the answer being that unlike organic farms, conventional farms \nuse synthetic fertilizers. This is supported in lines 61-65: \u201cConventional agriculture makes use of 171 \nmillion metric tons of synthetic fertilizer each year, and all that nitrogen enables much faster plant \ngrowth than the slower release of nitrogen from the compost or cover crops used in organic farming.\u201d  \nChoices A, B, and C are incorrect because the lines cited do not support the answer to the previous",
+            "question": "27"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "28",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The passage states that the authors of the study comparing conventional \nand organic farming have come to the conclusion that an \u201cideal global agriculture system\u201d would \n\u201cborrow the best from both systems\u201d (lines 80-82). The quote from Jonathan Foley in lines 84-97 \nindicates that this ideal system would take into consideration many different factors, including the \nnutrition and calories offered by specific types of foods as well as different geographic, economic, and \nsocial needs.  \nChoices A and D are incorrect because the passage makes it clear that the \u201cideal global agriculture \nsystem\u201d would give consideration to multiple factors, not that it would focus mainly on productivity",
+            "question": "28"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "29",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The passage states that conventional agriculture can be superior to organic \nfarming in terms of producing \u201csheer calories\u201d (line 88). In this context, \u201csheer\u201d most nearly means pure; \nthe passage is referring to the pure number of calories delivered by foods. \nChoices A, B, and C are incorrect because in the context of discussing the calories foods can provide, \n\u201csheer\u201d suggests the pure number of calories. Also, it does not make sense to say that calories can be \nseen through (choice A), are somehow sudden or happen unexpectedly (choice B), or are at a very sharp \nangle (choice C).",
+            "question": "29"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "30",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. Figure 1 shows that the organic yield as a percentage of conventional yield \nis similar for cereals and all crops, with both yielding roughly 75%. \nChoice A is incorrect because figure 1 shows that the organic yield as a percentage of conventional yield \nis higher for fruits (just under 100%) than for vegetables (just under 70%). Choice C is incorrect because \nfigure 1 shows there were only 28 observations for oilseed crops. Choice D is incorrect because figure 1 \nshows that the organic yield as a percentage of conventional yield is higher for oilseed crops \n(approximately 90%) than for vegetables (just under 70%).",
+            "question": "30"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "31",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. Every organically grown species represented in figure 2 produces a smaller \nyield than do their conventional counterparts. All of the organically grown species are within a range of \napproximately 60\u201390% of the conventional yield.  \nChoice A is incorrect because figure 2 shows that soybeans have the highest yield (approximately 90%), \nnot the lowest. Choice B is incorrect because figure 2 shows that organically grown barley and maize are \nproduced at a lower yield than the conventionally grown species (just below 70% and just below 90%, \nrespectively), not a comparable one. Choice C is incorrect because figure 2 shows that soybeans, not \ntomatoes, have the highest yield of the organically grown species.",
+            "question": "31"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "32",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The majority of the passage focuses on the experiment concerning \u201chow \nmuch the crowd influences the individual, and whether it can be controlled from outside\u201d (lines 42-44). \nAfter explaining the experiment and the results it produced, the passage moves on to consider",
+            "question": "32"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "33",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The author of the passage suggests that a group of people can be \u201cwiser\u201d \nand more effective than a single person at assessing a quantitative answer, or a measurement, versus \nproducing a valid qualitative judgment, or a judgment of the quality of something. This is most clear in \nlines 11-14, which state that when guessing a bull\u2019s weight or how many gumballs are in a jar, \u201cyour \nguess is probably going to be far from the mark, whereas the average of many people\u2019s choices is \nremarkably close to the true number.\u201d   \nChoices A, B, and D are incorrect because lines 11-14 indicate that the author believes that crowds may \nbe more effective than individuals when arriving at quantitative answers rather than qualitative results. \nNothing in the passage suggests that the author believes that crowds are better at starting \ndisagreements than studying an issue in depth (choice A), supporting ideas rather than challenging them \n(choice B), or ranking opinions rather than coming up with new ideas (choice D).",
+            "question": "33"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "34",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks what the author of the passage suggests about \nthe wisdom of crowds, with the answer being that crowds can be more effective at producing \nquantitative answers than qualitative results. This is supported in lines 11-14: when it comes to guessing \na bull\u2019s weight or how many gumballs are in a jar, \u201cyour guess is probably going to be far from the mark, \nwhereas the average of many people\u2019s choices is remarkably close to the true number.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "34"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "35",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In the passage, the author explains that those who are skeptical of the \ntheory that \u201cmeasuring the aggregate of people\u2019s opinions produces a stable, reliable value\u201d (lines 18-\n20) believe that \u201cpeople\u2019s opinions are easily swayed by those of others\u201d (lines 20-21). This idea is best \nsupported in lines 55-58, which describe a finding from a study of opinions in crowds: \u201cComments that \nreceived fake positive votes from the researchers were 32% more likely to receive more positive votes",
+            "question": "35"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "36",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. One question Watts asks in regard to the experiment is whether the results \nwould hold true on a larger scale. The passage quotes him in lines 74-76: \u201c\u2018[But] one question is whether \nthe positive [herding] bias is specific to this site\u2019 or true in general.\u201d Doing the experiment again but \ncollecting ratings on multiple websites would address Watts\u2019s question, as it would show whether or not \nthe same results occur on other sites. \nChoices A, C, and D are incorrect. Providing fewer fake positive comments during the experiment (choice \nA), requiring users to be registered on the website (choice C), or telling users that their answers will be \nstudied (choice D) are actions that likely would affect the results of the experiment involving users \nvoting on comments about stories on one news website, but they would not address Watts\u2019s questions \nabout whether the study would produce the same results on other websites or why different categories \nof news items had different effects on the news website.",
+            "question": "36"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "37",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 85-86 the author asks, \u201cWill companies be able to boost their \nproducts by manipulating online ratings on a massive scale?\u201d In the context of selling products by \nmanipulating user reviews, \u201cboost\u201d most nearly means promote. \nChoices A, B, and D are incorrect because in the context of selling products by manipulating user \nreviews, the word \u201cboost\u201d refers to promoting the products, not making them larger or bigger (choice \nA), faster (choice B), or safe (choice D).",
+            "question": "37"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "38",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 85-86 the author asks, \u201cWill companies be able to boost their \nproducts by manipulating online ratings on a massive scale?\u201d In the context of selling products by \nmanipulating user reviews on a massive scale, the word \u201cscale\u201d most nearly means level or size. \nChoices B, C, and D are incorrect because in the context of selling products by manipulating user \nreviews, a massive \u201cscale\u201d refers to a great level or size, not to a payment (choice B), an interval or space \nbetween things (choice C), or a plan (choice D).",
+            "question": "38"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "39",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The figure shows that while the mean score of the control comments in the \npolitics category is below 2.0, the artificially up-voted mean score for that category is exactly 2.5. \nChoice A is incorrect because the artificially up-voted mean score of comments in the business category \nis higher than 3.0. Choice C is incorrect because the artificially up-voted mean score of comments in the \nfun category is less than 2.5. Choice D is incorrect because the artificially up-voted mean score of the \ncomments in the general news category is just over 2.0.",
+            "question": "39"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "40",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The figure shows that the mean score for both control comments and \nartificially up-voted comments in the general news category is just above 2.0.  \nChoice A is incorrect because the mean score for the control comments in the culture and society \ncategory is a little below 2.5 while the mean score for the artificially up-voted comments is over 3.0. \nChoice B is incorrect because the mean score for the control comments in the information technology \ncategory is a little above 1.5 while the mean score for the artificially up-voted comments is above 2.0. \nChoice C is incorrect because the mean score for the control comments in the fun category is exactly 2.0 \nwhile the mean score for the artificially up-voted comments is nearly 2.5.",
+            "question": "40"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "41",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In the passage Watts notes that \u201cthe category of the news items . . . had a \nstrong effect on how much people could be manipulated\u201d (lines 76-79). That idea is directly supported \nby the data in the figure, which show that the difference in mean score between the control comments \nand the artificially up-voted comments varies by subject (for example, in the general news category \nthere is virtually no difference between the mean scores of the two types of comments, while for the \nbusiness category there is almost a 1.0-point difference between the mean scores). \nChoices A and B are incorrect because the passage provides no data for artificially down-voted \ncomments or negative social influence. Choice C is incorrect because the figure applies only to one \ncontext (mean score of control comments versus mean score of artificially up-voted comments on the \nnews site); there is no way to tell what patterns would be observed in other contexts.",
+            "question": "41"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "42",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. According to the passage, Maguire found that taxi drivers\u2019 hippocampi are \n\u201c7 percent larger than normal,\u201d which is evidence that \u201cway-finding around London had physically \naltered the gross structure of their brains\u201d (lines 10-14). In lines 20-26, the passage indicates that this \nfinding challenges an earlier consensus: \u201cIt had long been thought that the adult brain was incapable of \nspawning new neurons\u2014that . . . the brain\u2019s basic anatomical structure was more or less static. \nMaguire\u2019s study suggested the old inherited wisdom was simply not true.\u201d",
+            "question": "42"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "43",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks about the significance of Maguire\u2019s findings, \nwith the answer being that her findings call into question a previous belief. This is supported in lines 20-\n26: \u201cIt had long been thought that the adult brain was incapable of spawning new neurons\u2014that . . . the \nbrain\u2019s basic anatomical structure was more or less static. Maguire\u2019s study suggested the old inherited \nwisdom was simply not true.\u201d \nChoices A, B, and C are incorrect because the lines cited do not support the answer to the previous",
+            "question": "43"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "44",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In line 24, the passage discusses the \u201cbrain\u2019s basic anatomical structure.\u201d In \nthis context, the word \u201cbasic\u201d most nearly means fundamental. \nChoices A, B, and C are incorrect because in the context of discussing the brain\u2019s structure, the word \n\u201cbasic\u201d most nearly means fundamental, not first (choice A), uncomplicated (choice B), or required \n(choice C).",
+            "question": "44"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "45",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The purpose of Maguire\u2019s study of the mental athletes was to try to \ndetermine what it is that makes them so good at memorization, and in particular if they have \nstructurally different brains than people without such extraordinary memorization skills or if they have \nnormal brain structures but use them in unusual ways. This is supported in lines 33-37, which state that \nMaguire and her team \u201cwanted to find out if the memorizers\u2019 brains were\u2014like the London cabbies\u2019\u2014\nstructurally different from the rest of ours, or if they were somehow just making better use of memory \nabilities that we all possess.\u201d \nChoice A is incorrect because the study was an attempt to compare the brains of mental athletes to the \nbrains of the general population, not to compare the use of different brain structures in memorization \nand navigation. Choices B and D are incorrect because the passage makes it clear that it was not known",
+            "question": "45"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "46",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks what Maguire\u2019s study of mental athletes \nattempted to answer, with the answer being the question of whether it is brain structure or an unusual \nuse of the brain that gives certain people extraordinary memorization skills. This is supported in lines 33-\n37: \u201cThey wanted to find out if the memorizers\u2019 brains were\u2014like the London cabbies\u2019\u2014structurally \ndifferent from the rest of ours, or if they were somehow just making better use of memory abilities that \nwe all possess.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "46"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "47",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 38-39, the passage describes part of Maguire\u2019s study by stating that \n\u201cthe researchers put both the mental athletes and a group of matched control subjects into MRI \nscanners.\u201d In the context of a study that has two groups of subjects, the word \u201cmatched\u201d suggests \nsubjects that are similar or comparable. \nChoices B, C, and D are incorrect because in the context of a study with two groups of subjects, the word \n\u201cmatched\u201d suggests subjects that are similar or comparable, not ones that are exactly the same (choice \nB), ones that are recognizably different (choice C), or ones that are rivals (choice D).",
+            "question": "47"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "48",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The main purpose of the fifth paragraph (lines 57-65) is to relate what \nMaguire discovered about the mental athletes, namely that their brain structures are not different from \nthose of the control group but that the mental athletes use their brains differently: \u201cthere was one \ntelling difference . . . regions of the brain that were less active in the control subjects seemed to be \nworking in overdrive for the mental athletes.\u201d  \nChoice A is incorrect because the fifth paragraph does not mention the taxi drivers or the study involving \nthem. Choice B is incorrect because the fifth paragraph describes some of the unexpected results of \nMaguire\u2019s study but does not address the possible reasons for those results. Choice D is incorrect \nbecause the fifth paragraph describes only Maguire\u2019s findings, not her methods.",
+            "question": "48"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "49",
+        "fields": {
+            "answer": "C",
+            "description": "",
+            "question": "49"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "50",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. After establishing in lines 50-51 that the brains of the control group and \nthe mental athletes seemed to be \u201cindistinguishable,\u201d the passage suggests that the reason mental \nathletes are so good at memorization is that they use parts of their brains that most other people don\u2019t \nuse when memorizing: \u201cSurprisingly, when the mental athletes were learning new information, they \nwere engaging several regions of the brain known to be involved in two specific tasks: visual memory \nand spatial navigation, including the same right posterior hippocampal region that the London cabbies \nhad enlarged with all their daily way-finding\u201d (lines 66-72). \nChoices B and C are incorrect because the passage explains that the mental athletes were converting \ninformation into images, not abstract symbols or numerical lists. Choice D is incorrect because it is not \nsupported by the passage, as the author discusses the mental athletes\u2019 actions while memorizing but \nnot any brain exercises the mental athletes regularly do.",
+            "question": "50"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "51",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The previous question asks what the passage suggests about the mental \nathletes\u2019 success with memorization, with the answer being that they use parts of the brain that most \nother people don\u2019t use when memorizing. This is supported in lines 66-72: \u201cSurprisingly, when the \nmental athletes were learning new information, they were engaging several regions of the brain known \nto be involved in two specific tasks: visual memory and spatial navigation, including the same right \nposterior hippocampal region that the London cabbies had enlarged with all their daily way-finding.\u201d \nChoices B, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "51"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "52",
+        "fields": {
+            "answer": "B",
+            "description": "",
+            "question": "52"
+        }
+    }
+]

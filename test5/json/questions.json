@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.question",
+        "pk": "1",
+        "fields": {
+            "question": "Over the course of the passage, the primary focus\nshifts from",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "2",
+        "fields": {
+            "question": "The main purpose of the first paragraph is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "3",
+        "fields": {
+            "question": "It can reasonably be inferred that Irma, the waitress,\nthinks Lymie is \u201cthrough eating\u201d (line 37) because",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "4",
+        "fields": {
+            "question": "Lymie\u2019s primary impression of the \u201cparty of four\u201d\n(line 42) is that they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "5",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "6",
+        "fields": {
+            "question": "The narrator indicates that Lymie finally closes the\nhistory book because",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "7",
+        "fields": {
+            "question": "The primary impression created by the narrator\u2019s\ndescription of Mr. Peters in lines 74-79 is that he is",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "8",
+        "fields": {
+            "question": "The main idea of the last paragraph is that Mr. Peters",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "9",
+        "fields": {
+            "question": "Which choice best supports the conclusion that\nMr. Peters wants to attract attention?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "10",
+        "fields": {
+            "question": "As used in line 93, \u201cbecoming\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "11",
+        "fields": {
+            "question": "In Passage 1, Beecher makes which point about the\nstatus of women relative to that of men?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "12",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "13",
+        "fields": {
+            "question": "In Passage 1, Beecher implies that women\u2019s effect on\npublic life is largely",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "14",
+        "fields": {
+            "question": "As used in line 2, \u201cstation\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "15",
+        "fields": {
+            "question": "As used in line 12, \u201cpeculiar\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "16",
+        "fields": {
+            "question": "What is Grimk\u00e9\u2019s central claim in Passage 2?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "17",
+        "fields": {
+            "question": "In Passage 2, Grimk\u00e9 makes which point about\nhuman rights?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "18",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "19",
+        "fields": {
+            "question": "Which choice best states the relationship between the\ntwo passages?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "20",
+        "fields": {
+            "question": "Based on the passages, both authors would agree\nwith which of the following claims?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "21",
+        "fields": {
+            "question": "Beecher would most likely have reacted to lines 65-68\n(\u201cNow . . . woman\u201d) of Passage 2 with",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "22",
+        "fields": {
+            "question": "As used in line 14, \u201csimple\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "23",
+        "fields": {
+            "question": "According to the passage, a significant attribute of\nconventional agriculture is its ability to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "24",
+        "fields": {
+            "question": "Which choice best reflects the perspective of the\n\u201cenvironmentalists\u201d (line 27) on conventional\nagriculture?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "25",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "26",
+        "fields": {
+            "question": "Which statement best expresses a relationship\nbetween organic farming and conventional farming\nthat is presented in the passage?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "27",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "28",
+        "fields": {
+            "question": "According to Foley, an \u201cideal global agriculture\nsystem\u201d (line 80)",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "29",
+        "fields": {
+            "question": "In line 88, \u201csheer\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "30",
+        "fields": {
+            "question": "Which statement is best supported by the\ninformation provided in figure 1?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "31",
+        "fields": {
+            "question": "Which of the following claims is supported by\nfigure 2?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "32",
+        "fields": {
+            "question": "Over the course of the passage, the main focus shifts\nfrom a discussion of an experiment and its results to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "33",
+        "fields": {
+            "question": "The author of the passage suggests that crowds may\nbe more effective at",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "34",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "35",
+        "fields": {
+            "question": "Which choice best supports the view of the \u201cskeptics\u201d\n(line 20)?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "36",
+        "fields": {
+            "question": "Which action would best address a question Watts\nraises about the study?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "37",
+        "fields": {
+            "question": "As used in line 85, \u201cboost\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "38",
+        "fields": {
+            "question": "As used in line 86, \u201cscale\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "39",
+        "fields": {
+            "question": "In the figure, which category of news has an\nartificially up-voted mean score of 2.5?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "40",
+        "fields": {
+            "question": "According to the figure, which category of news\nshowed the smallest difference in mean score\nbetween artificially up-voted comments and control\ncomments?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "41",
+        "fields": {
+            "question": "Data presented in the figure most directly support\nwhich idea from the passage?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "42",
+        "fields": {
+            "question": "According to the passage, Maguire\u2019s findings\nregarding taxi drivers are significant because they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "43",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "44",
+        "fields": {
+            "question": "As used in line 24, \u201cbasic\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "45",
+        "fields": {
+            "question": "Which question was Maguire\u2019s study of mental\nathletes primarily intended to answer?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "46",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "47",
+        "fields": {
+            "question": "As used in line 39, \u201cmatched\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "48",
+        "fields": {
+            "question": "The main purpose of the fifth paragraph\n(lines 57-65) is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "49",
+        "fields": {
+            "question": "According to the passage, when compared to mental\nathletes, the individuals in the control group in\nMaguire\u2019s second study",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "50",
+        "fields": {
+            "question": "The passage most strongly suggests that mental\nathletes are successful at memorization because they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "51",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "52",
+        "fields": {
+            "question": "The questions in lines 74-78 primarily serve to",
+            "type": "reading",
+            "trivia": 2
+        }
+    }
+]

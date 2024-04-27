@@ -1,0 +1,407 @@
+[
+    {
+        "model": "trivia.question",
+        "pk": "1",
+        "fields": {
+            "question": "What is the difference between perfect competition and monopolistic competition?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "2",
+        "fields": {
+            "question": "The market type known as perfect competition is",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "3",
+        "fields": {
+            "question": "Which of the following market types has all firms selling products so identical that buyers do not care from\nwhich firm they buy?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "4",
+        "fields": {
+            "question": "Perfect competition is characterized by all of the following EXCEPT",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "5",
+        "fields": {
+            "question": "Which of the following is the best example of a perfectly competitive market?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "6",
+        "fields": {
+            "question": "Which of the following market types has the fewest number of firms?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "7",
+        "fields": {
+            "question": "Which of the following market types has a large number of firms that sell similar but slightly different\nproducts?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "8",
+        "fields": {
+            "question": "Which of the following market types has only a few competing firms?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "9",
+        "fields": {
+            "question": "In a perfectly competitive market, the type of decision a firm has to make is different in the short run than in\nthe long run. Which of the following is an example of a perfectly competitive firm's short-run decision?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "10",
+        "fields": {
+            "question": "In perfect competition, a firm maximizes profit in the short run by deciding",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "11",
+        "fields": {
+            "question": "In a perfectly competitive market, the type of decision a firm has to make is different in the short run than in\nthe long run. Which of the following is an example of a perfectly competitive firm's long-run decision?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "12",
+        "fields": {
+            "question": "A price-taking firm",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "13",
+        "fields": {
+            "question": "A large number of sellers all selling an identical product implies which of the following?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "14",
+        "fields": {
+            "question": "Perfectly competitive firms are price takers because",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "15",
+        "fields": {
+            "question": "If demand for a seller's product is perfectly elastic, which of the following is correct?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "16",
+        "fields": {
+            "question": "One of the requirements for a monopoly is that",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "17",
+        "fields": {
+            "question": "A monopoly is a market with",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "18",
+        "fields": {
+            "question": "Firms face competition when the good they produce",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "19",
+        "fields": {
+            "question": "Which of the following statements is correct?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "20",
+        "fields": {
+            "question": "Which describes a barrier to entry?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "21",
+        "fields": {
+            "question": "A barrier to entry is",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "22",
+        "fields": {
+            "question": "Which of the following would create a natural monopoly?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "23",
+        "fields": {
+            "question": "If the technology for producing a good enables one firm to meet the entire market demand at a lower price than\ntwo or more firms could, then that firm has",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "24",
+        "fields": {
+            "question": "Which of the following goods is the best example of a natural monopoly?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "25",
+        "fields": {
+            "question": "Which of the following is the best example of a natural monopoly?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "26",
+        "fields": {
+            "question": "Which barrier to entry is an exclusive right granted to the author or composer of a literary, musical, dramatic\nor artistic work?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "27",
+        "fields": {
+            "question": "Patents",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "28",
+        "fields": {
+            "question": "Which of the following is NOT correct about patents?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "29",
+        "fields": {
+            "question": "Recently in a small city, building contractors lobbied the city council to pass a law requiring all people\nworking on residential dwellings be licensed by the city. Why would the contractors lobby for this\nrequirement?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "30",
+        "fields": {
+            "question": "Ownership of a necessary input creates what type of barrier to entry?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "31",
+        "fields": {
+            "question": "An industry with a large number of firms, differentiated products, and free entry and exit is called",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "32",
+        "fields": {
+            "question": "In monopolistic competition, each firm supplies a small part of the market. This occurs because",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "33",
+        "fields": {
+            "question": "In monopolistic competition, the products of different sellers are assumed to be",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "34",
+        "fields": {
+            "question": "Which of the following is different about perfect competition and monopolistic competition?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "35",
+        "fields": {
+            "question": "In an industry with a large number of firms,",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "36",
+        "fields": {
+            "question": "Which of the following is an example of a monopolistically competitive industry?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "37",
+        "fields": {
+            "question": "All of the following are examples of product differentiation in monopolistic competition EXCEPT",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "38",
+        "fields": {
+            "question": "A differentiated product has",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "39",
+        "fields": {
+            "question": "As the degree of product differentiation increases among the products sold in a monopolistically competitive\nindustry, which of the following occurs?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "40",
+        "fields": {
+            "question": "Marketing consists of what?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "41",
+        "fields": {
+            "question": "Firms use marketing to",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "42",
+        "fields": {
+            "question": "If a monopolistically competitive seller can convince buyers that its product is of better quality and value than\nproducts sold by rival firms,",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "43",
+        "fields": {
+            "question": "If you have found the percentage of the value of sales accounted for by the four largest firms in an industry, you\nhave found the",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "44",
+        "fields": {
+            "question": "Which of the following four-firm concentration ratios would be the best indication of a perfectly competitive\nindustry?",
+            "type": "economic",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "45",
+        "fields": {
+            "question": "Which of the following four-firm concentration ratios is consistent with monopolistic competition?",
+            "type": "economic",
+            "trivia": 2
+        }
+    }
+]

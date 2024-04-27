@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.answer",
+        "pk": "1",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the passage, Lady Carlotta is \napproached by the \u201cimposingly attired lady\u201d Mrs. Quabarl while \nstanding at a train station (lines 32-35). Mrs. Quabarl assumes Lady \nCarlotta is her new nanny, Miss Hope: \u201cYou must be Miss Hope, the \ngoverness I\u2019ve come to meet\u201d (lines 36-37). Lady Carlotta does not \ncorrect Mrs. Quabarl\u2019s mistake and replies, \u201cVery well, if I must I must\u201d \n(line 39). \nChoices A, C, and D are incorrect because the passage is not about a \nwoman weighing a job choice, seeking revenge on an acquaintance, or \ndisliking her new employer.",
+            "question": "1"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "2",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 1-3, the narrator states that Lady \nCarlotta \u201cstepped out on to the platform of the small wayside station \nand took a turn or two up and down its uninteresting length\u201d in order \nto \u201ckill time.\u201d In this context, Lady Carlotta was taking a \u201cturn,\u201d or a \nshort walk, along the platform while waiting for the train to leave the \nstation. \nChoices A, B, and D are incorrect because in this context \u201cturn\u201d does \nnot mean slight movement, change in rotation, or course correction. \nWhile Lady Carlotta may have had to rotate her body while moving \nacross the station, \u201ctook a turn\u201d implies that Lady Carlotta took a short \nwalk along the platform\u2019s length.",
+            "question": "2"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "3",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 10-14, the narrator states that \nsome of Lady Carlotta\u2019s acquaintances would often admonish, or \ncriticize, Lady Carlotta for meddling in or openly expressing her \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\u00a9 2018 The College Board. College Board and SAT are registered trademarks of the College Board.",
+            "question": "3"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "4",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 10-14, the narrator states that \npeople often criticized Lady Carlotta and suggested that she not \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nThe fact that people often were critical of Lady Carlotta\u2019s behavior \nprovides evidence that Lady Carlotta was outspoken. \nChoices B, C, and D do not provide the best evidence that Lady \nCarlotta was outspoken. Choices B, C, and D mention Lady Carlotta, \nbut do not specify how others view her.",
+            "question": "4"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "5",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. Lines 4-10 establish that Lady Carlotta \nintervened on the part of a struggling horse, the kind of behavior for \nwhich, lines 10-14 indicate, she received \u201cplentiful admonition\u201d from \n\u201ccertain of her acquaintances,\u201d who believed that she should mind her \nown business. Lines 14-22 indicate that Lady Carlotta had \u201conly once . . . \nput the doctrine of non-interference into practice,\u201d and that was when \n\u201cone of its most eloquent exponents\u201d had been \u201cbesieged for nearly \nthree hours in a small and extremely uncomfortable may-tree by an \nangry boar-pig\u201d while Lady Carlotta blithely ignored the other woman\u2019s \nhypocritical pleas for interference. This incident provides insight into \nLady Carlotta\u2019s character and also evokes humor through language choice \n(e.g., the droll understatement of \u201cit is to be feared that [Lady Carlotta] lost \nthe friendship of the ultimately rescued lady\u201d; lines 22-23) and the sense \nthat, narratively speaking, justice has been served. \nChoice A is incorrect because nothing about the incident suggests \ndeception on Lady Carlotta\u2019s part. Choice B is incorrect because \nthere is nothing subtle about Lady Carlotta leaving another woman \nstuck in a tree for nearly three hours. Moreover, the passage does not \nsuggest that this was an act of cruelty on Lady Carlotta\u2019s part; rather, \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nwoman stuck in a tree exactly what the woman had so often asked for: \nnoninterference. Choice D is incorrect because the passage indicates \nthat Lady Carlotta was acting consistently with her beliefs and only \ninvoked the doctrine to teach a hypocritical person a lesson.",
+            "question": "5"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "6",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The narrator explains that Mrs. Quabarl \ntold Lady Carlotta about the \u201cnature of the charge\u201d when she gave Lady \nCarlotta details about the Quabarl children (line 53-61). Since Lady \nCarlotta is pretending to be a governess, the term \u201ccharge\u201d refers to her \nresponsibilities, or job duties, when caring for the Quabarl children.",
+            "question": "6"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "7",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. Lady Carlotta learns about Mrs. Quabarl\u2019s \nchildren Claude, Wilfrid, and Irene (lines 53-58). The narrator then \ndescribes Mrs. Quabarl\u2019s child Viola as \u201csomething or other else of a \nmould equally commonplace among children of that class and type in \nthe twentieth century\u201d (lines 58-61). This statement about Viola implies \nthat all of the Quabarl children have skills typical, or \u201cof a mould \nequally commonplace,\u201d to other peers in their social class. \nChoices B, C, and D are incorrect because the narrator does not \nindicate that all of the Quabarl children are unusually creative and \nintelligent, hostile to the idea of having a governess, or more educated \nthan their peers.",
+            "question": "7"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "8",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 62-69, Mrs. Quabarl explains \nto Lady Carlotta that she wants her children to actively participate in \ntheir education, and that Lady Carlotta should not create lessons that \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nMrs. Quabarl emphasizes an education centered on active engagement \nwhen she states that her children should \u201cnot only be TAUGHT . . . but \nINTERESTED in what they learn.\u201d \nChoices A, C, and D are incorrect because the narrator does not \nsuggest that Mrs. Quabarl favors an education that emphasizes \ntraditional values, artistic experimentation, or factual retention.",
+            "question": "8"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "9",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 77-82, the narrator describes \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ndomineering, but easily \u201ccowed and apologetic\u201d when someone \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nChoices A, C, and D are incorrect because the narrator does not \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "9"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "10",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 77-82, the narrator provides \nevidence that Mrs. Quabarl appears imposing, or autocratic, but is \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nare not seriously opposed. The least show of unexpected resistance \ngoes a long way towards rendering them cowed and apologetic.\u201d",
+            "question": "10"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "11",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. While the author predominantly \nsupports the use of public transportation, in the third paragraph he \nrecognizes some limitations to the public transportation system: it \nis a \u201cdepressing  experience\u201d (lines 25-26) and \u201cunderfunded, ill-\nmaintained, and ill-planned\u201d (line 31). \nChoices B, C, and D are incorrect because the third paragraph does \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nprovide an overview of a problem, or advocate ending the use of public \ntransportation.",
+            "question": "11"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "12",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The author notes that in North America \n\u201chopping in a car almost always gets you to your destination more \nquickly\u201d (lines 32-34). This statement suggests that speed is one \nadvantage to driving in North America. \nChoices A, B, and D are incorrect because the author does not cite \nenvironmental impact, convenience, or cost as advantages of driving in \nNorth America.",
+            "question": "12"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "13",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 32-34, the author provides \nevidence that speed is one advantage to driving in North America, \nbecause driving \u201calmost always gets you to your destination more \nquickly.\u201d \nChoices A, B, and C do not provide the best evidence that speed is \none advantage to driving in North America. Choices A and B are \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ntransportation. Choice C is incorrect because although these lines \nmention North America, they focus on the disadvantages of public \ntransportation.",
+            "question": "13"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "14",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The author argues in the fourth \nparagraph that public transportation \u201ccan be faster, more comfortable, \nand cheaper than the private automobile\u201d (lines 36-37) and provides \nexamples of fast and convenient public transportation systems. \nChoices A, C, and D are incorrect because they focus on points made \nin the fourth paragraph rather than the paragraph\u2019s central idea.",
+            "question": "14"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "15",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 35-37, the author provides \nevidence that some public transportation systems are superior \nto driving, because public transportation \u201ccan be faster, more \ncomfortable, and cheaper than the private automobile.\u201d \nChoices A, C, and D do not provide the best evidence that some public \ntransportation systems are superior to driving, as they highlight points \nmade in the fourth paragraph rather than the paragraph\u2019s central idea.",
+            "question": "15"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "16",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the last paragraph, the author explains \nthe trend that people who became adults around the end of the \ntwentieth century are more willing to use public transportation than \npeople from older generations. The author notes, \u201cIf you credit the \ndemographers, this transit trend has legs\u201d (lines 58-59). In this context, \n\u201ccredit\u201d means to believe the demographers\u2019 claims about the trend. \nChoices A, B, and D are incorrect because in this context, \u201ccredit\u201d does \nnot mean endow, attribute, or honor.",
+            "question": "16"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "17",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 59-63, the author explains the \ntrend of people who became adults around the end of the twentieth \ncentury \u201ctend[ing] to favor cities over suburbs.\u201d In this context, these \nadults \u201cfavor,\u201d or prefer, cities over suburbs. \nChoices A, C, and D are incorrect because in this context \u201cfavor\u201d does \nnot mean indulge, resemble, or serve.",
+            "question": "17"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "18",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 63-67, the author explains \nthat while riding on public transportation, people can use personal \nelectronic devices, such as \u201ciPads, MP3 players, Kindles, and \nsmartphones.\u201d \nChoices A, C, and D are incorrect because they do not show that \npublic transportation is compatible with the use of personal electronic \ndevices.",
+            "question": "18"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "19",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. Figure 1 shows that 10.7% of \npublic transportation passengers are students and 6.7% of public \ntransportation passengers are retirees. Thus, more students than \nretirees use public transportation. \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nemployed than unemployed people use public transportation and that \nmore employed people than homemakers use public transportation.",
+            "question": "19"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "20",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. Figure 1 shows that 72% of public \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nindicates that 59.1% of public transportation trips are for \u201cwork.\u201d It \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \npassengers take public transportation to their place of employment. \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nindicate that public transportation passengers primarily use the system \nto run errands, use their own car on weekends, or are planning to \npurchase a car.",
+            "question": "20"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "21",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The author explains that Ken Dial \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nthe unusual way Chukars use their \u201c\u2018wings and legs cooperatively\u2019\u201d \nto scale hay bales (lines 38-43), and he created \u201ca series of ingenious \nexperiments\u201d (line 46) to study this observation. After his additional \nexperiments, Dial determined that these baby birds angle \u201ctheir wings \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nthe sequence of events in the passage.",
+            "question": "21"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "22",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 6-9, the author explains that \nDial was \u201cchallenged,\u201d or dared, by graduate students to develop \u201cnew \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ntheory). \nChoices B, C, and D are incorrect because in this context \u201cchallenged\u201d \ndoes not mean required, disputed with, or competed with.",
+            "question": "22"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "23",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The author explains that Dial created his \ninitial experiment to try and create \u201cnew data on the age-old ground-\nup-tree-down debate,\u201d and that he looked for \u201cclues\u201d in \u201chow baby \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "23"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "24",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 6-11, the author provides \nevidence that Dial\u2019s central assumption in setting up his research is \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nto \u201ccome up with new data on the age-old ground-up-tree-down \ndebate.\u201d \nChoices A, C, and D do not provide the best evidence that Dial\u2019s central \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nChoices A, C, and D are incorrect because they focus on Dial\u2019s \nexperiment and his observations on ground birds.",
+            "question": "24"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "25",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. When a rancher observed Dial\u2019s \nlaboratory setup, he was \u201cincredulous\u201d that the Chukars were living on \nthe ground, and he advised Dial to give the birds \u201csomething to climb \non\u201d (lines 16-23). This \u201ckey piece of advice\u201d (line 14) led Dial to add \nhay bales to his laboratory. Dial later noticed that the Chukars were \nusing their legs and wings to scale the hay bales, and this observation \nbecame the focal point of his research. \nChoices A, B, and D are incorrect because the incident with the local \nrancher did not serve to reveal Dial\u2019s motivation for creating the \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "25"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "26",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The author explains that Dial\u2019s \u201caha \nmoment\u201d came when he determined the Chukars used \u201ctheir legs \nand wings cooperatively\u201d to scale the hay bales (lines 40-42). Dial \nthen created additional experiments to study how the birds dealt with \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ntextured ramps tilted at increasing angles\u201d (lines 46-48). \nChoices A, B, and D are incorrect because Dial\u2019s \u201caha moment\u201d was \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nresearchers.",
+            "question": "26"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "27",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. Dial observed that as the Chukars raced \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nagainst the ramp\u201d (lines 49-53). Dial determined that the position of \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nramps. \nChoices A, C, and D are incorrect because the passage does not \nindicate that the Chukars\u2019 speed, alternation of wing and foot \nmovement, or continual hopping motions facilitated their traction on \nsteep ramps.",
+            "question": "27"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "28",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 61-63, the author explains that \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nrunning, and went on to document it in a wide range of species.\u201d In \nthis context, Dial \u201cdocumented,\u201d or recorded, the existence of WAIR in \nnumerous bird species. \nChoices A, C, and D are incorrect because in this context, \u201cdocument\u201d \ndoes not mean to portray, publish, or process.",
+            "question": "28"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "29",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 70-74, the author explains that \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nassisted incline running. Since Chukars, a ground bird, use WAIR to \nhelp scale steep inclines, it can be reasonably inferred that gliding \nanimals do not use WAIR to aid in climbing slopes. \nChoices A, B, and C are incorrect because the passage does not \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nlocomotion, or their feeding habits.",
+            "question": "29"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "30",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 73-75, the author provides \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ndon\u2019t do.\u201d \nChoices A, B, and C do not provide the best evidence that gliding \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nchoices do not contain information about gliding animals.",
+            "question": "30"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "31",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 21-24, the authors of Passage 1 \nstate society\u2019s \u201ccommon happiness\u201d is dependent on women never \nbecoming involved in politics. In this context, the authors of Passage 1 \nare suggesting that all members of society can have a \u201ccommon,\u201d or \nshared, happiness.",
+            "question": "31"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "32",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 25-30, the authors of Passage 1 \nstate that women should seek \u201cgentle occupations and the cares of \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nunpleasant, or \u201conerous,\u201d tasks. \nChoices A, B, and D are incorrect because the authors of Passage 1 \ndo not suggest that running a household and raising children are \nrewarding for both sexes, yield less value for society, or require \nprofessional or political skills.",
+            "question": "32"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "33",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 25-30, the authors of Passage 1 \nprovide evidence that women should run households and raise children \nbecause these roles do not require \u201cstrenuous habits and onerous \nduties.\u201d \nChoices A, B, and D do not provide the best evidence that running \na household and raising children entail very few activities that are \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "33"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "34",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 41-46, Wollstonecraft argues that \nif women do not receive an education \u201cto become the companion of \nman,\u201d or one that is comparable to men\u2019s education, then society will \nnot progress in \u201cknowledge and virtue.\u201d \nChoices A, B, and C are incorrect because Wollstonecraft does not \nsuggest that society can progress only if women have happiness and \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \npower.",
+            "question": "34"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "35",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. Wollstonecraft argues that women \nshould be granted an education comparable to men\u2019s so that truth is \n\u201ccommon to all\u201d (lines 41-46). Wollstonecraft states that education \nwill \u201cstrengthen [women\u2019s] reason till she comprehend her duty\u201d \n(lines 49-50). In this context, Wollstonecraft is arguing that education \nwill improve women\u2019s \u201creason,\u201d or intellect, and allow women to \nconsider their role in society. \nChoices A, B, and D are incorrect because in this context \u201creason\u201d \ndoes not mean motive, sanity, or explanation.",
+            "question": "35"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "36",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 72-78, Wollstonecraft argues that \nthe laws passed by society\u2019s leaders allow men to \u201ccontend for their \nfreedom\u201d but serve to \u201csubjugate women.\u201d In this context, \u201csubjugate\u201d \nmeans to control. Wollstonecraft is arguing that society\u2019s leaders grant \nmen freedoms that are denied to women. \nChoices B, C, and D are incorrect because Wollstonecraft does not \nclaim that society\u2019s leaders have granted freedoms that created a \ngeneral reduction in individual virtue, caused arguments about \nhappiness, or ensured equality for all people.",
+            "question": "36"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "37",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 72-75, Wollstonecraft provides \nevidence that society\u2019s leaders grant freedoms that privilege men. \nShe argues that while society\u2019s leaders believe they \u201care acting in \nthe manner best calculated to promote [women\u2019s] happiness,\u201d their \ndecisions don\u2019t allow women to \u201ccontend for their freedom.\u201d \nChoices A, B, and C do not provide the best evidence that society\u2019s \nleaders grant freedoms that privilege men over women.",
+            "question": "37"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "38",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. Wollstonecraft cites the statement made \nby the authors of Passage 1 that excluding women from political \nparticipation is \u201caccording to abstract principles . . . impossible to \nexplain\u201d (lines 61-65). Wollstonecraft then states that if the authors of \nPassage 1 can discuss \u201cthe abstract rights of man\u201d they should be able \nto discuss the abstract rights of women (lines 66-69). In these lines, \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nreasoning presented by the authors of Passage 1. \nChoices A, B, and D are incorrect because Wollstonecraft does not refer \nto the statement made in Passage 1 to call into question the authors\u2019 \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nown government (sentence one of Passage 1), or validate the authors\u2019 \nconclusions on gender roles.",
+            "question": "38"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "39",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The authors of Passage 1 argue that \nwhile restricting women\u2019s freedoms may be \u201cimpossible to explain\u201d \n(line 7), this restriction is necessary for society\u2019s overall happiness \n(lines 13-17). Wollstonecraft, however, strongly challenges this \nargument, asking the authors of Passage 1, \u201cWho made man the \nexclusive judge\u201d of which freedoms are granted to women, and likening \nsociety\u2019s male leaders to tyrants as they deny women their \u201ccivil and \npolitical rights\u201d and leave them \u201cgroping in the dark\u201d (lines 78-88). \nChoices B, C, and D are incorrect because they do not characterize the \noverall relationship between Passage 1 and Passage 2.",
+            "question": "39"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "40",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The authors of Passage 1 admit that \nwomen are \u201cexcluded by the other half [men] from any participation in \ngovernment\u201d (lines 1-2), and Wollstonecraft states that society\u2019s male \nleaders create laws that deny women \u201ccivil and political rights\u201d (line 86). \nChoices A, B, and C are incorrect because the authors of both \npassages would not agree that women had the same preferences as \nmen, required a good education, or were as happy as men.",
+            "question": "40"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "41",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nparagraph of Passage 2 that society\u2019s male leaders are like \u201ctyrants\u201d \nthat deny women \u201ccivil and political rights\u201d (lines 81-88). The authors \nof Passage 1 would most likely argue that allowing women these \nrights would be \u201ca reversal of [society\u2019s] primary destinies\u201d as society\u2019s \nleaders should only seek women\u2019s interests as they pertain to the \n\u201cwishes of nature,\u201d such as women\u2019s role as mothers (lines 18-30). \nThe authors of Passage 1 clarify that \u201cnature\u201d created two sexes for a \nparticular reason, so while men can exercise civil and political rights, \nwomen are not naturally suited to these activities (lines 30-36). \nChoices B and C are incorrect because they are not supported by \ninformation in Passage 1. Choice D is incorrect because the authors of \nPassage 1 do not mention \u201cnatural law,\u201d only the \u201cwishes of nature.\u201d",
+            "question": "41"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "42",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. When discussing problems with bee \ncolonies, the authors use phrases like \u201cwe suspect\u201d (line 19) and \u201cwe \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ncolonies\u2019 susceptibility to mite infestations. The use of \u201ccan,\u201d \u201cmay,\u201d \nand \u201ccould\u201d creates a tentative tone and provides further evidence that \nthe authors believe, but are not certain, that their hypothesis is correct. \nChoices A, B, and D are incorrect because the authors\u2019 use of \u201ccan,\u201d \n\u201cmay,\u201d and \u201ccould\u201d does not create an optimistic, dubious, or critical \ntone.",
+            "question": "42"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "43",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 24-28, the authors hypothesize \nthat bee colonies will be susceptible to mite infestations if they do not \noccasionally feed on pyrethrum producing plants. In lines 42-46, they \nsuggest creating a trial where a \u201csmall number of commercial honey \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ntest their hypothesis.",
+            "question": "43"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "44",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 24-28, the authors provide \nevidence that a bee colony may be more resistant to mite infections \nif the bees eat pyrethrums because this diet may help prevent bees \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nlines 42-50, the authors suggest testing this hypothesis in a trial on \nhoneybees. \nChoices A, B, and C do not describe any of the authors\u2019 hypotheses.",
+            "question": "44"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "45",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The authors explain that when \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nmite infections, they may \u201cfurther weaken\u201d bees that are \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nChoices A, B, and C are incorrect because the authors do not suggest \nthat beekeepers\u2019 use of commercially produced insecticides increases \nmite populations, kills bacteria, or destroys bees\u2019 primary food source.",
+            "question": "45"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "46",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 31-35, the authors provide \nevidence that beekeepers\u2019 use of commercially produced insecticides \nmay cause further harm to \u201cimmunocompromised or nutritionally \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nChoices A, B, and D are incorrect because they do not provide the best \nevidence that beekeepers\u2019 use of commercially produced insecticides \nmay be harmful to bees; choices A, B, and D focus on mite infestations\u2019 \nimpact on honeybees.",
+            "question": "46"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "47",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In lines 31-35, the authors argue that \nbeekeepers\u2019 use of insecticides to control mite infestations may be \nharmful to some bees. The authors then state, \u201cWe further postulate \nthat the proper dosage necessary to prevent mite infestation may \nbe better left to the bees\u201d (lines 35-37). In this context, the authors \n\u201cpostulate,\u201d or put forth the idea that the bees may naturally control \nmite infestations better than insecticides. \nChoices A, C, and D are incorrect because in this context, \u201cpostulate\u201d \ndoes not mean to make an unfounded assumption, question a belief or \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "47"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "48",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In the fourth paragraph the authors \npropose a trial to study if honeybees\u2019 consumption of pyrethrum \nproducing plants helps the honeybees defend against mite infestations. \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nboth pyrethrum producing plants and \u201ca typical bee food source \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nsusceptibility to mite infestations. \nChoices A, C, and D are incorrect because the main purpose of the \nfourth paragraph is not to summarize the results of an experiment, \nprovide a comparative nutritional analysis, or predict an outcome of an \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+            "question": "48"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "49",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 43-45, the authors propose a \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \nproducing plants, as well as a typical bee food source such as clover.\u201d \nSince the authors contrast the \u201cpyrethrum producing plants\u201d with \nclover, a \u201ctypical bee food source,\u201d it can be assumed that clover does \nnot produce pyrethrums. \nChoice B is incorrect because it is stated in the passage. Choices C \nand D are incorrect because they are not assumptions made by the \nauthors.",
+            "question": "49"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "50",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The table shows that 77 percent of the \nhoneybee colonies with colony collapse disorder were infected by all \nfour pathogens. \nChoices A, C, and D are incorrect because they do not identify the \npercent of honeybee colonies with colony collapse disorder that were \ninfected by all four pathogens as based on data in the table.",
+            "question": "50"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "51",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The table shows that 81 percent of \n\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \npathogen \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd. \nChoices A, B, and C are incorrect because they do not identify the \npathogen that infected the highest percentage of honeybee colonies \nwithout colony collapse disorder as based on data in the table.",
+            "question": "51"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "52",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The table discusses pathogen occurrence \nin honeybee colonies, but it includes no information as to whether \nthese honeybees were infected with mites. Because the table does not",
+            "question": "52"
+        }
+    }
+]

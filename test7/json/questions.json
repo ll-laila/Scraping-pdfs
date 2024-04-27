@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.question",
+        "pk": "1",
+        "fields": {
+            "question": "Which choice best describes a major theme of the\npassage?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "2",
+        "fields": {
+            "question": "As compared with Silas\u2019s gold, Eppie is portrayed as\nhaving more",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "3",
+        "fields": {
+            "question": "Which statement best describes a technique the\nnarrator uses to represent Silas\u2019s character before he\nadopted Eppie?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "4",
+        "fields": {
+            "question": "The narrator uses the phrase \u201cmaking trial of\neverything\u201d (line 7) to present Eppie as",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "5",
+        "fields": {
+            "question": "According to the narrator, one consequence of Silas\nadopting Eppie is that he",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "6",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "7",
+        "fields": {
+            "question": "What function does the second paragraph\n(lines 30-52) serve in the passage as a whole?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "8",
+        "fields": {
+            "question": "In describing the relationship between Eppie and\nSilas, the narrator draws a connection between\nEppie\u2019s",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "9",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "10",
+        "fields": {
+            "question": "As used in line 65, \u201cfine\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "11",
+        "fields": {
+            "question": "The main purpose of the passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "12",
+        "fields": {
+            "question": "According to Brynjolfsson and McAfee,\nadvancements in technology since approximately the\nyear 2000 have resulted in",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "13",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "14",
+        "fields": {
+            "question": "The primary purpose of lines 26-28 (\u201cthe amount . . .\nlabor\u201d) is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "15",
+        "fields": {
+            "question": "As used in line 35, \u201cclear\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "16",
+        "fields": {
+            "question": "Which of the following best characterizes Katz\u2019s\nattitude toward \u201ctoday\u2019s digital technologies\u201d\n(lines 81-82)?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "17",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "18",
+        "fields": {
+            "question": "As used in line 83, \u201crange\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "19",
+        "fields": {
+            "question": "According to figure 1, which of the following years\nshowed the widest gap between percentages of\nproductivity and employment?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "20",
+        "fields": {
+            "question": "Which statement is supported by figure 2?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "21",
+        "fields": {
+            "question": "Which additional information, if presented in\nfigure 2, would be most useful in evaluating the\nstatement in lines 57-60 (\u201cProductivity . . . jobs\u201d)?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "22",
+        "fields": {
+            "question": "The main purpose of the passage is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "23",
+        "fields": {
+            "question": "The author includes the quotation \u201cAir gets pretty\nunpredictable behind a flapping wing\u201d\n(lines 17-18) to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "24",
+        "fields": {
+            "question": "What can reasonably be inferred about the reason\nUsherwood used northern bald ibises as the subjects\nof his study?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "25",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "26",
+        "fields": {
+            "question": "What is the most likely reason the author includes\nthe 30 cm measurement in line 30?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "27",
+        "fields": {
+            "question": "What does the author imply about pelicans, storks,\nand geese flying in a V formation?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "28",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "29",
+        "fields": {
+            "question": "What is a main idea of the seventh paragraph\n(lines 62-73)?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "30",
+        "fields": {
+            "question": "The author uses the phrase \u201caerodynamic sweet spot\u201d\nin line 63 most likely to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "31",
+        "fields": {
+            "question": "As used in line 72, \u201cripple\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "32",
+        "fields": {
+            "question": "As used in line 9, \u201craise\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "33",
+        "fields": {
+            "question": "In Passage 1, Tocqueville implies that treatment of\nmen and women as identical in nature would have\nwhich consequence?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "34",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "35",
+        "fields": {
+            "question": "As used in line 53, \u201cdominion\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "36",
+        "fields": {
+            "question": "In Passage 2, Mill most strongly suggests that gender\nroles are resistant to change because they",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "37",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "38",
+        "fields": {
+            "question": "Both authors would most likely agree that the\nchanges in gender roles that they describe would be",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "39",
+        "fields": {
+            "question": "Tocqueville in Passage 1 would most likely\ncharacterize the position taken by Mill in lines 65-69\nin Passage 2 (\u201cLet . . . them\u201d) as",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "40",
+        "fields": {
+            "question": "Which choice best describes the ways that the\ntwo authors conceive of the individual\u2019s proper\nposition in society?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "41",
+        "fields": {
+            "question": "Based on Passage 2, Mill would most likely say that\nthe application of the \u201cgreat principle of political\neconomy\u201d (lines 38-39, Passage 1) to gender roles has\nwhich effect?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "42",
+        "fields": {
+            "question": "Over the course of the passage, the main focus\nshifts from",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "43",
+        "fields": {
+            "question": "The main purpose of the analogy of the ping-pong\nball (line 40) is to",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "44",
+        "fields": {
+            "question": "The author most strongly suggests that the reason the\nscientific community initially rejected Higgs\u2019s idea\nwas that the idea",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "45",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "46",
+        "fields": {
+            "question": "The author notes that one reason Higgs\u2019s theory\ngained acceptance was that it",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "47",
+        "fields": {
+            "question": "Which choice provides the best evidence for the\nanswer to the previous question?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "48",
+        "fields": {
+            "question": "Which statement best describes the technique the\nauthor uses to advance the main point of the last\nparagraph?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "49",
+        "fields": {
+            "question": "As used in line 77, \u201cestablished\u201d most nearly means",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "50",
+        "fields": {
+            "question": "What purpose does the graph serve in relation to the\npassage as a whole?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "51",
+        "fields": {
+            "question": "Which statement is best supported by the data\npresented in the graph?",
+            "type": "reading",
+            "trivia": 2
+        }
+    },
+    {
+        "model": "trivia.question",
+        "pk": "52",
+        "fields": {
+            "question": "Based on the graph, the author\u2019s depiction of Higgs\u2019s\ntheory in the mid-1980s is most analogous to which\nhypothetical situation?",
+            "type": "reading",
+            "trivia": 2
+        }
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "model": "trivia.answer",
+        "pk": "1",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In the first paragraph the reader is introduced to Nawab, a father of twelve \ndaughters who feels compelled to make more money to care for his family: \u201che must proliferate his \nsources of revenue\u201d (lines 6-7). The remainder of the paragraph focuses on the way Nawab attempts to \n\u201cproliferate\u201d those income sources by identifying some of the moneymaking schemes Nawab \nundertakes, including setting up a flour mill and a fish farm and attempting to fix both radios and \nwatches.  \nChoice A is incorrect because even if the first paragraph does indicate that Nawab is willing to work hard \nto take care of his family, it does not specifically address how he interacts with his daughters \nemotionally. Choice B is incorrect because the first paragraph describes some of Nawab\u2019s activities but \nnot the specifics of his schedule. Choice D is incorrect because the first paragraph introduces Harouni as \nNawab\u2019s employer but does not describe his lifestyle.",
+            "question": "1"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "2",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The passage states that Nawab earned \u201cmore kicks than kudos\u201d (line 16) \nfor his failed attempts at fixing watches. In the context of not doing a job well, this means Nawab was \nnot given compliments (\u201ckudos\u201d) for his efforts but complaints (\u201ckicks\u201d) about them. \nChoices A and D are incorrect because the passage clearly states that Nawab was not successful fixing \nwatches, which earned him a negative response (\u201ckicks,\u201d or complaints). In this context it would be \nillogical to suggest that Nawab\u2019s unsuccessful efforts at fixing watches would result in the sort of \npositive response implied by choice A (\u201cthrills\u201d) or choice D (\u201cinterests\u201d). Choice C is incorrect because \neven though \u201cjolts\u201d might be unpleasant, they\u2019re not the kind of negative response one would get \ninstead of compliments.",
+            "question": "2"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "3",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The passage states that Nawab works \u201clike an engineer tending the boilers \non a foundering steamer in an Atlantic gale\u201d (lines 26-28) in his attempts to keep his employer \ncomfortable. The author likely uses this image because it highlights the challenging nature of Nawab\u2019s \nwork\u2014work that is described in the next sentence as requiring \u201csuperhuman efforts\u201d (line 28).",
+            "question": "3"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "4",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer because lines 28-32 show that Nawab is an efficient employee, stating that \ndue to his \u201csuperhuman efforts,\u201d Nawab is able to keep his employer comfortable, or in almost \u201cthe \nsame mechanical cocoon . . . that the landowner enjoyed in Lahore.\u201d \nChoice B is incorrect because lines 40-42 describe the actions of Nawab\u2019s employer only and do not \naddress the employer\u2019s feelings about Nawab\u2019s work. Choice C is incorrect because lines 46-49 show \nNawab characterizing himself as an old and ineffective employee, not one who performs his job well. \nChoice D is incorrect because line 58 addresses the fact Nawab had always lived in his employer\u2019s \nhousehold but not his effectiveness as an employee.",
+            "question": "4"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "5",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The main purpose of Nawab\u2019s comments in lines 43-52 is to highlight the \nlabor and service he has provided for Harouni over the years. Nawab says \u201cthere is but one man, me, \nyour servant\u201d to take care of the tube wells on all Harouni\u2019s vast lands and that the extensive work has \nresulted in Nawab earning gray hairs on his employer\u2019s behalf. \nChoice A is incorrect because even though lines 43-52 initially highlight the vastness of Harouni\u2019s lands, \nthose lines primarily focus on Nawab\u2019s dedication and service to Harouni. Choice B is incorrect because \nlines 43-52 emphasize not that Nawab is competent and reliable but that Nawab feels he is no longer \nable to adequately fulfill his duties. Choice D is incorrect because in lines 43-52, Nawab doesn\u2019t say he \nintends to quit his job, asking instead only for help doing it.",
+            "question": "5"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "6",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 61-62, Nawab says to his employer that he \u201ccannot any longer \nbicycle about like a bridegroom from farm to farm.\u201d In this context, Nawab uses the word \u201cbridegroom\u201d \nto imply he is no longer a young man who can easily travel such great distances on his bike. \nChoices A, B, and C are incorrect because in the context of Nawab not being able to bike so far, he uses \nthe word \u201cbridegroom\u201d to imply that he is no longer young, not that he is no longer in love (choice A), \nnaive (choice B), or busy (choice C).",
+            "question": "6"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "7",
+        "fields": {
+            "answer": "B",
+            "description": "",
+            "question": "7"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "8",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks why Harouni purchases his employee Nawab a \nnew motorcycle, with the correct answer (that Harouni did so because it was in his own best interest) \nsupported in lines 66-68: \u201cHe didn\u2019t particularly care one way or the other, except that it touched on his \ncomfort\u2014a matter of great interest to him.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "8"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "9",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage states that Nawab\u2019s new motorcycle leads to the \u201cdisgust of \nthe farm managers\u201d (line 74). \nChoices B, C, and D are incorrect because the passage specifically says Nawab\u2019s new motorcycle leads to \nthe \u201cdisgust of the farm managers,\u201d not their happiness (choice B), envy (choice C), or indifference \n(choice D).",
+            "question": "9"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "10",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The passage specifically states what Nawab considers the greatest part of \nhis getting a new motorcycle: \u201cBest of all, now he could spend every night with his wife\u201d (lines 81-82). \nChoices A, B, and C are incorrect because the passage explicitly states that Nawab believes the best \nthing about his new motorcycle is that he can \u201cspend every night with his wife,\u201d not that people start \ncalling him \u201cUncle\u201d (choice A), that he is able to expand his business (choice B), or that he is able to \neducate his daughters (choice C).",
+            "question": "10"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "11",
+        "fields": {
+            "answer": "B",
+            "description": "",
+            "question": "11"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "12",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. Although the passage initially states that traditional news authorities were \nonce implicitly \u201ctrusted\u201d (line 29) regarding the content they produced, it goes on to note that \u201cas part \nof the general process of the transformation of authority . . . the demand has been for all authority to \nmake explicit the frames of value which determine their decisions\u201d (lines 33-38). The modern audience, \nin other words, wants to hear not only the stories a news organization produces but also the values that \nform the foundation of that organization\u2019s beliefs. \nChoices A, B, and C are incorrect because lines 33-38 make clear that the expectation traditional \nauthorities now face is the need to \u201cmake explicit the frames of value which determine their decisions,\u201d \nnot that they shouldn\u2019t be affected by commercial interests (choice A), that they should work for the \ncommon good (choice B), or that they should consider the context of public versus private knowledge \n(choice C).",
+            "question": "12"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "13",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks what expectation traditional authorities now \nface, with the answer being that they must make their perspectives or beliefs clear to the audience. This \nis supported in lines 33-38: \u201cAs part of the general process of the transformation of authority . . . the \ndemand has been for all authority to make explicit the frames of value which determine their decisions.\u201d \nChoices A, B, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "13"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "14",
+        "fields": {
+            "answer": "C",
+            "description": "",
+            "question": "14"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "15",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. Two quotes are provided in lines 43-53, one highlighting the way editors \nwork differently in modern times due to the demands of the audience and one offering an opinion \nabout the perceived negative effects of that new reality of news. Those extended quotations were \nadded by the authors most likely because they provide concrete examples of how some journalists feel \nabout modern news dissemination. \nChoice A is incorrect because the two quotations provided in lines 43-53 are not contradictory: the first \noffers a description of how news editors work differently in modern times, and the second describes \nhow certain changes might affect news stories or the audience. Choices C and D are incorrect because \nthe two quotations illustrate how some feel about the way the dissemination of news might be changing \nand are not used to either criticize or make suggestions.",
+            "question": "15"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "16",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage explains that although the major news organizations were \nonce considered \u201ctrusted shapers\u201d (line 29) of public knowledge, that perception is changing due to the \n\u201cgrowing feeling . . . that the news media should be \u2018informative rather than authoritative\u2019; the job of \njournalists should be to \u2018give the news as raw as it is, without putting their slant on it\u2019; and people \nshould be given \u2018sufficient information\u2019 from which \u2018we would be able to form opinions of our own\u2019\u201d \n(lines 70-77). In other words, the audience now wants raw facts about the world, not facts constructed \nin support of a certain opinion. \nChoice B is incorrect because the passage presents the public as wanting information without any slant \non it, not as wanting only a limited amount of information. Choices C and D are incorrect because the \npassage does not specifically identify the public\u2019s feelings about including quotations from authorities in \nnews stories or how they would want journalists to handle private details that the subjects of news \nstories do not want revealed.",
+            "question": "16"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "17",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks what the public is beginning to believe should \nbe avoided in news stories, with the answer being the personal opinions or feelings of journalists. This is \nsupported in lines 70-77: \u201cThere is a growing feeling . . . that the news media should be \u2018informative \nrather than authoritative\u2019; the job of journalists should be to \u2018give the news as raw as it is, without",
+            "question": "17"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "18",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In lines 73-75, the passage states the modern belief that \u201cthe job of \njournalists should be to \u2018give the news as raw as it is, without putting their slant on it.\u2019\u201d In this context, \nthe word \u201craw\u201d means unfiltered or in its most basic state. \nChoices B, C, and D are incorrect because in the context of news without any \u201cslant on it,\u201d the word \n\u201craw\u201d implies something unfiltered, not something unprotected or uncovered (choice B), severe \n(choice C), or untried or unproven (choice D).",
+            "question": "18"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "19",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The table shows that in 1985, 55% of respondents believed news \norganizations \u201cget the facts straight,\u201d which was the highest percentage for that choice for any of the \nyears provided. \nChoices B, C, and D are incorrect because the table shows that the percentage of respondents who \nbelieved news organizations \u201cget the facts straight\u201d was smaller in 1992 (49%), 2003 (36%), and 2011 \n(25%) than in 1985 (55%).",
+            "question": "19"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "20",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The table shows that from 2003 to 2007, the percentage of people who \nbelieved news organizations \u201cget the facts straight\u201d rose only minimally, from 36 to 39%, while their \nperception of the independence and fairness of those organizations changed not at all, remaining at \n23% and 26%, respectively. \nChoice A is incorrect because the table indicates viewers\u2019 perceptions of the accuracy of news \norganizations but does not identify how many inaccurate news stories there were in any of the years \nlisted. Choice B is incorrect because the number of people who believe news organizations \u201ctend to \nfavor one side\u201d did not double between 1992 and 2003, rising only from 63% to 66%. Choice D is \nincorrect because the table shows that between 2007 and 2011, people\u2019s perception of the accuracy of \nnews organizations decreased rather than increased, dropping from 39% to 25%.",
+            "question": "20"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "21",
+        "fields": {
+            "answer": "C",
+            "description": "",
+            "question": "21"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "22",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The first paragraph of the passage identifies and describes \u201cTexas gourd \nvines\u201d (line 1), but the primary focus of the passage is introduced in the first sentence of the second \nparagraph: \u201cIn one recent study, Nina Theis and Lynn Adler took on the specific problem of the Texas \ngourd\u2014how to attract enough pollinators but not too many beetles\u201d (lines 17-20). The remainder of the \npassage focuses on describing the purpose, process, and results of the recent research done on those \nTexas gourd vines. \nChoice A is incorrect because the passage doesn\u2019t focus on the assumptions behind a theory but rather \non the way in which that theory was tested. Choice C is incorrect because the passage does not present \nmuch conflicting data; most of it supports the idea there can be too much fragrance for the Texas gourd \nvine. Choice D is incorrect because the passage explains the procedures used in a study were \u201c\u2019very \nlabor intensive\u2019\u201d (line 58) but does not present them as particularly innovative.",
+            "question": "22"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "23",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage says that to test their hypothesis, the scientists \u201cplanted \n168 Texas gourd vines in an Iowa field\u201d (lines 33-34) and then ultimately walked \u201cfrom flower to flower, \nobserving each for two-minute intervals\u201d (lines 62-63). Because they gathered data by looking at and \nstudying the plants in question, the scientists\u2019 research is best characterized as relying on direct \nobservation. \nChoices B, C, and D are incorrect because lines 62-63 make clear that the research emphasized direct \nobservation, not historical data (choice B), expert testimony (choice C), or random sampling (choice D).",
+            "question": "23"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "24",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The passage states that by using the smell of their nectar to lure pollinators \nlike bees, Texas gourd vines are employing an \u201c\u2019open communication network\u2019\u201d that attracts \u201c\u2019not just \nthe good guys, but . . . also . . . the bad guys\u2019\u201d (lines 7-10). Because cucumber beetles are then identified \nas some of \u201cthe very bad guys\u201d (line 12) as far as the Texas gourd plant is concerned, it can be inferred \nthat both the beetles and the bees are attracted to the same scent.",
+            "question": "24"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "25",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The author indicates that it is reasonable to think that the Texas gourd \nplants might lure more pollinators if their smell was stronger. This is clear from lines 26-27, which state \nthat \u201cintuition suggests that more of that aroma should be even more appealing to bees.\u201d \nChoices A and D are incorrect because lines 26-27 support the idea that it was initially thought that \nTexas gourd vines could lure more pollinators through \u201cmore of that aroma,\u201d not by lacking an aroma \n(choice A) or giving off a more varied aroma (choice D). Choice B is incorrect because bees are the only \npollinators specifically discussed in the passage, and there is no suggestion that targeting other insects \nwould attract more bees.",
+            "question": "25"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "26",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The passage explains that as part of their research the scientists \u201cmade half \nthe plants more fragrant by tucking dimethoxybenzene-treated swabs deep inside their flowers. Each \ntreated flower emitted about 45 times more fragrance than a normal one\u201d (lines 35-39). In this context, \na flower that was \u201ctreated\u201d would be one that was changed or altered. \nChoices B, C, and D are incorrect because in the context of a flower having a compound like \ndimethoxybenzene added to it, the word \u201ctreated\u201d means changed or altered, not returned to normal \n(choice B), given (choice C), or kept for future use (choice D).",
+            "question": "26"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "27",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In the passage Theis surmises that honey bees were likely repelled not by \nthe enhanced fragrance of the dimethoxybenzene-treated flowers but \u201cby the abundance of beetles\u201d \n(lines 71-72) found on them. She was able to make that assumption because the honey bees were able \nto choose between both normal flowers and fragrance-enhanced flowers without any beetles on them, \nbecause one of the parameters of the research was that \u201cevery half hour throughout the experiments, \nthe team plucked all the beetles off of half the fragrance-enhanced flowers and half the control flowers, \nallowing bees to respond to the blossoms with and without interference by beetles\u201d (lines 45-50). \nChoice A is incorrect because the passage states only that the scientists observed the bees and beetles \non the flowers as soon as they opened (lines 59-61), not both before and after they opened. Choice B is",
+            "question": "27"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "28",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The previous question asks what Theis and Adler did to allow Theis to \ntheorize that the bees were repelled not by the enhanced fragrance of certain flowers but by the \nexcessive number of beetles on them, with the answer (they give the bees the chance to visit both \nnormal and fragrance-enhanced flowers that did not have beetles on them) being supported in lines 45-\n50: \u201cSo every half hour throughout the experiments, the team plucked all the beetles off of half the \nfragrance-enhanced flowers and half the control flowers, allowing bees to respond to the blossoms with \nand without interference by beetles.\u201d \nChoices B, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "28"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "29",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The first six paragraphs (lines 1-64) of the passage introduce a plant (the \nTexas gourd vine) and its problem (luring enough insects to pollinate it but not too many of those that \nwill harm it) and then describe a study undertaken to deal with \u201cthe specific problem of the Texas \ngourd\u2014how to attract enough pollinators but not too many beetles\u201d (lines 18-20). After the specifics of \nthat experiment are described in detail, the results are explained and summarized in the seventh and \neighth paragraphs (lines 65-84): \u201cWhat they saw was double the normal number of beetles. . . . Squash \nbees were indifferent, and honey bees visited enhanced flowers less often. . . . That added up to less \nreproduction for fragrance-enhanced flowers\u201d (lines 65-76).  \nChoice B is incorrect because Theis and Adler\u2019s hypothesis (that more fragrance would make the flowers \n\u201ceven more appealing to bees,\u201d line 27) is found in the third paragraph (lines 26-40). Choice C is \nincorrect because Theis and Adler\u2019s methods are described in the third through sixth paragraphs (lines \n26-64), not the seventh and eighth (lines 65-84). Choice D is incorrect because the seventh and eighth \nparagraphs detail the results in an experiment but do not focus on the researchers\u2019 reasoning.",
+            "question": "29"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "30",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. To be \u201cindifferent\u201d is to be apathetic, or without care or concern. In the \ncontext of an experiment that tested whether or not insects preferred normally scented flowers or ones",
+            "question": "30"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "31",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. Theis and Adler\u2019s research clearly provided an answer to the question of \nwhy there is an upper limit on the intensity of the aroma emitted by Texas gourd plants, as their \nexperiment was described as being able to \u201cprovide a reason that Texas gourd plants never evolved to \nproduce a stronger scent\u201d (lines 85-86). \nChoice A is incorrect because Theis and Adler\u2019s research was not able to show how to increase pollinator \nvisits to the Texas gourd vine, as the results of their experiment showed that \u201cpollinators, to their \nsurprise, did not prefer the highly scented flowers\u201d (lines 67-68). Choice C is incorrect because Theis and \nAdler\u2019s research was not able to explain how hand pollination rescued fruit weight, a finding the passage \ndescribes as \u201ca hard-to-interpret result\u201d (line 83). Choice D is incorrect because the passage never \nindicates that the flowers stop producing fragrance when beetles are present.",
+            "question": "31"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "32",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks what question from among the answer choices \nTheis and Adler\u2019s research was able to answer regarding Texas gourd vines. The answer (they \ndetermined why there was an upper limit to the amount of fragrance produced) is supported in lines 85-\n86: \u201cThe new results provide a reason that Texas gourd plants never evolved to produce a stronger \nscent.\u201d \nChoices A, B, and C are incorrect because the lines cited do not support the answer to the previous",
+            "question": "32"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "33",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In Passage 1, Lincoln asserts that citizens of the United States should never \nbreak the laws of their land, for any reason, because to do so undermines the nation\u2019s values. This is \nclearly demonstrated when he says, \u201clet every man remember that to violate the law, is to trample on \nthe blood of his father, and to tear the character of his own, and his children\u2019s liberty\u201d (lines 9-12).",
+            "question": "33"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "34",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. The previous question asks what Lincoln believes is the result of breaking \nthe laws, with the answer being that such actions undermine a nation\u2019s values. This is supported in lines \n9-12: \u201clet every man remember that to violate the law, is to trample on the blood of his father, and to \ntear the character of his own, and his children\u2019s liberty.\u201d \nChoices B, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "34"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "35",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In lines 24-25, Lincoln says, \u201cI so pressingly urge a strict observance of all \nthe laws.\u201d In this context, the word \u201curge\u201d most nearly means advocate, because when Lincoln urges \npeople to obey the laws, he is pleading in favor of them doing so. \nChoices A and C are incorrect because in the context of lines 24-25 (\u201cI so pressingly urge a strict \nobservance of all the laws\u201d), to urge that laws be followed is to advocate for them to be obeyed, not to \nspeed up such adherence (choice A) or make such adherence necessary (choice C). Choice B is incorrect \nbecause Lincoln is asking people to follow the laws but not directly causing people to obey them.",
+            "question": "35"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "36",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. After advocating for citizens \u201cnever to violate in the least particular, the \nlaws of the country\u201d (lines 3-4), Lincoln begins the second paragraph by making another point: \u201cWhen I \nso pressingly urge a strict observance of all the laws, let me not be understood as saying there are no \nbad laws, nor that grievances may not arise, for the redress of which, no legal provisions have been \nmade\u201d (lines 24-28). This sentence is an attempt on Lincoln\u2019s part to make clear what could be a \nmisunderstanding of his position (\u201clet me not be understood\u201d) and to correct that possible \nmisunderstanding. Lincoln doesn\u2019t want people to believe he is saying all laws are always good, but \nrather that those laws need to be followed as long as they are on the books.",
+            "question": "36"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "37",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In the passage Lincoln states his belief that any laws that \u201ccontinue in \nforce, for the sake of example, they should be religiously observed\u201d (lines 31-32). In this context, \n\u201cobserved\u201d most nearly means followed, as Lincoln is urging citizens to heed or follow the country\u2019s \nlaws. \nChoices B, C, and D are incorrect because in the context of Lincoln advocating that laws be religiously \n\u201cobserved,\u201d he means those laws should be followed, not that they should be studied closely (choice B), \nconsidered at length (choice C), or merely recognized (choice D).",
+            "question": "37"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "38",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. Passage 2 begins with Thoreau\u2019s statement that \u201cunjust laws exist\u201d \n(line 45). His philosophy regarding how to deal with those unjust laws is evident in lines 58-59: \u201cIf the \ninjustice is part of the necessary friction of the machine of government, let it go, let it go.\u201d Thoreau \nbelieves, in other words, that some injustices are an unfortunate part of normal governance and just \nneed to be endured (\u201clet it go, let it go\u201d). \nChoice A is incorrect because Thoreau does not say some unjust aspects of government can be fixed \neasily or that they are merely superficial. Choice B is incorrect because Thoreau does not argue that \nsuch injustices are subtle and should be studied, but rather that in certain cases it is best to \u201clet it go, let \nit go\u201d (line 59), while in other cases one should act or \u201cbreak the law\u201d (line 66). Choice C is incorrect \nbecause Thoreau does not say that any such unjust aspects of government are beneficial or helpful.",
+            "question": "38"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "39",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. The previous question asks what Thoreau feels about some unjust aspects \nof government, with the answer being that he finds them inevitable and something that needs to be \nendured. This is supported in lines 58-59: \u201cIf the injustice is part of the necessary friction of the machine \nof government, let it go, let it go.\u201d \nChoices A, B, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "39"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "40",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In Passage 1, Lincoln makes clear his belief that individuals should always \nheed the laws: \u201cLet every American . . . swear . . . never to violate in the least particular, the laws of the \ncountry\u201d (lines 1-4). Even bad laws, he states, \u201cwhile they continue in force, for the sake of example, \nthey should be religiously observed\u201d (lines 30-32). In Passage 2, Thoreau is less rigid in his beliefs \nregarding the need for individuals to heed the laws of the country, arguing at times that some laws \nshould be broken: \u201cbut if it is of such a nature that it requires you to be the agent of injustice to another, \nthen, I say, break the law\u201d (lines 64-66). While Lincoln and Thoreau can therefore be said to disagree \nabout the moral imperative to follow existing laws, both passages advance an opinion regarding the \nneed to follow or not follow all of the country\u2019s laws. \nChoice A is incorrect because the passages are not making arguments about differences between legal \nduties and moral imperatives but rather are addressing the need to follow (or not) the laws of a land. \nChoice B is incorrect. Both passages address the question of changing existing laws in the United States, \nbut that is only a minor part of what is a greater debate about the need to follow or not follow existing \nlaws. Choice D is incorrect because neither passage addresses the standards for determining whether or \nnot laws are just, only whether laws should be heeded or not.",
+            "question": "40"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "41",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. In Passage 2, Thoreau says that if a law \u201cis of such a nature that it requires \nyou to be the agent of injustice to another, then, I say, break the law\u201d (lines 64-66). It is clear from \nPassage 1 that Lincoln would reject this stance, as he says individuals should never break the law (\u201cLet \nevery American . . . swear . . . never to violate in the least particular, the laws of the country,\u201d lines 1-4) \nand should wait for a bad law to be repealed (\u201cbad laws, if they exist, should be repealed . . . still while \nthey continue . . . they should be religiously observed,\u201d lines 29-32). \nChoices A and C are incorrect because in Passage 1, Lincoln is absolutely clear that all laws \u201cshould be \nreligiously observed\u201d (line 32); he does not describe anyone\u2019s suggestion to break the law as either \nexcusable (choice A) or honorable (choice C). Choice D is incorrect because it is not supported by the \npassage, as Lincoln does not discuss the core principles of the Constitution in Passage 1.",
+            "question": "41"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "42",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. In Passage 1, Lincoln uses abolitionism solely as an example to illustrate the \nargument he is making about heeding the law: \u201cIn any case that arises, as for instance, the promulgation \nof abolitionism, one of two positions is necessarily true\u201d (lines 37-39). In Passage 2, Thoreau does the \nsame thing by noting that \u201cthose who call themselves Abolitionists should at once effectually withdraw \ntheir support . . . from the government\u201d (lines 79-82). Although Lincoln and Thoreau use the cause of \nabolitionism to argue different points, a commonality they share is that neither embraces the cause \npersonally in the passage; Lincoln simply uses it as an example (\u201cas for instance\u201d) while Thoreau \nspecifically talks of other people \u201cwho call themselves Abolitionists.\u201d",
+            "question": "42"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "43",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. In lines 10-17, the passage illustrates how the cost of solar energy has \ndropped in recent years: \u201cA few years ago, silicon solar panels cost $4 per watt. . . . \u2018Now it\u2019s down to \nsomething like 50 cents a watt, and there\u2019s talk of hitting 36 cents per watt.\u2019\u201d In lines 44-47, the passage \ndescribes some of the new technology that exists in the field: \u201cMeanwhile, researchers at the National \nRenewable Energy Laboratory have made flexible solar cells on a new type of glass from Corning called \nWillow Glass, which is thin and can be rolled up.\u201d Overall, the passage can be regarded as an objective \noverview of the solar panel industry delivered by a journalist covering the field. \nChoices A and D are incorrect because the author does not present himself as either a consumer who \nplans to buy solar panels or a hobbyist with a personal interest in solar panel technology. Rather, the \nauthor focuses on developments in solar technology. Choice B is incorrect because the passage does not \ndiscuss research methods used in the solar panel field but rather the technologies that exist in the field.",
+            "question": "43"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "44",
+        "fields": {
+            "answer": "A",
+            "description": "Choice A is the best answer. In the context of describing the solar panel manufacturing industry as \nbeing \u201cin the doldrums because supply far exceeds demand\u201d (lines 2-3), saying it is currently a \u201cpoor\u201d \nmarket implies it is a weak, or slow, market. \nChoices B, C, and D are incorrect because in the context of describing the solar panel manufacturing \nindustry as being \u201cin the doldrums,\u201d saying it is a poor market implies it is a weak market, not a modest \none (choice B), a pathetic one (choice C), or an outdated one (choice D).",
+            "question": "44"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "45",
+        "fields": {
+            "answer": "C",
+            "description": "Choice C is the best answer. It can reasonably be inferred that much of the solar panel industry believes \ncurrent solar technology is too expensive and inefficient because the passage states that the industry \nhas been working to improve those two things: \u201cAll parts of the silicon solar panel industry have been \nlooking for ways to cut costs and improve the power output of solar panels, and that\u2019s led to steady cost \nreductions\u201d (lines 27-30). \nChoice A is incorrect because the passage explains how solar panels work but never states or implies \nthat consumers do not understand the technology. Choice B is incorrect because while the passage \nexplains how two-sided solar cells can increase solar electric output, it does not suggest that they have",
+            "question": "45"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "46",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. The previous question asks what can be inferred from the passage about \nbeliefs in the solar panel industry, with the answer being that many in the industry believe current solar \ntechnology is too expensive and too inefficient. This is supported in lines 27-30: \u201cAll parts of the silicon \nsolar panel industry have been looking for ways to cut costs and improve the power output of solar \npanels, and that\u2019s led to steady cost reductions.\u201d \nChoices A, B, and C are incorrect because the lines cited do not support the answer to the previous",
+            "question": "46"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "47",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The passage clearly states how two-sided solar panels will increase the \nefficiency of solar electricity units, explaining that they will be able to absorb excess reflected light, \nespecially if those panels are built on sand: \u201cThat light reflects onto the back of the panels and could be \nharvested to increase the power output\u201d (lines 61-62). \nChoices A, C, and D are incorrect because the passage explains only that two-sided solar panels can raise \nefficiency by harvesting reflected light, not that they can raise efficiency because they take little energy \nto operate (choice A), are cost-effective (choice C), or keep sunlight from reaching the ground \n(choice D).",
+            "question": "47"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "48",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The previous question asks how two-sided solar panels can raise the \nefficiency of solar electricity units, with the answer being they can increase solar power input by \ncatching excess reflected light. This is supported in lines 61-62: \u201cThat light reflects onto the back of the \npanels and could be harvested to increase the power output.\u201d \nChoices A, C, and D are incorrect because the lines cited do not support the answer to the previous",
+            "question": "48"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "49",
+        "fields": {
+            "answer": "D",
+            "description": "",
+            "question": "49"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "50",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. The passage concludes by stating that \u201cthe challenge is to produce good \nconnections between these semiconductors, something made challenging by the arrangement of silicon \natoms in crystalline silicon\u201d (lines 81-84). As this last sentence identifies an issue the solar panel industry \nstill faces, and describes it as a \u201cchallenging\u201d one at that, it mainly serves to identify a problem or hurdle \nthat must be dealt with by the industry. \nChoices A, C, and D are incorrect because the main point of the passage\u2019s last sentence is that there is a \n\u201cchallenge\u201d or hurdle that the solar panel industry has to deal with; it doesn\u2019t express concerns about \nwhat a material won\u2019t be able to do (choice A), make predictions (choice C), or introduce a new idea for \nstudy (choice D).",
+            "question": "50"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "51",
+        "fields": {
+            "answer": "D",
+            "description": "Choice D is the best answer. Figure 2 shows that in 2009, the US average electricity cost per megawatt-\nhour (MWh) was $120. Of the projected 2017 energy costs for fuels listed in figure 1, the one closest to \nthe 2009 US average electricity cost 120 dollars per megawatt-hour is the projected cost of advanced \nnuclear energy, estimated at just below 125 dollars per megawatt-hour. \nChoices A, B, and C are incorrect because figure 1 shows the projected energy costs of natural gas, wind \n(onshore), and conventional coal as just below 75 dollars per megawatt-hour, 100 dollars per \nmegawatt-hour, and approximately 105 dollars per megawatt-hour, respectively. None of these costs is \nas close to the 2009 US average electricity cost of 120 dollars per megawatt-hour as the projected 2017 \ncost of advanced nuclear energy, which is just below 125 dollars per megawatt-hour.",
+            "question": "51"
+        }
+    },
+    {
+        "model": "trivia.answer",
+        "pk": "52",
+        "fields": {
+            "answer": "B",
+            "description": "Choice B is the best answer. Figure 2 shows that the dropping cost of solar photovoltaic power per \nmegawatt-hour is projected to intersect with the 2009 US average electricity cost of 120 dollars per \nmegawatt-hour in the year 2020.",
+            "question": "52"
+        }
+    }
+]
